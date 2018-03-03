@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ $section := .Paginate (where .Data.Pages "Section" "post") }}
+<div class="home" id="home">
+  <h1 class="pageTitle">Recent Posts</h1>
+  <ul class="posts noList">
+    {{ range  $section.Pages }}
+      <li>
+        <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
+        <h3><a class="post-link" href="{{ .URL }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary }}</p>
+      </li>
+    {{ end }}
+  </ul>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {{ template "_internal/pagination.html" }}
+  </div>
+</div>
+{{ end }}
