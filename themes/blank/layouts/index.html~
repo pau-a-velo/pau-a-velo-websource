@@ -1,6 +1,5 @@
 {{ define "main" }}
 	{{ partial "header.html" .}}
-	{{partial "nav.html" .}}
 	<main>
 	{{ partial "posts.html" . }}
 	
