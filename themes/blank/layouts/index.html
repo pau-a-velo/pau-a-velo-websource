@@ -1,6 +1,7 @@
 {{ define "main" }}
+   {{ partial "nav.html" .}}	
 	{{ partial "header.html" .}}
-	{{partial "nav.html" .}}
+	
 	<main>
 	{{ partial "posts.html" . }}
 	
@@ -9,4 +10,9 @@
 	</main>
 	{{ partial "sidebar.html" . }}
 	{{ partial "footer.html" . }}
+	
+{{ end }}
+
+{{ define "js" }}
+<script  src="{{ .Site.BaseURL }}js/jquery.nav.js"></script>
 {{ end }}
