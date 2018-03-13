@@ -15,7 +15,6 @@
 
 {{ define "js" }}
 <script  src="{{ .Site.BaseURL }}js/jquery.nav.js"></script>
-<!-- script pour les cards effects -->
  <script>   window.console = window.console || function(t) {};</script>
  <script>   if (document.location.search.match(/type=embed/gi)) {window.parent.postMessage("resize", "*"); }</script>
  
