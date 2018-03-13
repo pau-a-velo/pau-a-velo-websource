@@ -1,10 +1,20 @@
-<div class="container">
+
+<section class="intro">
+<div class="content">
+<div class="container">	
+
 		<h1>POSTS</h1>
+		
 		{{ $posts := first .Params.postcount (where .Site.RegularPages "Type" "post") }}
 		{{ range $posts }}
 		  {{ partial "summary.html" . }}
 		{{ end }}
+
 </div>
+</div>
+</section>
+<section class="intro">
+<div class="content">
 	{{ $posts_len := len (where .Site.RegularPages "Type" "post") }}
 	{{ if or true (gt $posts_len .Params.postcount) }}
 	<p class="view-all">
@@ -13,4 +23,6 @@
 	    <i class="fa fa-angle-double-right"></i>
 	  </a>
 	</p>
-	{{ end }}
+	{{ end }}+
+	</div>
+</section>
