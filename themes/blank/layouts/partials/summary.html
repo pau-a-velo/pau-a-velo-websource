@@ -1,15 +1,15 @@
 
 <div class="card">
-		<img src="../img/trainers-Girl_mini.png">
-			<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-		<time>{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
-		{{ range .Params.tags }}<img src="trainers-Girl_mini.png" alt="" />
-		<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+	<img src="../img/trainers-Girl_mini.png">
+		<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+	<time>{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
+	{{ range .Params.tags }}<img src="trainers-Girl_mini.png" alt="" />
+	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+	{{ end }}
+	<div>
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a href="{{ .Permalink }}">Read more...</a>
 		{{ end }}
-			<div>
-				{{ .Summary }}
-				{{ if .Truncated }}
-					<a href="{{ .Permalink }}">Read more...</a>
-				{{ end }}
-			</div>
 	</div>
+</div>

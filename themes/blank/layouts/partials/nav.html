@@ -1,18 +1,18 @@
 <nav>
   <div class="logo">
-   <h1><a href="{{ .Site.BaseURL }}"><img src="../img/logopav.jpg"></a></h1>
-   </div>
+   <h1><a href="{{ .Site.BaseURL }}#"><img src="{{ .Site.BaseURL }}/img/logopav.png" alt="Pau à Vélo"></a></h1>
+  </div>
   <ul>
     <li><a href="#">Item 1</a></li>
     <li><a href="#">Item 2</a></li>
     <li><a href="#">Item 3</a></li>
     <li><a href="#">Item 4</a></li>
-    
-			
+
+
 				{{ range .Site.Menus.main }}
 				<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
 				{{ end }}
-		
-		
+
+
   </ul>
 </nav>

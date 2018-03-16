@@ -57,9 +57,10 @@ nav {
   position: fixed;
   width: 100%;
   z-index: 10;
-}
-nav.scrolled {
   background: rgba(17, 17, 17, 0.9);
+}
+nav.overheader{
+  background:transparent;
 }
 nav ul {
   float: right;
@@ -81,37 +82,41 @@ nav a:hover {
   color: #ededed;
 }
 
-.logo {
+nav .logo {
     float: left;
 }
-.logo:before, .logo:after {
-  position: absolute;
- 
+
+nav .logo>h1{
+  margin:0;
+  padding:0;
 }
 
 /* pour les sections ------*/
-section {
-  width: 100%;
-  padding: 0 7%;
-  display: table;
-  margin: 0;
-  max-width: none;
-  background-color: #ffffff;
-  height: 100vh;
+main {
+  padding: 0;
+  margin:0 auto;
 }
+
+main article {
+  padding-top:75px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: #f8f8f8;
+  width:100%;
+}
+
 section:nth-of-type(2n) {
   background-color: #ecb05b;
 }
- .intro{
-  	height:100vh;
+
+section .container {
+  padding:20px;
 }
- .intro1{
- 	height:80vh;}
-.content {
-  display: table-cell;
-  vertical-align: middle;
-  }
- 
+
+
 @-webkit-keyframes fade-in {
   0% {
     opacity: 0;
@@ -132,25 +137,15 @@ section:nth-of-type(2n) {
 
 /* pour les effects over cards----------------*/
 /* Card hover effect début*/
-.container {
-	color:#000000;
-   width: 1090px;
-  min-width: 600px;
-  height: 100px;
-  position: relative;
-  top: -20%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-}
+
 .card {
    letter-spacing: 0.03em;/*gr*/
   line-height: 1.6;/*gr*/
   background-color: #ffffff;/*gr*/
-margin:0% 2% 2% 2%;  
-  width: 20%;
+  margin:2%;
+  width: 29%;
   height: 430px;
-  float: left;
+  display: inline-block;
   border-radius: 8px;
   -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
           box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
@@ -160,9 +155,7 @@ margin:0% 2% 2% 2%;
   text-align: center;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
-}
-.container .card:nth-child(2) {
-  margin: 0 0px;
+  text-decoration:none;
 }
 .container .card:hover {
   top: -15px;
