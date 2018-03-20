@@ -1,9 +1,12 @@
 
 <div class="card">
-	<img src="../img/trainers-Girl_mini.png">
-		<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-	<time>{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
-	{{ range .Params.tags }}<img src="trainers-Girl_mini.png" alt="" />
+	{{ with (.Resources.ByType "image").GetMatch "header.*" }}
+		{{ $image := .Fill "320x240 Top" }}
+		<img src="{{ $image.RelPermalink }}" />
+  {{ end }}
+	<time datetime="{{ .Date }}">{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
+	<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+	{{ range .Params.tags }}
 	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 	{{ end }}
 	<div>
