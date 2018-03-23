@@ -1,24 +1,23 @@
 
-<section class="intro">
+<section class="posts">
 	<div class="container">
-		<h1>POSTS</h1>
-		{{ $posts := first .Params.postcount (where .Site.RegularPages "Type" "post") }}
+		{{/* La liste des premiers articles
+		(le nombre est déterminé par postcount dans le fichier de configuration) */}}
+		<h1>Articles</h1>
+		{{ $posts := first .Params.postcount (where .Site.RegularPages "Type" "posts") }}
+		{{ $posts_len := len (where .Site.RegularPages "Type" "posts") }}
 		{{ range $posts }}
-		  {{ partial "summary.html" . }}
+		  {{ partial "card.html" . }}
 		{{ end }}
 
-	</div>
-</section>
-<section class="intro">
-	<div class="container">
-		{{ $posts_len := len (where .Site.RegularPages "Type" "post") }}
+		{{/* Les mots clés */}}
+		{{ partial "tag-cloud.html" . }}
+
+		{{/* Le lien pour afficher tous les articles */}}
 		{{ if or true (gt $posts_len .Params.postcount) }}
 		<p class="view-all">
-		  <a href="/post/">
-		    Tous les articles
-		    <i class="fa fa-angle-double-right"></i>
-		  </a>
+		  <a href="/posts/">Afficher tous</a>
 		</p>
-		{{ end }}+
+		{{ end }}
 	</div>
 </section>

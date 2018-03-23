@@ -1,12 +1,15 @@
 {{ define "main" }}
-	{{ partial "header.html" . }}
+	{{ partial "nav.html" . }}
 		<main>
-			{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+			<h1>{{ .Title }}</h1>
+			{{ if eq .Section "post" }}
+				{{ partial "tag-cloud.html" . }}
+			{{ end }}
+			{{ $paginator := .Paginate .Data.Pages }}
 			{{ range $paginator.Pages }}
-				{{ partial "summary.html" . }}
+				{{ partial "card.html" . }}
 			{{ end }}
 			{{ partial "pagination.html" . }}
 		</main>
-	{{ partial "sidebar.html" . }}
 	{{ partial "footer.html" . }}
 {{ end }}

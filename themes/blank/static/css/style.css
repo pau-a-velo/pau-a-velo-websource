@@ -93,12 +93,11 @@ nav .logo>h1{
 
 /* pour les sections ------*/
 main {
-  padding: 0;
+  padding: 75px 0 0 0;
   margin:0 auto;
 }
 
 main article {
-  padding-top:75px;
   max-width: 800px;
   margin: 0 auto;
 }

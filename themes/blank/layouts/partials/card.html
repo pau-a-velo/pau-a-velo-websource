@@ -4,12 +4,13 @@
 		{{ $image := .Fill "320x240 Top" }}
 		<img src="{{ $image.RelPermalink }}" />
   {{ end }}
-	<time datetime="{{ .Date }}">{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
-	<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-	{{ range .Params.tags }}
-	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-	{{ end }}
-	<div>
+	<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+	<div class="meta">
+		<time datetime="{{ .Date }}">{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
+		{{- with .Params.author }}, <span class="author">{{ . }}</span>{{ end }}
+	</div>
+
+	<div class="summary">
 		{{ .Summary }}
 		{{ if .Truncated }}
 			<a href="{{ .Permalink }}">Read more...</a>

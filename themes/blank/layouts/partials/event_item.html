@@ -1,0 +1,17 @@
+<div class="event-list-item">
+		<div class="event-info">
+			<div class="event-date">
+				<p class="event-start">{{ .Date.Day }} {{ partial "short_month" . }}</p>
+			</div>
+			<div class="event-description">
+				<div class="event-header">
+					<a href="{{ .Permalink }}"><h1 class="event-title">{{ .Title }}</h1></a>
+					<p class="event-location">{{ .Params.lieu }}</p>
+					<p class="event-time">{{ .Params.horaire }}</p>
+				</div>
+				<div class="event-excerpt">
+					{{ .Summary }}
+				</div>
+			</div>
+		</div>
+	</div>

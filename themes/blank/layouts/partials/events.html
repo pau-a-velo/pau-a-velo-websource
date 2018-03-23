@@ -1,0 +1,12 @@
+
+<section class="events">
+  <div class="container">
+    <h1>Agenda</h1>
+    {{ range where .Site.RegularPages.ByDate "Type" "events" }}
+
+    {{ if ge .Date.Unix (now.AddDate 0 0 -1).Unix }}
+      {{ partial "event_item.html" . }}
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
