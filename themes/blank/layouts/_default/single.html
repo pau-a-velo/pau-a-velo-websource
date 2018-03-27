@@ -3,7 +3,7 @@
 		<main>
 			<article>
 				{{ with (.Resources.ByType "image").GetMatch "header.*" }}
-					<img src="{{ .RelPermalink }}"/>
+					<img src="{{ .Name }}"/>
 				{{ end }}
 				<h1>{{ .Title }}</h1>
 				<time datetime="{{.Date}}">{{ .Date.Format "2 January 2006" }}</time>

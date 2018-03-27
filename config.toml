@@ -1,6 +1,8 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://fubicy.org/pau/"
+relativeURLs = true
+# canonifyURLs  = true
 # Title of your site
 title = "Pau à Vélo"
 author = "Pau à Vélo"
