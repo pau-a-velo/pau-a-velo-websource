@@ -1,0 +1,23 @@
+# The URL of your website.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl : "http://fubicy.org/pau/"
+relativeURLs : true
+canonifyURLs : true
+# Title of your site
+title : "Pau à Vélo"
+author : "Pau à Vélo"
+theme : "blank"
+
+params:
+  author = "Sébastien Lamy"
+
+menu:
+  main:
+    - name: "Agenda"
+      url: "/#agenda"
+    - name: "Blog"
+      url: "/#blog"
+    - name: "Services"
+      url: "/#services"
+    - name: "À propos"
+      url: "/#a-propos"

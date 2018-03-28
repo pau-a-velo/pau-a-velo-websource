@@ -1,3 +1,3 @@
 +++
-title = "Tous les articles"
+title = "Tous les articles du blog"
 +++
