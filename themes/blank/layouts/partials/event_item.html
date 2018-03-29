@@ -1,20 +1,32 @@
-<div class="event-list-item">
-		<div class="event-info">
-			<div class="event-date">
-				<p class="event-start">{{ .Date.Day }} {{ partial "short_month" . }}</p>
-			</div>
-			<div class="event-description">
-				<div class="event-header">
-					<a href="{{ .Permalink }}"><h1 class="event-title">{{ .Title }}</h1></a>
-					<p class="event-location">{{ .Params.lieu }}</p>
-					<p class="event-time">{{ .Params.horaire }}</p>
-				</div>
-				<div class="event-excerpt">
-					{{ .Summary }}
-					{{ if .Truncated }}
-						<a href="{{ .Permalink }}">Lire la suite...</a>
-					{{ end }}
-				</div>
+<div class="pure-u-1 pure-u-md-1-2">
+<div class="event-list-item pure-g">
+	<div class="event-info pure-u-1">
+		<div class="pure-g">
+		<div class="event-date pure-u-1-2 pure-u-xl-1-5">
+			<p class="event-start">
+				<span class="day-month">{{ .Date.Day }} {{ partial "short_month" . }}</span>
+				<span class="year">{{ .Date.Year }}</span>
+			</p>
+		</div>
+		<div class="event-description pure-u-1 pure-u-xl-4-5">
+			<div class="event-header">
+				{{ with (.Resources.ByType "image").GetMatch "header.*" }}
+					{{ $image := .Fit "531x531" }}
+					<img src="{{ $image.Permalink }}" style="width:100%" />
+				{{ end }}
+				<a href="{{ .Permalink }}"><h2 class="event-title">{{ .Title }}</h2></a>
+				<p class="event-location">{{ .Params.lieu }}</p>
+				<p class="event-time">{{ .Params.horaire }}</p>
 			</div>
 		</div>
+		</div>
+
 	</div>
+	<div class="event-excerpt pure-u-1">
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a href="{{ .Permalink }}">Lire la suite...</a>
+		{{ end }}
+	</div>
+</div>
+</div>

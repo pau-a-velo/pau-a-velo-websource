@@ -3,7 +3,7 @@
 	<div class="container">
 		{{/* La liste des premiers articles
 		(le nombre est déterminé par postcount dans le fichier de configuration) */}}
-		<h1 id="blog">Blog</h1>
+		<h1 id="blog" class="section-title">Blog</h1>
 		{{ $posts := first .Params.postcount (where .Site.RegularPages "Type" "posts") }}
 		{{ $posts_len := len (where .Site.RegularPages "Type" "posts") }}
 		{{ range $posts }}
