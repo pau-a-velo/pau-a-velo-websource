@@ -1,19 +1,12 @@
+{{ $display_summary := .Scratch.Get "card_display_summary" }}
 
 <div class="card">
-	{{ with (.Resources.ByType "image").GetMatch "header.*" }}
-		{{ $image := .Fill "480x180" }}
-		<img src="{{ $image.Permalink }}" />
-  {{ end }}
-	<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-	<div class="meta">
-		<time datetime="{{ .Date }}">{{ .Date.Day }} {{ partial "short_month" . }} {{ .Date.Year }}</time>
-		{{- with .Params.author }}, <span class="author">{{ . }}</span>{{ end }}
-	</div>
-
-	<div class="summary">
-		{{ .Summary }}
-		{{ if .Truncated }}
-			<a href="{{ .Permalink }}">Lire la suite...</a>
+	{{ partial "cards/image.html" . }}
+	<div class="card-text">
+		{{ partial "cards/title.html" . }}
+		{{/* On ne met pas le résumé si on est dans les suggestions d'un autre article  */}}
+		{{ if $display_summary }}
+			{{ partial "cards/summary.html" . }}
 		{{ end }}
 	</div>
 </div>
