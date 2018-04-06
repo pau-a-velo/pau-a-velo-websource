@@ -1,7 +1,8 @@
 ---
 title: "Nous avons exigé une passerelle accessible à tous"
 date: 2018-03-13T16:02:43+02:00
-tags: ["voie verte", "media", "rassemblement", "accessibilité"]
+author: "Sébastien Lamy"
+tags: ["voie verte", "media", "rassemblement", "accessibilité", "passerelle"]
 ---
 Le **dimanche 4 mars 2018**, nous étions environ 150 à nous réunir à [l'appel
 initié par Pau à vélo](/events/rassemblement-passerelle-ubuzanos) et soutenu
@@ -12,7 +13,8 @@ par 4 autres associations:
 *   Handisport,
 *   Ville partagée.
 
-![](manif.jpg)
+![](img/manif.jpg)
+
 Nous avons pu présenter au public [le projet d'accessibilité élaboré par Pau à
 Vélo](/docs/livret-projet.pdf).
 Pour la journée, un monument symbolique éphémère a été monté sur place pour
@@ -25,9 +27,9 @@ volonté de contribuer à améliorer la situation, en empruntant si possible la
 solution proposée par Pau à Vélo. M. Capéran devrait convier dans la semaine les
 associations à une réunion à ce sujet.
 
-![](monument.png)
+![](img/monument.png)
 
-![](monument2.png)
+![](img/monument2.png)
 
 Des textes avaient été prévus pour l'occasion et ont pu être lus sur place (ou
 pas, il y a eu un couac d'organisation sur le sujet dont a été victime l'AF3V)
