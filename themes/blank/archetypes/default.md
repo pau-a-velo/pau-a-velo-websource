@@ -1,6 +1,6 @@
-+++
-title = ""
-date = {{ .Date }}
-author = ""
-tags = []
-+++
+---
+title: "{{ .Name }}"
+date: {{ .Date }}
+author: ""
+tags:
+---
