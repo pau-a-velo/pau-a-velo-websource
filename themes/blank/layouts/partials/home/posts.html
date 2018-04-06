@@ -1,0 +1,27 @@
+<section class="blog">
+		{{/* La liste des premiers articles
+		(le nombre est déterminé par postcount dans le fichier de configuration) */}}
+		<h1 id="blog" class="section-title">Blog</h1>
+		{{ partial "up_arrow" }}
+		{{ $posts := first .Params.postcount (where .Site.RegularPages "Type" "posts") }}
+		{{ $posts_len := len (where .Site.RegularPages "Type" "posts") }}
+		<div class="pure-g list-posts">
+			{{/* Les vignettes d'article */}}
+			{{ range $posts }}
+				<div class="card-container pure-u-1 pure-u-md-1-2 pure-u-xl-1-3">
+					{{ .Scratch.Set "card_display_summary" true }}
+					{{ partial "cards/generic.html" . }}
+				</div>
+			{{ end }}
+				{{/* Les mots clés */}}
+			<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1-3">
+				{{ partial "tag-cloud.html" . }}
+			</div>
+		</div>
+		{{/* Le lien pour afficher tous les articles */}}
+		{{ if or true (gt $posts_len .Params.postcount) }}
+		<div class="view-all">
+			<a class="pure-button pure-button-primary" href="/posts/">... Voir tous les articles</a>
+		</div>
+		{{ end }}
+</section>

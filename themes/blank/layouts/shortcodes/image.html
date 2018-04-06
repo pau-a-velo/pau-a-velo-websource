@@ -1,0 +1,13 @@
+{{ $image := (.Page.Resources.ByType "image").GetMatch (.Get "src") }}
+{{ $caption := .Get "caption" }}
+{{ with $image }}
+  {{ $thumbnail := cond (ge .Width 720) (.Resize "720x") . }}
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    {{ with $caption }}
+    <figcaption itemprop="caption description">{{ . }}</figcaption>
+    {{ end }}
+	  <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
+	      <img src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" />
+	  </a>
+	</figure>
+{{ end }}

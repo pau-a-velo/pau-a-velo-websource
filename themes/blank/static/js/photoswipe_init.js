@@ -20,7 +20,12 @@ var parseThumbnailElements = function(el) {
             continue;
         }
 
-        linkEl = figureEl.children[0]; // <a> element
+        if(figureEl.children.length > 1) {
+            linkEl = figureEl.children[1]; // <a> element
+        }
+        else{
+            linkEl = figureEl.children[0];
+        }
 
         size = linkEl.getAttribute('data-size').split('x');
 
@@ -30,13 +35,14 @@ var parseThumbnailElements = function(el) {
             w: parseInt(size[0], 10),
             h: parseInt(size[1], 10)
         };
-
-
-
         if(figureEl.children.length > 1) {
             // <figcaption> content
-            item.title = figureEl.children[1].innerHTML;
+            item.title = figureEl.children[0].innerHTML;
         }
+
+
+
+
 
         if(linkEl.children.length > 0) {
             // <img> thumbnail element, retrieving thumbnail url

@@ -1,8 +1,10 @@
+@import "http://weloveiconfonts.com/api/?family=fontawesome";
+
 body {
   margin: 0;
   padding: 0;
   color: #444;
-  background-color: #f8f8f8;
+  background-color: #333;
   font-size:18px;
 }
 
@@ -10,120 +12,43 @@ body {
     body{font-size: 14px;}
 }
 
-
-
 h1,h2,h3{
   line-height:1.2
 }
-
-
-/*************************************************
-Home header image
-**************************************************/
-.headline {
-  position: relative;
-  height: 100vh;
-  color: #ffffff;
-  text-align: center;
-  background: url("../home.jpg")no-repeat center center;
- /* background: url("https://farm9.staticflickr.com/8088/8363737128_b76782c7a2_b.jpg") no-repeat center center;*/
-  background-size: cover;
-}
-.headline:after {
-  position: absolute;
-  content: '';
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(17, 17, 17, 0.25);
-}
-
-.inner {
-  width:50em;
-  position: absolute;
-  top: 55%;
-  left: 50%;
-  opacity: 0;
-  z-index: 10;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-          transform: translateX(-50%) translateY(-50%);
-  -webkit-animation: fade-in 0.75s 0.25s ease-in forwards;
-          animation: fade-in 0.75s 0.25s ease-in forwards;
-}
-.inner h1 {
-  margin: 0;
-  font-size: 3.5em;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-.inner p {
-  margin: 0;
-  font-size: 2em;
-  font-style: italic;
-  font-family: serif;
-  line-height: 1.2;
-}
-@-webkit-keyframes fade-in {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-@keyframes fade-in {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-/*Parallax*/
-.parallax{
-  perspective: 1px;
-  height: 100vh;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-main {
-  transform: translateZ(0);
-}
-header {
-  transform: translateZ(-1px) scale(2);
-}
-
 
 /*********************************************
 Main menu bar
 **********************************************/
 .custom-wrapper {
     position:absolute;
-    z-index:100;
+    z-index:10;
     width:100%;
     -webkit-font-smoothing: antialiased;
-    background-color: rgba(17,17,17,0.5);
 }
 .custom-menu-3 {
   text-align:right;
 }
-.custom-wrapper.no-header {
+nav.no-header {
   position:relative;
+  background-color: #333;
 }
 nav h1{
   margin:0;
-  padding:0.2em 0.3em;
   text-transform: uppercase;
+  display: inline;
 }
-nav h1 img{vertical-align: bottom;}
-.pure-menu-heading {
-  display:inline;
-  padding-top:0.5em;
-}
+nav h1 img{vertical-align: bottom;padding:0.2em;}
 .pure-menu-horizontal {
   white-space: normal;
+}
+nav h1 img, nav .pure-menu-list{
+  background-color: rgba(17,17,17,0.5);
+}
+nav h1 img:hover{
+  background-color: rgba(17,17,17,0.7);
+}
+nav.no-header h1 img, nav.no-header .pure-menu-list{
+  background: transparent;
 }
 #menu a{
   color:#fff;
@@ -151,6 +76,103 @@ nav h1 img{vertical-align: bottom;}
     }
 }
 
+
+/*************************************************
+Header image
+**************************************************/
+
+/* Homepage header image*/
+
+.headline {
+  position: relative;
+  height: 100vh;
+  color: #ffffff;
+  text-align: center;
+  background: url("../home.jpg")no-repeat center center;
+ /* background: url("https://farm9.staticflickr.com/8088/8363737128_b76782c7a2_b.jpg") no-repeat center center;*/
+  background-size: cover;
+}
+/* .headline:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(17, 17, 17, 0.25);
+} */
+
+.inner {
+  width:100%;
+  padding:1em 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  background: rgba(17, 17, 17, 0.6);
+  /* opacity: 0; */
+  z-index: 10;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+  -webkit-animation: fade-in 0.75s 0.25s ease-in forwards;
+          animation: fade-in 0.75s 0.25s ease-in forwards;
+}
+.inner h1 {
+  margin: 0;
+  font-size: 3.5em;
+  font-weight: normal;
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+}
+.inner p {
+  margin: 0;
+  font-size: 2em;
+  font-style: italic;
+  font-family: serif;
+  line-height: 1.2;
+}
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Article header image*/
+div.header-img{
+  text-align: center
+}
+div.header-img img{
+  max-width: 100%;
+  max-height: 60%;
+}
+
+/*Parallax (ralentit trop la page)*/
+/* .parallax{
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+main {
+  transform: translateZ(0);
+}
+header {
+  transform: translateZ(-1px) scale(2.05);
+} */
+
+
+
+
 /**************************************************
 Sections
 ****************************************************/
@@ -158,14 +180,6 @@ Sections
 main {
   padding:0;
   margin:0 auto;
-}
-
-main article {
-  max-width:650px;
-  line-height:1.5;
-  font-size:1.1em;
-  padding:0 10px;
-  margin: 0 auto;
 }
 
 section {
@@ -182,45 +196,147 @@ section:nth-of-type(2n) {
 section h1{
   padding: 0 2%;
   width:96%;
-}
-
-
-/************************************************
- Mise en forme des évènements
-*************************************************/
-h1.section-title {
+  margin-bottom: 0;
+  padding-bottom: 0.2em;
   font-size: 3em;
   text-align: center;
   position: relative;
   z-index: 1;
-  padding-bottom: 0.5em;
+}
+/* Le bouton de retour en haut de page */
+a.goto-header{
+  font-size: 3em;
+  font-family: monospace;
+  font-weight: bold;
+  background-color: #aaa;
+  border: 3px solid #666;
+  border-radius: 100%;
+	display: block;
+	height: 1.25em;
+	width: 1.25em;
+	left: 50%;
+  margin-left:-0.6em;
+	line-height: 1.65em;
+	overflow: hidden;
+	position: relative;
+	white-space: nowrap;
+  text-align: center;
+  color: #333;
+  margin-bottom: 0.7em;
+  -webkit-box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+          box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+
+  -webkit-transition: all 0.2s ease-in-out;
+	   -moz-transition: all 0.2s ease-in-out;
+	    -ms-transition: all 0.2s ease-in-out;
+	        transition: all 0.2s ease-in-out;
+}
+a.goto-header:hover{
+  background-color: #07E86A;
+  -webkit-box-shadow: 0 0 16px rgba(255, 255, 255, 0.4);
+          box-shadow: 0 0 16px rgba(255, 255, 255, 0.4);
 }
 
-.event-list-item {
-  background: #f8f8f8;
-  position: relative;
+
+/*****************************************************************
+Mise en forme commune entre les pages pleines et les carte résumées
+********************************************************************/
+
+.about{
+ text-align:right;
+ font-size:0.8em;
+}
+.event-location,
+.event-time {
+  font-size: 1.25em;
+}
+.event-location:before {
+  content: "\f041";
+  font-family: "Fontawesome";
+  margin-right: .35em;
+}
+.event-time:before {
+  content: "\f017";
+  font-family: "Fontawesome";
+  margin-right: .35em;
+}
+
+/************************************************
+ Mise en forme des résumés d'article et d'évènement
+*************************************************/
+/* Commun au deux types de résumé */
+
+.card-container{
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding:2em 2px;
+}
+
+.card {
+  /* letter-spacing: 0.03em;/*gr*/
+  background-color: #f0f0f0;/*gr*/
+  border-radius: 8px;
+  /* remove bloating effects
+  -webkit-box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+          box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);*/
+  -webkit-transition: background-color 0.25s;
+          transition: background-color 0.25s;
+  width:100%;
+  height: 100%;
+  margin:0 auto;
   overflow: hidden;
-  width:95%;
-  margin:1em auto;
-  border-radius: 10px;
-  max-width:40em;
+  max-width: 34em;
+}
+.card:hover {
+  /* top: -15px; */
+  background-color: #fff;
+  /* remove bloating effects
+  -webkit-box-shadow: 0 12px 16px rgba(255, 255, 255, 0.2);
+          box-shadow: 0 12px 16px rgba(255, 255, 255, 0.2);*/
+}
+.card .card-text, .card .event-description{
+  padding:0 1.2em;
+}
+.card .card-title a{
+  text-decoration: none;
+  color: #333;
+}
+.card .card-title a:hover{
+  text-decoration: underline;
+}
+.card .card-summary{
   line-height: 1.5em;
 }
-/*.event-info {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: flex-start;
-}*/
-.event-info .event-date {
+.card-img{
+  text-align: center;
+}
+.card img{
+  vertical-align: bottom;
+  max-width: 100%;
+}
+
+/* Pour les évènements du calendrier */
+section.events>.pure-g{
+  justify-content: center;
+}
+.event-info {
+  /* display: flex; */
+  flex-wrap: nowrap;
+  /* justify-content: flex-start; */
+}
+.event-date {
   /* display: flex;
   flex-flow: column nowrap;
   width: 100px;
   max-width: 100px; */
-  margin-bottom: 0.5em;
+  /* margin-bottom: 0.5em; */
+  /* padding:0; */
+  margin:1em 0;
 }
-.event-info .event-date .event-start,
-.event-info .event-date .event-end {
-  max-width: 2.9em;
+.event-date .event-start,
+.event-date .event-end {
+  width: 2.8em;
   text-align: center;
   resize: vertical;
   display: flex;
@@ -233,94 +349,215 @@ h1.section-title {
   color:#333;
   text-transform: uppercase;
   line-height: 1.1em;
-  margin:0 0 0 20px;
+  margin:0;
 }
-.event-info .event-date .event-end {
+.event-date .event-end {
   margin-top: 0;
 }
-.event-info .event-date .event-end:before {
+.event-date .event-end:before {
   content: "au";
   font-size: .5em;
   position: absolute;
   top: 90px;
   left: 37px;
 }
-.event-info .event-date .event-start span.day-month,
-.event-info .event-date .event-end span.day-month{
+.event-date .event-start span.day-month,
+.event-date .event-end span.day-month{
   padding: 0.1em 0;
   /* align-self: flex-end; */
 }
-.event-info .event-date .event-start span.year,
-.event-info .event-date .event-end span.year{
+.event-date .event-start span.year,
+.event-date .event-end span.year{
   font-size: 0.5em;
   background-color: #333;
   color:#07E86A;
   /* align-self: flex-end; */
 }
-.event-info .event-description .event-header {
-  padding: 0 1.25em;
+
+
+
+/**********************************************
+SERVICES
+***********************************************/
+section.services .pure-g{
+  justify-content: center;
+  max-width: 45em;
+  margin: 0 auto;
 }
-.event-info .event-description .event-header a {
+section.services .pure-g>div{
+  text-align: center;
+}
+section.services a{
+  display: inline-block;
+  padding: .5em;
+  margin: 1em 0;
+  text-align: center;
   text-decoration: none;
   color: #333;
+  border: 1px solid #333;
+  border-radius: 5px;
+  font-size: 1.5em;
+  box-shadow: 3px 3px 5px rgba(17,17,17,.2);
+  background-color:#f0f0f0;
+  min-width: 5em;
 }
-.event-info .event-description .event-header .event-title {
-  margin-bottom: .25em;
+section.services a:hover{
+  background-color: #fff;
 }
-.event-info .event-description .event-header .event-location,
-.event-info .event-description .event-header .event-time {
-  font-size: 1.25em;
+section.services a .fas{
+  font-size: 2em;
 }
-.event-info .event-description .event-header .event-location:before {
-  content: "\f041";
-  font-family: "Fontawesome";
-  margin-right: .35em;
-}
-.event-info .event-description .event-header .event-time:before {
-  content: "\f017";
-  font-family: "Fontawesome";
-  margin-right: .35em;
-}
-.event-list-item .event-excerpt {
-  padding: 0 1.25em 1.25em 1.25em;
-  /* font-size: .85em; */
-}
-.event-list-item .event-excerpt a.more {
-  color: #248F8B;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-.event-list-item .event-excerpt a.more:after {
-  content: "\f0a9";
-  font-family: "Fontawesome";
-  margin-left: .25em;
-}
-
-/* pour les effects over cards----------------*/
-/* Card hover effect début*/
-
-.card {
-   letter-spacing: 0.03em;/*gr*/
-  line-height: 1.6;/*gr*/
-  background-color: #ffffff;/*gr*/
-  margin:2%;
-  width: 29%;
-  height: 430px;
-  display: inline-block;
-  border-radius: 8px;
-  -webkit-box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
-          box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
-  overflow: hidden;
-  position: relative;
-  top: 0;
+section.services a .label{
+  display: block;
+  margin-top: .5em;
   text-align: center;
-  -webkit-transition: all 0.25s;
-  transition: all 0.25s;
+}
+
+
+
+
+/**********************************************
+GALLERY
+***********************************************/
+.gallery figure{
+  display:inline-block;
+  margin:0;
+  padding:0;
+}
+
+
+
+/**********************************************
+TAGS
+***********************************************/
+ .tags{
+  text-align: center;
+  word-break: keep-all;
+}
+.tags h2{
+  color:#666;
+}
+.tags ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.tags ul li {
+	display: inline-block;
+	margin: 0 .5em .5em 0;
+	padding: 0;
+}
+.tags a{
+  font-size: 1.2em;
   text-decoration:none;
+  color: #eee;
 }
-.container .card:hover {
-  top: -15px;
-  -webkit-box-shadow: 0 12px 16px rgba(255, 255, 255, 0.2);
-          box-shadow: 0 12px 16px rgba(255, 255, 255, 0.2);
+.tags a:hover{
+  color: #fff;
+  text-decoration:underline;
+  text-decoration-color: #666;
 }
-/* Card hover effect fin*/
+
+
+.view-all{
+  width: 100%;
+  height: 100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/*******************************************
+ Page de détail et de liste
+*********************************************/
+.list-head::after{
+  content: "";
+  opacity: 0.5;
+  top: 5em;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  height: 13em;
+  z-index: -1;
+  background: url(https://openclipart.org/download/7902/carlitos-BikeWheel.svg) transparent no-repeat;
+  background-size:contain;
+}
+.list-head h1, .pagination{
+  color: #ccc;
+  text-align: center;
+}
+.list-head h2{
+  margin-bottom: 0.2em;
+}
+
+article {
+  background-color: #f8f8f8;
+  max-width:40em;
+  margin: 0 auto;
+}
+article .about, article h1, article .content{
+  padding:0 1em;
+}
+article .about{
+  line-height: normal;
+}
+article .event-info{
+  background-color: #ddd;
+}
+article .event-date{
+  padding-right: 1em;
+}
+article h1{
+  text-align: center;
+}
+article .content {
+  font-size:1.1em;
+  line-height:1.5;
+}
+article .related{
+  background-color: #222;
+  text-align: center;
+  padding: 1em;
+}
+article .related h1{
+  font-size: 0.8em;
+  padding: 0;
+  margin:0 0 -1.2em;
+  text-align: left;
+  color: #888;
+}
+article .suggestions>h2, article .tags>h2{
+  margin: 1.2em 0 0.7em;
+  padding: 0 0 0.5em;
+  color: #bbb;
+  font-size: 1.2em;
+  border-bottom: 3px dashed #333;
+}
+article .related .tags a{
+  display: inline-block;
+  padding: .2em .3em;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  white-space: nowrap;
+  font-size: 1.1em;
+}
+article .related .tags a:hover{
+  text-decoration: none;
+  background-color: #0078e7;
+  border: 1px solid #0078e7;
+}
+article .related .suggestions .pure-g{
+  justify-content: center;
+}
+article .related .suggestions .card h2{
+  font-size: 1em;
+}
+article img{
+  max-width: 100%;
+}
+article figcaption{
+  margin-top: 1.5em;
+  font-weight: bold;
+}

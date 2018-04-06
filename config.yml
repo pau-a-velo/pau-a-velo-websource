@@ -7,9 +7,21 @@ canonifyURLs : true
 title : "Pau à Vélo"
 author : "Pau à Vélo"
 theme : "blank"
+paginate: 12
 
-params:
-  author = "Sébastien Lamy"
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: "author"
+      toLower: true
+      weight: 30
+    - name: "tags"
+      weight: 100
+    - name: "date"
+      weight: 10
+      pattern: "2006"
 
 menu:
   main:

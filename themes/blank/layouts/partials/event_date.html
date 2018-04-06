@@ -1,0 +1,9 @@
+<div class="event-date">
+  <p class="event-start">
+    <span class="day-month">
+      {{- .Date.Day }}
+      {{ index .Site.Data.mois.short (printf "%d" .Date.Month) -}}
+    </span>
+    <span class="year">{{ .Date.Year }}</span>
+  </p>
+</div>

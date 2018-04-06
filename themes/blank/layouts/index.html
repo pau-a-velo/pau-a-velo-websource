@@ -3,10 +3,10 @@
    {{ partial "nav.html" .}}
    {{ partial "header.html" .}}
 	<main class="parallax__layer">
-  {{ partial "events.html" . }}
-	{{ partial "posts.html" . }}
+  {{ partial "home/events.html" . }}
+	{{ partial "home/posts.html" . }}
+  {{ partial "home/services.html" . }}
 	</main>
-	{{ partial "sidebar.html" . }}
 	{{ partial "footer.html" . }}
 </div>
 {{ end }}

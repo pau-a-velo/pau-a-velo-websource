@@ -1,27 +1,28 @@
 {{ define "main" }}
 	{{ partial "nav.html" . }}
-		<main>
-			<article>
-				{{ with (.Resources.ByType "image").GetMatch "header.*" }}
-					<img src="{{ .Name }}"/>
+	{{ with (.Resources.ByType "image").GetMatch "header.*" }}
+	<div class="header-img"><img src="{{ .Name }}" /></div>
+	{{ end }}
+	<main>
+		<article>
+			{{ .Scratch.Set "about_display" "long" }}
+			{{ partial "about.html" . }}
+			<h1>{{ .Title }}</h1>
+			{{ if (eq .Type "events") }}
+				{{ partial "single/event_header.html" . }}
+			{{ end }}
+			<div class="content">				
+				{{ if eq .Params.toc "true" }}
+						<h2>Sommaire</h2>
+				    {{.TableOfContents}}
 				{{ end }}
-				<h1>{{ .Title }}</h1>
-				<time datetime="{{.Date}}">{{ .Date.Format "2 January 2006" }}</time>
-				<div>
-					{{ .Content }}
-				</div>
-				<div>
-					<ul id="tags">
-						{{ range .Params.tags }}
-						<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a> </li>
-						{{ end }}
-					</ul>
-				</div>
-				<div>
-					{{ template "_internal/disqus.html" . }}
-				</div>
-			</article>
-		</main>
-	{{ partial "sidebar.html" . }}
+				{{ .Content }}
+			</div>
+			{{ partial "single/related.html" . }}
+		</article>
+	</main>
 	{{ partial "footer.html" . }}
+
+	{{ partial "single/gallery_script.html" . }}
+	{{ $.Scratch.Set "IsArticle" false }}
 {{ end }}
