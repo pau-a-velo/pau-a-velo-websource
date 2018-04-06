@@ -1,10 +1,11 @@
 +++
 title = "Entre Bizanos et Mazères-Lezons: exigeons une passerelle pour tous"
 publishdate = 2018-03-26T13:44:45+02:00
-date = 2018-04-02
+date = 2018-04-06
+author = "Sébastien Lamy"
 lieu = "Au pied de la passerelle, côté Mazères (rive Sud)"
 horaire = "10h Square Aragon à Pau, 11h au pied de la passerelle"
-tags = ["voie verte", "rassemblement", "accessibilité"]
+tags = ["voie verte", "rassemblement", "accessibilité", "passerelle"]
 +++
 La [lettre au sujet de l'accès à la
 passerelle](/courriers/2017-12-28_lettre_passerelle.pdf) que
@@ -25,12 +26,12 @@ rejoindre le rassemblement.
 Ce rassemblement se fait au côté d'autres structures liées à la mobilité et à
 l'accessibilité:
 
-*   le collectif [Ville Partagée](http://www.villepartage.com/) l'[association
-*   Française des Voies Vertes et Véloroutes](http://www.af3v.org/) (AF3V)
-*   l'[association des Paralysés de France](https://www.apf.asso.fr/) (APF) [ASC
-*   Pau Béarn Handisport](http://www.handisport-64.fr/).
+*   le collectif [Ville Partagée](http://www.villepartage.com/)
+*   l'[associationFrançaise des Voies Vertes et Véloroutes](http://www.af3v.org/) (AF3V)
+*   l'[association des Paralysés de France](https://www.apf.asso.fr/) (APF)
+*   l'[ASC Pau Béarn Handisport](http://www.handisport-64.fr/).
 
-![](affiche.jpg)
+ ![](affiche.jpg)
 
 Fauteuils roulants, enfants et personnes âgées en vélo, enfants en poussette,
 vélos lourds (électriques par exemple, ou avec grosses sacoches), vélos
@@ -48,7 +49,7 @@ plus de trois semaines. Cela laisse voir l'attention particulière qui est
 accordée à la maintenance des équipements dédiés aux personnes à mobilité
 réduite.
 
-![Funiculaire en panne](panne_mont_charge_funiculaire_loupe.jpg)
+ ![Funiculaire en panne](panne_mont_charge_funiculaire_loupe.jpg)
 
 Nous espérons qu'avec votre aide, le rassemblement du 4 mars fera changer
 l'accès à la passerelle, mais aussi qu'il augmentera la considération donnée aux
