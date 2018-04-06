@@ -4,32 +4,37 @@ baseurl : "http://fubicy.org/pau/"
 relativeURLs : true
 canonifyURLs : true
 # Title of your site
-title : "Pau à Vélo"
-author : "Pau à Vélo"
-theme : "blank"
+title : Pau à Vélo
+author : Pau à Vélo
+description: Favoriser les déplacements doux dans Pau et son agglomération
+
+
+menu:
+  main:
+    - name: Agenda
+      url: "/#agenda"
+    - name: Blog
+      url: "/#blog"
+    - name: Services
+      url: "/#services"
+    - name: À propos
+      url: "/#a-propos"
+
 paginate: 12
+theme : blank
+metaDataFormat: yaml
+removePathAccents: true
 
 related:
   threshold: 80
   includeNewer: true
   toLower: true
   indices:
-    - name: "author"
+    - name: author
       toLower: true
       weight: 30
-    - name: "tags"
+    - name: tags
       weight: 100
-    - name: "date"
+    - name: date
       weight: 10
-      pattern: "2006"
-
-menu:
-  main:
-    - name: "Agenda"
-      url: "/#agenda"
-    - name: "Blog"
-      url: "/#blog"
-    - name: "Services"
-      url: "/#services"
-    - name: "À propos"
-      url: "/#a-propos"
+      pattern: 2006
