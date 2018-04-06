@@ -2,7 +2,7 @@
 title: "Nous avons exigé une passerelle accessible à tous"
 date: 2018-03-13T16:02:43+02:00
 author: "Sébastien Lamy"
-tags: ["voie verte", "media", "rassemblement", "accessibilité", "passerelle"]
+tags: ["voie verte", "médias", "rassemblement", "accessibilité", "passerelle"]
 ---
 Le **dimanche 4 mars 2018**, nous étions environ 150 à nous réunir à [l'appel
 initié par Pau à vélo](/events/rassemblement-passerelle-ubuzanos) et soutenu

@@ -1,5 +1,5 @@
 +++
-title = "Les résultats du baromètre des villes cyclables pour Pau"
+title = "Résultats du baromètre des villes cyclables pour Pau"
 date = 2018-04-04T22:00:38+02:00
 author = "Hervé Laurent"
 tags = ["statistiques","analyse"]
