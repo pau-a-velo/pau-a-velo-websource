@@ -41,11 +41,11 @@ nav h1 img{vertical-align: bottom;padding:0.2em;}
 .pure-menu-horizontal {
   white-space: normal;
 }
-nav h1 img, nav .pure-menu-list{
+/* nav h1 img, nav .pure-menu-list{
   background-color: rgba(17,17,17,0.5);
-}
+} */
 nav h1 img:hover{
-  background-color: rgba(17,17,17,0.7);
+  /* background-color: rgba(17,17,17,0.5); */
 }
 nav.no-header h1 img, nav.no-header .pure-menu-list{
   background: transparent;
@@ -55,8 +55,11 @@ nav.no-header h1 img, nav.no-header .pure-menu-list{
   font-size: 1.2em;
   border-radius: 2px;
 }
+#menu a.pure-menu-link{
+  padding: 0.3em 1em;
+}
 #menu li a:hover, #menu li a:focus{
-  background-color: #07E86A/*134400*/;
+  background-color: #07E86A;
   color: #222;
 }
 
@@ -72,7 +75,7 @@ nav.no-header h1 img, nav.no-header .pure-menu-list{
       font-size:2.5em;
     }
     .inner p{
-      font-size:1.8em;
+      font-size:1.7em;
     }
 }
 
@@ -89,32 +92,28 @@ Header image
   color: #ffffff;
   text-align: center;
   background: url("../home.jpg")no-repeat center center;
- /* background: url("https://farm9.staticflickr.com/8088/8363737128_b76782c7a2_b.jpg") no-repeat center center;*/
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-/* .headline:after {
+.headline:after {
   position: absolute;
   content: '';
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(17, 17, 17, 0.25);
-} */
+  background-color:#000;
+  opacity: 0;
+  animation: fade-out 0.8s ease forwards;
+}
 
 .inner {
-  width:100%;
+
   padding:1em 0;
-  position: absolute;
-  top: 55%;
-  left: 50%;
-  background: rgba(17, 17, 17, 0.6);
-  /* opacity: 0; */
+  /* background: rgba(17, 17, 17, 0.6); */
   z-index: 10;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-          transform: translateX(-50%) translateY(-50%);
-  -webkit-animation: fade-in 0.75s 0.25s ease-in forwards;
-          animation: fade-in 0.75s 0.25s ease-in forwards;
 }
 .inner h1 {
   margin: 0;
@@ -127,23 +126,45 @@ Header image
   font-size: 2em;
   font-style: italic;
   font-family: serif;
-  line-height: 1.2;
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  /* line-height: 2; */
+  display: flex;
+  flex-flow: column nowrap;
 }
-@-webkit-keyframes fade-in {
+.inner p .come-in{
+  opacity: 0;
+          animation: pop-in 0.8s 1s cubic-bezier(.26,.09,.41,1.3) forwards;
+}
+.inner p .fall-down{
+  opacity: 0;
+          animation: fade-in 1s .3s ease-in forwards;
+}
+@keyframes pop-in {
   0% {
     opacity: 0;
+    transform: translateX(-100%) scale(.8);
   }
   100% {
     opacity: 1;
+    transform: none;
   }
 }
-
 @keyframes fade-in {
   0% {
     opacity: 0;
   }
   100% {
     opacity: 1;
+    transform: none;
+  }
+}
+@keyframes fade-out {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.6;
   }
 }
 
@@ -379,15 +400,20 @@ section.events>.pure-g{
 /**********************************************
 SERVICES
 ***********************************************/
+section.services{
+  min-height: 100vh;
+}
 section.services .pure-g{
   justify-content: center;
   max-width: 45em;
+  height: 100%;
+  align-content: space-around;
   margin: 0 auto;
 }
 section.services .pure-g>div{
   text-align: center;
 }
-section.services a{
+section.services a.service{
   display: inline-block;
   padding: .5em;
   margin: 1em 0;
@@ -400,14 +426,16 @@ section.services a{
   box-shadow: 3px 3px 5px rgba(17,17,17,.2);
   background-color:#f0f0f0;
   min-width: 5em;
+  transition: all 0.2s;
 }
-section.services a:hover{
+section.services a.service:hover{
   background-color: #fff;
+  box-shadow: 2px 2px 5px 3px rgba(17, 17, 17, 0.3);
 }
-section.services a .fas{
+section.services a.service .fas{
   font-size: 2em;
 }
-section.services a .label{
+section.services a.service .label{
   display: block;
   margin-top: .5em;
   text-align: center;
@@ -550,6 +578,12 @@ article .related .tags a:hover{
 }
 article .related .suggestions .pure-g{
   justify-content: center;
+}
+article .related .suggestions .pure-g>div{
+  padding: 0 5px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 article .related .suggestions .card h2{
   font-size: 1em;

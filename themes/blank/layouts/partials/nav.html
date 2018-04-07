@@ -1,8 +1,8 @@
-{{ $headerImage := (.Resources.ByType "image").Match "header.*" }}
-{{ $noHeader := and (not .IsHome) (not $headerImage) }}
-<nav class="custom-wrapper pure-g {{ cond $noHeader "no-header" "" }}" id="menu">
+{{- $logo_size := cond .IsHome "100x100" "75x75" -}}
+{{- $logo_file := printf "/img/logo_%s_coul_blanc.png" $logo_size -}}
+<nav class="custom-wrapper pure-g {{ cond .IsHome "" "no-header" }}" id="menu">
     <div class="pure-u-1 pure-u-md-1-2">
-      <h1 id="site-title"><a href="{{ .Site.BaseURL }}#"><img src="{{ .Site.BaseURL }}/img/logopav.png" alt="Pau à Vélo"></a></h1>
+      <h1 id="site-title"><a href="{{ .Site.BaseURL }}#"><img src="{{$logo_file}}" alt="Pau à Vélo"></a></h1>
     </div>
     <div class="pure-u-1 pure-u-md-1-2">
         <div class="pure-menu-horizontal pure-menu custom-can-transform custom-menu-3">
