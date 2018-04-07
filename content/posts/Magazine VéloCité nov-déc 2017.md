@@ -1,5 +1,5 @@
 ---
-title: Magazine VéloCité nov-déc 2017
+title: "Magazine VéloCité nov-déc 2017"
 date: 2018-01-03T16:01:36+02:00
 author:
 tags:
