@@ -24,6 +24,7 @@
 </head>
 <body>
 	{{ block "main" . }}{{ end }}
+	<script  src="{{ .Site.BaseURL }}js/jquery.nav.js"></script>
 	{{ block "js" . }}{{ end }}
 </body>
 </html>

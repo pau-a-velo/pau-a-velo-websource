@@ -1,6 +1,6 @@
 /* java script de Header Fade
 *************************************** */
-var $headline = $('.headline'),
+/*var $headline = $('.headline'),
     $inner = $('.inner'),
     $nav = $('nav'),
     navHeight = 75;
@@ -24,7 +24,7 @@ $(window).scroll(function() {
   } else {
     $nav.addClass('overheader');
   }
-});
+});*/
 
 /***********************************************
   Javascript copié de "pure.io" pour le responsive Menu
@@ -45,7 +45,7 @@ $(window).scroll(function() {
   function toggleMenu() {
      // set timeout so that the panel has a chance to roll up
      // before the menu switches states
-    /* if (menu.classList.contains('open')) {
+    /*if (menu.classList.contains('open')) {
          setTimeout(toggleHorizontal, 500);
      }
      else {
@@ -65,6 +65,5 @@ $(window).scroll(function() {
      toggleMenu();
      e.preventDefault();
   });
-  toggleMenu();
   window.addEventListener(WINDOW_CHANGE_EVENT, closeMenu);
 })(this, this.document);
