@@ -511,21 +511,23 @@ section.services .pure-g{
 }
 section.services .pure-g>div{
   text-align: center;
+  padding:0.5em;
+  box-sizing: border-box;
 }
 section.services a.service{
   display: inline-block;
-  padding: .5em;
-  margin: 1em 0;
+  padding: .7em;
   text-align: center;
   text-decoration: none;
   color: #333;
   border: 1px solid #333;
   border-radius: 5px;
-  font-size: 1.5em;
   box-shadow: 3px 3px 5px rgba(17,17,17,.2);
   background-color:#f0f0f0;
-  min-width: 5em;
+  width: 10.5em;
   transition: all 0.2s;
+  height: 100%;
+  box-sizing: border-box;
 }
 section.services a.service:hover{
   background-color: #fff;
@@ -535,11 +537,17 @@ section.services a.service .fas{
   font-size: 2em;
 }
 section.services a.service .label{
+  font-size: 1.5em;
   display: block;
   margin-top: .5em;
   text-align: center;
 }
-
+section.services a.service .sub-title{
+  display: block;
+  font-size: 0.9em;
+  color:#666;
+  margin-top: .5em;
+}
 
 
 
