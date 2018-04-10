@@ -1,8 +1,8 @@
-<section class="events">
+<section class="agenda">
   <h1 id="agenda" class="section-title">Agenda</h1>
   {{ partial "up_arrow" }}
   <div class="pure-g">
-    {{ range where .Site.RegularPages.ByDate "Type" "events" }}
+    {{ range where .Site.RegularPages.ByDate "Type" "agenda" }}
       {{ if ge .Date.Unix (now.AddDate 0 0 -1).Unix }}
           {{ partial "cards/event.html" . }}
       {{ end }}

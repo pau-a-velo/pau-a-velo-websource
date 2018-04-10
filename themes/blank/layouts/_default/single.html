@@ -8,10 +8,10 @@
 			{{ .Scratch.Set "about_display" "long" }}
 			{{ partial "about.html" . }}
 			<h1>{{ .Title }}</h1>
-			{{ if (eq .Type "events") }}
+			{{ if (eq .Type "agenda") }}
 				{{ partial "single/event_header.html" . }}
 			{{ end }}
-			<div class="content">				
+			<div class="content">
 				{{ if eq .Params.toc "true" }}
 						<h2>Sommaire</h2>
 				    {{.TableOfContents}}

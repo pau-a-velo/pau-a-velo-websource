@@ -434,7 +434,7 @@ Mise en forme commune entre les pages pleines et les carte résumées
 }
 
 /* Pour les évènements du calendrier */
-section.events>.pure-g{
+section.agenda>.pure-g{
   justify-content: center;
 }
 .event-info {
