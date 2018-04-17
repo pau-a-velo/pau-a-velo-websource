@@ -1,5 +1,3 @@
-@import "http://weloveiconfonts.com/api/?family=fontawesome";
-
 body {
   margin: 0;
   padding: 0;
@@ -81,7 +79,7 @@ Header image
 }
 .inner p .come-in{
   opacity: 0;
-          animation: pop-in 0.8s 1.8s cubic-bezier(.26,.09,.41,1.3) forwards;
+          animation: pop-in 0.8s 1.5s cubic-bezier(.26,.09,.41,1.3) forwards;
 }
 .inner p .fall-down{
   opacity: 0;
@@ -100,7 +98,7 @@ Header image
 @keyframes fade-in {
   0% {
     opacity: 0;
-    transform: scale(1.2);
+    transform: scale(1.3);
   }
   100% {
     opacity: 1;
@@ -300,14 +298,34 @@ Sections
 
 
 section {
-  background-color: #e0e0e0;
+  background-color: #222;
   /* background-color: transparent; */
   width:100%;
   padding:2em 0;
 }
+section .card, section a.service{
+  box-shadow: 1px 1px 3px 1px #fff6;
+  transition: all 0.2s;
+}
+section .card:hover, section a.service:hover{
+  box-shadow: 1px 1px 4px 1px #fffe;
+}
 
 section:nth-of-type(2n) {
-  background-color: #222;
+  background-color: #f8f8f8;
+}
+section:nth-of-type(2n) .card, section:nth-of-type(2n) a.service{
+  box-shadow: 1px 1px 5px 1px #0008
+}
+section:nth-of-type(2n) .card:hover, section:nth-of-type(2n) a.service:hover{
+  box-shadow: 1px 1px 7px 2px #0008
+}
+section:nth-of-type(2n) h1{
+  color:#444;
+  text-shadow:1px 1px 2px #0005;
+}
+section h1{
+  color:#999;
 }
 
 section h1{
@@ -319,6 +337,7 @@ section h1{
   text-align: center;
   position: relative;
   z-index: 1;
+  /* text-shadow:1px 1px 2px #ddd3; */
 }
 /* Le bouton de retour en haut de page */
 a.goto-header{
@@ -367,16 +386,6 @@ Mise en forme commune entre les pages pleines et les carte résumées
 .event-time {
   font-size: 1.25em;
 }
-.event-location:before {
-  content: "\f041";
-  font-family: "Fontawesome";
-  margin-right: .35em;
-}
-.event-time:before {
-  content: "\f017";
-  font-family: "Fontawesome";
-  margin-right: .35em;
-}
 
 /************************************************
  Mise en forme des résumés d'article et d'évènement
@@ -387,18 +396,13 @@ Mise en forme commune entre les pages pleines et les carte résumées
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
-  padding:2em 2px;
+  padding:2em 7px;
 }
 
 .card {
   /* letter-spacing: 0.03em;/*gr*/
-  background-color: #f0f0f0;/*gr*/
+  background-color: #f8f8f8;/*gr*/
   border-radius: 8px;
-  /* remove bloating effects
-  -webkit-box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
-          box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);*/
-  -webkit-transition: background-color 0.25s;
-          transition: background-color 0.25s;
   width:100%;
   height: 100%;
   margin:0 auto;
@@ -493,6 +497,9 @@ section.agenda>.pure-g{
 
 
 
+
+
+
 /**********************************************
 SERVICES
 ***********************************************/
@@ -519,20 +526,18 @@ section.services a.service{
   padding: .7em;
   text-align: center;
   text-decoration: none;
-  color: #333;
+  color: #f0f0f0;
   border: 1px solid #333;
   border-radius: 5px;
-  box-shadow: 3px 3px 5px rgba(17,17,17,.2);
-  background-color:#f0f0f0;
+  /*background-color:#d3d3d3; */
   width: 10.5em;
-  transition: all 0.2s;
   height: 100%;
   box-sizing: border-box;
 }
-section.services a.service:hover{
-  background-color: #fff;
-  box-shadow: 2px 2px 5px 3px rgba(17, 17, 17, 0.3);
-}
+/* section.services a.service:hover{
+  background-color: #f0f0f0;
+  box-shadow: 0 0 8px 1px rgba(255, 255, 255, 0.6);
+} */
 section.services a.service .fas{
   font-size: 2em;
 }
@@ -545,10 +550,104 @@ section.services a.service .label{
 section.services a.service .sub-title{
   display: block;
   font-size: 0.9em;
-  color:#666;
+  color:#888;
   margin-top: .5em;
 }
 
+/***********************************************
+ A propos
+************************************************/
+section.a-propos .presentation
+{
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 0 .5em;
+  font-size: 1.1em;
+  line-height: 1.5;
+}
+
+section.a-propos .trombi{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+section.a-propos .trombi .portrait{
+  text-align: center;
+  margin:20px 8px;
+}
+section.a-propos .trombi .portrait img{
+  /* display:block; */
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px 1px #0008
+}
+section.a-propos .trombi .portrait h3{
+  color: #333;
+  margin: 0.5em 0 0.2em;
+}
+section.a-propos .trombi .portrait .role{
+  color: #555;
+  font-family: serif;
+  font-style: italic;
+}
+
+.li-icon{
+  width:1em;
+}
+.clickToggled{
+  transition: height 0.4s ease-in-out, opacity 0.4s ease-in-out;
+  overflow: hidden;
+  background-color: #eef;
+  padding: 0 .5em;
+  border: 1px solid #668;
+  margin-bottom: 1em;
+}
+
+/***********************************************
+ Footer
+************************************************/
+footer{
+  color: #f0f0f0;
+  padding:1em;
+  font-size: 1.2em;
+  border-top: 1px solid #777;
+}
+footer h3{
+  text-align: center;
+  margin: 0;
+}
+footer>.pure-g{
+  justify-content:center;
+  text-align: center;
+}
+footer>.pure-g>.pure-u{
+  margin:1em 1.5em;
+}
+footer a{
+  color:#f0f0f0;
+  text-decoration: none;
+}
+footer a.goto-header{
+  margin-bottom: .2em;
+}
+footer #mail_decode{
+  margin:.5em 0;
+  font-size: 0.8em;
+}
+footer .tel a{
+  font-size: 1.7em;
+  display: block;
+  margin-top: .15em;
+}
+footer .social{
+  align-self: center;
+}
+footer .social a{
+ font-size: 1.7em;
+ margin-right:0.5em;
+}
 
 
 /**********************************************

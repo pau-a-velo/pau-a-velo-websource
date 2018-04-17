@@ -6,8 +6,13 @@
     {{ partial "cards/image.html" . }}
     <div class="event-description">
       {{ partial "cards/title.html" . }}
-      <p class="event-location">{{ .Params.lieu }}</p>
-      <p class="event-time">{{ .Params.horaire }}</p>
+      <p class="event-location">
+        <span class="fas fa-map-marker-alt"></span>
+        {{ .Params.lieu }}</p>
+      <p class="event-time">
+        <span class="fas fa-clock"></span>
+        {{ .Params.horaire }}
+      </p>
     </div>
   </div>
 </div>

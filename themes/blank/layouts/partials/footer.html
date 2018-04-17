@@ -1,3 +1,33 @@
-	<footer>
-		<p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></p>
-	</footer>
+<footer id="footer">
+{{ partial "up_arrow" }}
+	<div class="pure-g">
+		<div class="pure-u-1">
+			<h3>Pau à Vélo</h3>
+		</div>
+		<div class="pure-u">
+				Centre social la pépinière<br/>
+				6 av. Robert Schuman<br>
+      	64000 Pau
+		</div>
+		<div class="pure-u email">
+				{{ partial "mail_adress.html" }}
+		</div>
+		<div class="pure-u tel">
+				07 69 62 75 56
+				<a href="tel:+33769627556">
+						<span aria-hidden class="fas fa-phone-square" title="Appeler"></span>
+						<span class="sr-only">Appeler</span>
+				</a>
+		</div>
+		<div class="pure-u social">
+				<a aria-label="page facebook" href="https://www.facebook.com/pauaveloo">
+						<span aria-hidden class="fab fa-facebook" title="page facebook"></span>
+						<span class="sr-only">page facebook</span>
+				</a>
+				<a aria-label="profil twitter" href="https://twitter.com/pauavelo">
+					<span aria-hidden class="fab fa-twitter" title="profil twitter"></span>
+					<span class="sr-only">profil twitter</span>
+				</a>
+		</div>
+	</div>
+</footer>

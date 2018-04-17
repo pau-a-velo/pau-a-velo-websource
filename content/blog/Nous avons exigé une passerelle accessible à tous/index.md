@@ -16,7 +16,7 @@ par 4 autres associations:
 ![](img/manif.jpg)
 
 Nous avons pu présenter au public [le projet d'accessibilité élaboré par Pau à
-Vélo](/docs/livret-projet.pdf).
+Vélo](docs/livret-projet.pdf).
 Pour la journée, un monument symbolique éphémère a été monté sur place pour
 représenter ce projet: un pilier de bois de 5m de haut, relié à la passerelle et
 au talus de la rocade par des rubans matérialisant le tracé de la rampe d'accès

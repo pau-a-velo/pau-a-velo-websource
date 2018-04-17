@@ -67,3 +67,50 @@ $(window).scroll(function() {
   });
   window.addEventListener(WINDOW_CHANGE_EVENT, closeMenu);
 })(this, this.document);
+
+
+
+/*********************************************************************
+Javascript pour foire apparaitre une zone de texte
+L'élement à cliquer doit avoir la class "toggler" et une id déterminée
+par l'id de l'élément qui apparait.
+Par exemple si l'élément qui apparait à comme id "content_id"
+L'élément à cliquer doit avoir l'id "content_id_toggle"
+***********************************************************************/
+function slideToggle(el){
+  var wanted_height = 0,
+      current_height = el.style.height.replace('%','').replace('px','');
+  if(el.style.display == "none" || current_height == '0'){
+
+    var el_style      = window.getComputedStyle(el),
+        el_position   = el_style.position,
+        el_visibility = el_style.visibility;
+    el.style.position = "absolute";
+    el.style.visibility = "hidden";
+    el.style.height = "auto";
+    el.style.display = "block";
+    wanted_height = el.offsetHeight + 'px';
+    el.style.height = '0';
+    el.style.position = el_position;
+    el.style.visibility = el_visibility;
+  }
+  setTimeout(function() {
+    el.style.height = wanted_height;
+    el.style.opacity = (wanted_height == 0) ? 0 : 1;
+  },10);
+  if (wanted_height == 0){
+    setTimeout(function(){
+      el.style.display = "none";
+    },450);
+  }
+};
+
+// Active le clic sur tous les éléments qui font apparaitre du contenu.
+var togglers = document.getElementsByClassName("toggler");
+for (i = 0; i < togglers.length; i++) {
+  togglers[i].addEventListener('click',function(e){
+    toggled_id = this.id.replace('_toggle','');
+    slideToggle(document.getElementById(toggled_id));
+    e.preventDefault();
+  });
+}

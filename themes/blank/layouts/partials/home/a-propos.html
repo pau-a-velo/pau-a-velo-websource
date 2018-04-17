@@ -1,0 +1,25 @@
+<section class="a-propos">
+  <h1 id="a-propos" class="section-title">À propos</h1>
+  {{ partial "up_arrow" }}
+  <div class="presentation">
+      {{ with .Site.GetPage "page" "a-propos/presentation.md" }}{{.Content}}{{end}}
+  </div>
+  <div class="trombi">
+    {{ range where .Site.RegularPages "Section" "ca" | first 1  }}
+      {{ $portraits := .Resources.ByType "image" }}
+      {{ range .Params.membres }}
+      <div class="portrait">
+        {{- $portrait := $portraits.GetMatch (.nom | urlize | printf "portraits/%s.*") }}
+        {{- with $portrait }}
+          {{- $src := ($portrait.Fill "240x320").Permalink }}
+          <image src="{{ $src }}">
+        {{- end }}
+        <h3>{{ .nom }}</h3>
+        {{ with .role }}
+          <span class="role">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{end}}
+    {{ end }}
+  </div>
+</section>
