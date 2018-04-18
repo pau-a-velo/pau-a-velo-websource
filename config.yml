@@ -1,14 +1,12 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl : "http://fubicy.org/pau/"
-relativeURLs : true
-canonifyURLs : true
+baseurl : "/"
 # Title of your site
 title : Pau à Vélo
 author : Pau à Vélo
 description: Favoriser les déplacements doux dans Pau et son agglomération
 
-
+#menu principal
 menu:
   main:
     - name: Agenda
@@ -20,11 +18,18 @@ menu:
     - name: À propos
       url: "/#a-propos"
 
+# le nombre d'article par page quand on liste tous les articles
+# (donc pas sur la page d'accueil)
 paginate: 12
 theme : blank
+
+# le format par défaut du frontmatter
 metaDataFormat: yaml
+
+#enlève les accent dans les noms des fichiers générés
 removePathAccents: true
 
+## paramètre pour proposer du contenu en rapport avec l'article présenté
 related:
   threshold: 80
   includeNewer: true
