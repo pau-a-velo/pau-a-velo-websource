@@ -14,7 +14,7 @@ h1,h2,h3{
 }
 main {
   padding:0;
-  margin:0 auto;
+  margin:0;
 }
 
 
@@ -76,6 +76,8 @@ Header image
   /* line-height: 2; */
   display: flex;
   flex-flow: column nowrap;
+  background-color: #0006;
+  box-shadow: 0 0 20px 10px #0006;
 }
 .inner p .come-in{
   opacity: 0;
@@ -123,23 +125,28 @@ div.header-img img{
   max-height: 60%;
 }
 
-.inner p{
-  background-color: #0006;
-  box-shadow: 0 0 20px 10px #0008;
+/* SOLUTION SANS PARLLAX */
+.parallax__layer{
+  position: fixed;
+  width:100%;
+}
+.parallax__front{
+  position: relative;
+  top:95vh;
 }
 /*Parallax (ralentit trop la page)*/
-/* .parallax{
+/*.parallax{
   perspective: 1px;
   height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
 }
-main {
+.parallax__front {
   transform: translateZ(0);
 }
-header {
-  transform: translateZ(-1px) scale(2.05);
-} */
+.parallax__layer {
+  transform: translateZ(-1px) translateX(-10px) scale(2);
+}*/
 
 
 
@@ -152,10 +159,11 @@ Main menu bar
     width:100%;
     position:relative;
     background-color: #333;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%)
 }
 #menu.home{
   position:absolute;
-  background-color: transparent;
+  background: transparent;
 }
 #menu h1{
   margin:0;
@@ -163,7 +171,7 @@ Main menu bar
   display: inline;
 }
 #menu h1 img{
-  vertical-align: bottom;padding:0.4em 0.5em;
+  vertical-align: bottom;padding:16px 20px;
 }
 #menu > .pure-g{
   justify-content: space-between;
@@ -179,7 +187,7 @@ Main menu bar
 }
 #menu.home .pure-menu{
   background-color: #0003;
-  box-shadow: 0 0 20px 10px #0004;
+  box-shadow: 0 0 20px 10px #0003;
 }
 #menu .custom-wrapper{
   text-align: right;
@@ -210,7 +218,20 @@ Main menu bar
   /* box-shadow: 0 0 10px 2px #07E86A; */
 }
 
-@media (max-width: 30em) {
+.bicycle-girl{
+  top: 17px;
+  left: 160px;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  height: 92px;
+  z-index: -1;
+  background: url(/img/trainers-Girl_mini2.png) transparent no-repeat;
+  background-size:contain;
+}
+
+@media (max-width: 34em) {
+
     #menu.home.js-enabled .pure-menu{
       background-color: transparent;
       box-shadow:none;
@@ -291,6 +312,7 @@ Main menu bar
 
 
 
+
 /**************************************************
 Sections
 ****************************************************/
@@ -299,9 +321,15 @@ Sections
 
 section {
   background-color: #222;
-  /* background-color: transparent; */
+  /*couleur pour le parallax*/
+  /*background: linear-gradient(to bottom, rgba(17,17,17,0.9) 0%,rgba(45,45,45,.6) 100%);*/
+  /*couleur sans parallax*/
+  background: linear-gradient(to bottom, rgba(0,0,0,.85) 0%,rgba(51,51,51,1) 100%);
   width:100%;
   padding:2em 0;
+}
+section>.pure-g{
+  justify-content: center;
 }
 section .card, section a.service{
   box-shadow: 1px 1px 3px 1px #fff6;
@@ -312,7 +340,7 @@ section .card:hover, section a.service:hover{
 }
 
 section:nth-of-type(2n) {
-  background-color: #f8f8f8;
+  background: #f8f8f8;
 }
 section:nth-of-type(2n) .card, section:nth-of-type(2n) a.service{
   box-shadow: 1px 1px 5px 1px #0008
@@ -325,7 +353,7 @@ section:nth-of-type(2n) h1{
   text-shadow:1px 1px 2px #0005;
 }
 section h1{
-  color:#999;
+  color:#ccc;
 }
 
 section h1{
@@ -340,7 +368,10 @@ section h1{
   /* text-shadow:1px 1px 2px #ddd3; */
 }
 /* Le bouton de retour en haut de page */
-a.goto-header{
+div.goto-header{
+  padding-bottom: 0.7em;
+}
+div.goto-header a{
   font-size: 3em;
   font-family: monospace;
   font-weight: bold;
@@ -357,8 +388,8 @@ a.goto-header{
 	position: relative;
 	white-space: nowrap;
   text-align: center;
+  text-decoration: none;
   color: #333;
-  margin-bottom: 0.7em;
   -webkit-box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
           box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
 
@@ -367,11 +398,24 @@ a.goto-header{
 	    -ms-transition: all 0.2s ease-in-out;
 	        transition: all 0.2s ease-in-out;
 }
-a.goto-header:hover{
+div.goto-header a:hover{
   background-color: #07E86A;
   -webkit-box-shadow: 0 0 16px rgba(255, 255, 255, 0.4);
           box-shadow: 0 0 16px rgba(255, 255, 255, 0.4);
 }
+
+section .empty-label{
+  padding: 3.5em .25em;
+  font-size: 2em;
+  color: #aaa;
+  text-align: center;
+}
+
+.view-all{
+  display:flex;
+  justify-content: center;
+}
+
 
 
 /*****************************************************************
@@ -400,16 +444,18 @@ Mise en forme commune entre les pages pleines et les carte résumées
 }
 
 .card {
-  /* letter-spacing: 0.03em;/*gr*/
-  background-color: #f8f8f8;/*gr*/
+  /* letter-spacing: 0.03em;/*gr*//*gr*/
   border-radius: 8px;
   width:100%;
   height: 100%;
   margin:0 auto;
   overflow: hidden;
   max-width: 34em;
+  background-color: #f8f8f8;
 }
-.card:hover {
+.card, .card a.card-more-link{
+}
+.card:hover, .card a.card-more-link{
   /* top: -15px; */
   background-color: #fff;
   /* remove bloating effects
@@ -429,17 +475,30 @@ Mise en forme commune entre les pages pleines et les carte résumées
 .card .card-summary{
   line-height: 1.5em;
 }
+.card.with-image .card-summary{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 7.5em;
+}
+.card .card-more{
+  position: relative;
+}
+.card a.card-more-link{
+  position:absolute;
+  top: -2.15em;
+  right: 0;
+  padding-left: 1em;
+  background:linear-gradient(to right, rgba(248,248,248,0) 0%,rgba(248,248,248,1) 10%,rgba(248,248,248,1) 100%);
+}
+.card:hover a.card-more-link{
+  background:linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 10%,rgba(255,255,255,1) 100%);
+}
 .card-img{
   text-align: center;
 }
 .card img{
   vertical-align: bottom;
   max-width: 100%;
-}
-
-/* Pour les évènements du calendrier */
-section.agenda>.pure-g{
-  justify-content: center;
 }
 .event-info {
   /* display: flex; */
@@ -510,7 +569,6 @@ section.services{
   box-sizing: border-box;
 }
 section.services .pure-g{
-  justify-content: center;
   max-width: 45em;
   flex-grow:0.5;
   align-content: space-around;
@@ -612,7 +670,7 @@ footer{
   color: #f0f0f0;
   padding:1em;
   font-size: 1.2em;
-  border-top: 1px solid #777;
+  background: linear-gradient(to bottom, rgba(51,51,51,0.9) 0%,rgba(0,0,0,0.5) 100%)
 }
 footer h3{
   text-align: center;
@@ -684,40 +742,20 @@ TAGS
 .tags a{
   font-size: 1.2em;
   text-decoration:none;
-  color: #eee;
+  color: #666;
 }
 .tags a:hover{
-  color: #fff;
+  color: #444;
   text-decoration:underline;
   text-decoration-color: #666;
 }
 
 
-.view-all{
-  width: 100%;
-  height: 100%;
-  display:flex;
-  align-items: center;
-  justify-content: center;
-}
-
 
 /*******************************************
  Page de détail et de liste
 *********************************************/
-.list-head::after{
-  content: "";
-  opacity: 0.5;
-  top: 5em;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  height: 13em;
-  z-index: -1;
-  background: url(https://openclipart.org/download/7902/carlitos-BikeWheel.svg) transparent no-repeat;
-  background-size:contain;
-}
+
 .list-head h1, .pagination{
   color: #ccc;
   text-align: center;
@@ -753,23 +791,24 @@ article .content {
 article .related{
   background-color: #222;
   text-align: center;
-  padding: 1em;
+  padding: 1em 0;
 }
 article .related h1{
   font-size: 0.8em;
-  padding: 0;
+  padding: 0 1em;
   margin:0 0 -1.2em;
   text-align: left;
   color: #888;
 }
 article .suggestions>h2, article .tags>h2{
   margin: 1.2em 0 0.7em;
-  padding: 0 0 0.5em;
+  padding: 0 1em 0.5em;
   color: #bbb;
   font-size: 1.2em;
   border-bottom: 3px dashed #333;
 }
 article .related .tags a{
+  color:#eee;
   display: inline-block;
   padding: .2em .3em;
   border: 1px solid #ddd;
@@ -786,7 +825,7 @@ article .related .suggestions .pure-g{
   justify-content: center;
 }
 article .related .suggestions .pure-g>div{
-  padding: 0 5px;
+  padding: .5em 7px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;

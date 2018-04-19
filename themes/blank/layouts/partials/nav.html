@@ -1,4 +1,6 @@
-{{- $logo_size := cond .IsHome "100x100" "75x75" -}}
+{{/*no big header for home*/}}
+{{/*- $logo_size := cond .IsHome "100x100" "75x75" -*/}}
+{{- $logo_size := "75x75" -}}
 {{- $logo_file := printf "/img/logo_%s_coul_blanc.png" $logo_size -}}
 <nav class="{{ cond .IsHome "home" "" }}" id="menu">
   <div class="pure-g">
@@ -20,3 +22,4 @@
 <script type="text/javascript">
   document.getElementById('menu').classList.add('js-enabled');
 </script>
+<div class="bicycle-girl"></div>

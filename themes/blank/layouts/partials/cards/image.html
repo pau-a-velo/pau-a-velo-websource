@@ -1,6 +1,6 @@
-{{ with (.Resources.ByType "image").GetMatch "header.*" }}
-  {{ $image := .Fit "551x230" }}
+{{ with  .Scratch.Get "image" }}
+  {{ $scaled := .Fit "551x230" }}
   <div class="card-img">
-    <a href="{{ $.Permalink }}"><img src="{{ $image.Permalink }}" /></a>
+    <a href="{{ $.Permalink }}"><img src="{{ $scaled.Permalink }}" /></a>
   </div>
 {{ end }}

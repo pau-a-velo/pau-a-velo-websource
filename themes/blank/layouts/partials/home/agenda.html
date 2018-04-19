@@ -2,10 +2,18 @@
   <h1 id="agenda" class="section-title">Agenda</h1>
   {{ partial "up_arrow" }}
   <div class="pure-g">
-    {{ range where .Site.RegularPages.ByDate "Type" "agenda" }}
-      {{ if ge .Date.Unix (now.AddDate 0 0 -1).Unix }}
-          {{ partial "cards/event.html" . }}
-      {{ end }}
+    {{ $pages := where .Site.RegularPages.ByDate "Type" "agenda" }}
+    {{ $pages := where $pages ".Date" "ge" (now.AddDate 0 0 -1) }}
+    {{ range $pages }}
+        {{ partial "cards/event.html" . }}
     {{ end }}
+  {{ with not $pages }}
+    <div class="pure-u empty-label">
+      L'agenda est vide pour le moment
+    </div>
+  {{ end }}
+  </div>
+  <div class="view-all">
+    <a class="pure-button" href="/agenda">Voir les évènements archivés...</a>
   </div>
 </section>
