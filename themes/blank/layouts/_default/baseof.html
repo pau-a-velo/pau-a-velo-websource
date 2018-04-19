@@ -17,14 +17,14 @@
  	<!--[if lt IE 9]>
 		 <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
  	<![endif]-->
-	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 </head>
 <body>
 	{{ block "main" . }}{{ end }}
-	<script  src="{{ .Site.BaseURL }}/js/pau-a-velo.js"></script>
+	<script  src="{{ .Site.BaseURL }}js/pau-a-velo.js"></script>
 	{{ block "js" . }}{{ end }}
 </body>
 </html>
