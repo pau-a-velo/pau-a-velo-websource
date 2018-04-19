@@ -29,6 +29,8 @@ metaDataFormat: yaml
 #enlève les accent dans les noms des fichiers générés
 removePathAccents: true
 
+pluralizeListTitles: false
+
 ## paramètre pour proposer du contenu en rapport avec l'article présenté
 related:
   threshold: 80
