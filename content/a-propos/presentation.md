@@ -44,7 +44,7 @@ Cependant il y a aussi un <a href="a-propos/adhesion-pau-a-velo.pdf">formulaire 
 * Chômeur ou étudiant: 10€
 * Lycéen: 5€
 
-Une **réduction de 2€** est appliquée sur votre tarif si vous choisissez le
+Une **réduction permanente de 2€** est appliquée sur votre tarif si vous choisissez le
 **prélèvement annuel automatique**. Ce moyen de paiement pérennise votre
 soutien et allège le travail administratif une fois en place.
 {{% /toggle_on_click %}}
@@ -54,15 +54,15 @@ soutien et allège le travail administratif une fois en place.
 ### Paiements acceptés:
 
 * **Prélèvement annuel automatique**. Pérennise votre soutien et allège le
-  travail administratif une fois en place. <u>Une réduction de 2€ est appliquée
-  sur votre tarif si vous choisissez ce moyen de paiement</u>.
-  Il nous faudra un RIB et un mandat SEPA rempli et signé pour être autorisé au prélèvement.
-  * Si vous pouvez imprimer le mandat SEPA: le remplir et joindre à votre RIB;
-  * Sinon nous vous enverrons le mandat à SEPA à remplir dès que nous recevrons votre RIB.
+  travail administratif une fois en place. <u>Une réduction permanente de 2€</u>
+  est appliquée sur votre tarif si vous choisissez ce moyen de paiement.
+  Il faut nous faire parvenir un RIB pour mettre en place le prélèvement.
+* **Virement** sur notre compte<br/>
+  IBAN: ` FR76 1027 8022 7200 0200 5160 170 `<br/>
+  BIC: `CMCIFR2A`<br/>
+  Titulaire: `ASS PAU A VELO`
 * **Carte bancaire**. Uniquement via notre [formulaire en ligne](https://www.cotizasso.com/participation/adhesion/2118)
 * **Chèque** libellé à « Association Pau à Vélo »
-* **Virement** sur notre compte IBAN<br/>
-  ` FR76 1027 8022 7200 0200 5160 170 `
 * **Espèce** en main propre à un des membre du conseil d'administration.
 
 Pour nous faire parvenir des documents, notre adresse se trouve [en bas de page](#footer).

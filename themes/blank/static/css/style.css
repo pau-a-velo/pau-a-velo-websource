@@ -615,15 +615,13 @@ section.services a.service .sub-title{
 /***********************************************
  A propos
 ************************************************/
-section.a-propos .presentation
-{
+section.a-propos .presentation{
   max-width: 40em;
   margin: 0 auto;
   padding: 0 .5em;
   font-size: 1.1em;
   line-height: 1.5;
 }
-
 section.a-propos .trombi{
   display: flex;
   justify-content: center;
@@ -631,7 +629,6 @@ section.a-propos .trombi{
   max-width: 1380px;
   margin: 0 auto;
 }
-
 section.a-propos .trombi .portrait{
   text-align: center;
   margin:20px 8px;
