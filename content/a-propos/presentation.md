@@ -27,20 +27,23 @@ pour "vélorutionner" les déplacements en ville.
 
 <div style="text-align:center;padding:1em 0;">
 <a  class="pure-button pure-button-primary"
-    href="https://www.cotizasso.com/participation/adhesion/2118">
+    href="https://www.cotizasso.com/participation/adhesion/2118"
+    target="_blank">
     Accéder au formulaire<br/>
     d'adhésion en ligne
 </a>
-<p style="font-size:smaller">Le formulaire d'adhésion en ligne nous évite de
-recopier ce que vous avez écrit. <br/>
-Cependant il y a aussi un <a href="a-propos/adhesion-pau-a-velo.pdf">formulaire d'adhésion papier</a>.
+<p style="font-size:smaller">Le formulaire d'adhésion en ligne est géré par
+<a href="https://cotizasso.com/" target="_blank">cotizasso</a>. Il nous évite
+de recopier ce que vous avez écrit. <br/>
+Cependant il y a aussi un <a href="a-propos/adhesion-pau-a-velo.pdf">formulaire
+d'adhésion papier</a>.
 </div>
 
 {{% toggle_on_click title="Afficher les tarifs annuels" icon="fas fa-euro-sign" %}}
 ### Tarifs annuels
 
 * Adhésion individuelle: 15€
-* Adhésion familiale: 20€
+* Adhésion familiale (2 adhésions groupées): 20€
 * Chômeur ou étudiant: 10€
 * Lycéen: 5€
 
@@ -61,7 +64,8 @@ soutien et allège le travail administratif une fois en place.
   IBAN: ` FR76 1027 8022 7200 0200 5160 170 `<br/>
   BIC: `CMCIFR2A`<br/>
   Titulaire: `ASS PAU A VELO`
-* **Carte bancaire**. Uniquement via notre [formulaire en ligne](https://www.cotizasso.com/participation/adhesion/2118)
+* **Carte bancaire**. Uniquement via notre
+  <a href="https://www.cotizasso.com/participation/adhesion/2118" target="_blank">formulaire en ligne</a>
 * **Chèque** libellé à « Association Pau à Vélo »
 * **Espèce** en main propre à un des membre du conseil d'administration.
 
