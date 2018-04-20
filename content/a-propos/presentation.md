@@ -56,15 +56,16 @@ soutien et allège le travail administratif une fois en place.
 {{% toggle_on_click title="Afficher les moyen de paiement acceptés" icon="fas fa-paperclip" %}}
 ### Paiements acceptés:
 
-* **Prélèvement annuel automatique**. Pérennise votre soutien et allège le
-  travail administratif une fois en place. <u>Une réduction permanente de 2€</u>
-  est appliquée sur votre tarif si vous choisissez ce moyen de paiement.
-  Il faut nous faire parvenir un RIB pour mettre en place le prélèvement.
+* **Prélèvement annuel automatique** en nous fournisssant un RIB. Le
+  prélèvement pérennise votre soutien et allège le travail administratif une
+  fois en place. <u>Une réduction permanente de 2€</u> est appliquée sur votre
+  tarif si vous choisissez ce moyen de paiement.
 * **Virement** sur notre compte<br/>
   IBAN: ` FR76 1027 8022 7200 0200 5160 170 `<br/>
   BIC: `CMCIFR2A`<br/>
-  Titulaire: `ASS PAU A VELO`
-* **Carte bancaire**. Uniquement via le
+  Titulaire: `ASS PAU A VELO`<br/>
+  N'oubliez pas de <u>mettre votre nom d'adhérent dans l'objet du virement</u>.
+* **Carte bancaire** uniquement via le
   <a href="https://www.cotizasso.com/participation/adhesion/2118" target="_blank">formulaire en ligne</a>
 * **Chèque** libellé à « Association Pau à Vélo ».
 * **Espèce** en main propre à un des membre du conseil d'administration.
