@@ -64,9 +64,9 @@ soutien et allège le travail administratif une fois en place.
   IBAN: ` FR76 1027 8022 7200 0200 5160 170 `<br/>
   BIC: `CMCIFR2A`<br/>
   Titulaire: `ASS PAU A VELO`
-* **Carte bancaire**. Uniquement via notre
+* **Carte bancaire**. Uniquement via le
   <a href="https://www.cotizasso.com/participation/adhesion/2118" target="_blank">formulaire en ligne</a>
-* **Chèque** libellé à « Association Pau à Vélo »
+* **Chèque** libellé à « Association Pau à Vélo ».
 * **Espèce** en main propre à un des membre du conseil d'administration.
 
 Pour nous faire parvenir des documents, notre adresse se trouve [en bas de page](#footer).
