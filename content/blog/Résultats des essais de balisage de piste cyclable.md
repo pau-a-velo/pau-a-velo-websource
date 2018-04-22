@@ -1,7 +1,7 @@
 ---
-title: Résultats des essais de balisage de piste cyclable
+title: "Résultats des essais de balisage de piste cyclable"
 date: 2018-01-30T16:21:35+02:00
-author: Sébastien Lamy
+author: "Sébastien Lamy"
 tags:
   - accident
   - aménagement

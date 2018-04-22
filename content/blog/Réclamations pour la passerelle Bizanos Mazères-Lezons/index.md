@@ -7,6 +7,7 @@ tags:
   - voie verte
   - accessibilité
   - médias
+  - courrier
 ---
 
 Que l'on nomme aussi "Ubuzanos" comme "ubuesque". En plein dans une voie verte

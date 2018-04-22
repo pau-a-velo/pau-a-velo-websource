@@ -1,10 +1,12 @@
-+++
-title = "Résultats du baromètre des villes cyclables pour Pau"
-date = 2018-04-04T22:00:38+02:00
-author = "Hervé Laurent"
-tags = ["statistiques","analyse"]
-toc = "true"
-+++
+---
+title: "Résultats du baromètre des villes cyclables pour Pau"
+date: 2018-04-04T22:00:38+02:00
+author: "Hervé Laurent"
+tags:
+  - "statistiques"
+  - "analyse"
+toc: "true"
+---
 
 ## Participation à l’enquête Villes Cyclables
 
@@ -203,8 +205,7 @@ adhérents de l’association Pau à Vélo pour participer activement au
 développement de l’usage du vélo à Pau et dans les communes alentour.
 
 Le formulaire d’adhésion et les informations correspondantes sont disponibles à
-cette adresse : http://fubicy.org/pau/inscript.htm
-
+cette adresse : https://www.cotizasso.com/participation/adhesion/2118
 Vous pouvez également nous retrouver sur les réseaux sociaux :
 
 http://www.facebook.com/pauaveloo
