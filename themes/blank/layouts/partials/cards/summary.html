@@ -1,5 +1,9 @@
 <div class="card-summary">
-  {{ .Summary }}
+  {{ if (not .Truncated) | and (not (.Scratch.Get "hasImage")) -}}
+    {{ .Content }}
+  {{ else -}}
+    {{ .Summary }}
+  {{ end }}
 </div>
 <div class="card-more">
   {{ if .Truncated | or (.Scratch.Get "hasImage") }}
