@@ -1,7 +1,7 @@
 {{ $image := (.Page.Resources.ByType "image").GetMatch (.Get "src") }}
 {{ $caption := .Get "caption" }}
 {{ with $image }}
-  {{ $thumbnail := cond (ge .Width 720) (.Resize "720x") . }}
+  {{ $thumbnail := cond (ge .Width 680) (.Resize "680x") . }}
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     {{ with $caption }}
     <figcaption itemprop="caption description">{{ . }}</figcaption>
