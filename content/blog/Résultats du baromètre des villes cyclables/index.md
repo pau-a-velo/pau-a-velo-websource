@@ -6,6 +6,7 @@ tags:
   - "statistiques"
   - "analyse"
 toc: "true"
+imageGroupClass: "gallery"
 ---
 
 ## Participation à l’enquête Villes Cyclables

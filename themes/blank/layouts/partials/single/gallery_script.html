@@ -13,6 +13,6 @@
      </script>
   {{ end }}
   {{ if (.HasShortcode "image") }}
-     <script>initPhotoSwipeFromDOM('.gallery')</script>
+     <script>initPhotoSwipeFromDOM('{{ or .Params.imageGroupClass ".content"}}')</script>
   {{ end }}
 {{ end }}
