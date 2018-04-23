@@ -12,10 +12,10 @@ tags:
 Suite à notre rassemblement du 4 mars, nous attendons toujours la réunion de
 concertation que les élus nous ont annoncée le jour de la manif (M. Capéran)
 ainsi qu'à la presse la veille (F. Bayrou), comme du reste nous attendons
-toujours la concertation systématique à laquelle ce dernier [s'était engagée en
-mars 2014](201403-engagements-f.bayrou.pdf). Face à leur absence de réaction,
-nous avons envoyé [un courrier de relance à la mairie]
-(20180329-relance-passerelle-pau-a-velo.pdf).
+toujours la concertation systématique à laquelle ce dernier
+[s'était engagée en mars 2014](201403-engagements-f.bayrou.pdf).
+Face à leur absence de réaction, nous avons envoyé
+[un courrier de relance à la mairie](20180329-relance-passerelle-pau-a-velo.pdf).
 
 Mr Capéran nous a récemment  indiqué que les services techniques de la mairie
 étudiaient des solutions alternatives. Nous lui avons rappelé que nous restions
