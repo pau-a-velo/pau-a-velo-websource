@@ -339,7 +339,7 @@ section .card:hover, section a.service:hover{
   box-shadow: 1px 1px 4px 1px #fffe;
 }
 
-section:nth-of-type(2n) {
+section:nth-of-type(2n), div.ca-wrapper div.ca{
   background: #f8f8f8;
 }
 section:nth-of-type(2n) .card, section:nth-of-type(2n) a.service{
@@ -622,27 +622,27 @@ section.a-propos .presentation{
   font-size: 1.1em;
   line-height: 1.5;
 }
-section.a-propos .trombi{
+.trombi{
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
   max-width: 1380px;
   margin: 0 auto;
 }
-section.a-propos .trombi .portrait{
+.trombi .portrait{
   text-align: center;
   margin:20px 8px;
 }
-section.a-propos .trombi .portrait img{
+.trombi .portrait img{
   /* display:block; */
   border-radius: 10px;
   box-shadow: 2px 2px 4px 1px #0008
 }
-section.a-propos .trombi .portrait h3{
+.trombi .portrait h3{
   color: #333;
   margin: 0.5em 0 0.2em;
 }
-section.a-propos .trombi .portrait .role{
+.trombi .portrait .role{
   color: #555;
   font-family: serif;
   font-style: italic;
@@ -658,6 +658,10 @@ section.a-propos .trombi .portrait .role{
   padding: 0 .5em;
   border: 1px solid #668;
   margin-bottom: 1em;
+}
+section.a-propos .pure-button-group{
+  text-align: center;
+  padding: 1em 0 2em;
 }
 
 /***********************************************
@@ -753,12 +757,12 @@ TAGS
  Page de détail et de liste
 *********************************************/
 
-.list-head h1, .pagination{
+.list-head, .pagination{
   color: #ccc;
   text-align: center;
 }
 .list-head h2{
-  margin-bottom: 0.2em;
+  margin: 2em 0 1em;
 }
 
 article {
@@ -837,3 +841,42 @@ article figcaption{
   margin-top: 1.5em;
   font-weight: bold;
 }
+
+h2.ca-title{
+  font-size: 2em;
+  text-align: center;
+  margin: 2em 0 0 0;
+  font-weight: bold;
+  font-family: monospace;
+}
+h2.ca-title .year{
+  padding: .25em;
+  background-color: #07E86A;
+  color: #333;
+}
+.ca-wrapper{
+  max-width: 94%;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.ca-wrapper .ca{
+  display: inline-block;
+}
+main.ca .pure-button-group{
+  text-align: center;
+  padding: 0 0 2em;
+}
+main.ca .pure-button{
+}
+main.ca .pure-button span.label{
+  display: block;
+  line-height: normal;
+  font-size: small;
+}
+/*main.ca .trombi .portrait h3{
+  color:#eee;
+}
+main.ca .trombi .portrait .role{
+  color:#999;
+}*/

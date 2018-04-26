@@ -1,3 +1,7 @@
+---
+headless: true
+---
+
 ## Parti pris
 
 Pau à Vélo est une association qui met son énergie pour :
