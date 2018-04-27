@@ -20,18 +20,19 @@ trombi: "liste"
 # membres: décommenter pour saisir la liste des noms et fonctions des membres
 # du CA. Ces noms seront utilisés pour construire un trombi automatiquement
 # avec les photo si "autotrombi" vaut "true"
-- nom: "Anne Bernard" # si autotrombi, la photo devra se nommer jean-dupont.jpg ou jean-dupont.png
-  role: "administratrice"
-- nom: "Hervé Cadillac"
-  role: "administrateur"
-- nom: "Jany Darracq"
-  role: "trésorière"
-- nom: "Annick Dupuis-Potier"
-  role: "administratrice"
-- nom: "Christophe Nussbaumer"
-  role: "secrétaire"
-- nom: "Michel Rietsch"
-  role: "administrateur"
-- nom: "Sylvain Thibeau"
-  role: "secrétaire adjoint"
+membres:
+  - nom: "Anne Bernard" # si autotrombi, la photo devra se nommer jean-dupont.jpg ou jean-dupont.png
+    role: "administratrice"
+  - nom: "Hervé Cadillac"
+    role: "administrateur"
+  - nom: "Jany Darracq"
+    role: "trésorière"
+  - nom: "Annick Dupuis-Potier"
+    role: "administratrice"
+  - nom: "Christophe Nussbaumer"
+    role: "secrétaire"
+  - nom: "Michel Rietsch"
+    role: "administrateur"
+  - nom: "Sylvain Thibeau"
+    role: "secrétaire adjoint"
 ---
