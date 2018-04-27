@@ -1,5 +1,7 @@
 ---
-headless: true
+url: "/index.html#a-propos"
+title: "À propos"
+date: 2018-04-14
 ---
 
 ## Parti pris

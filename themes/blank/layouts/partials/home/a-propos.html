@@ -2,7 +2,7 @@
   <h1 id="a-propos" class="section-title">À propos</h1>
   {{ partial "up_arrow" }}
   <div class="presentation">
-      {{ with .Site.GetPage "page" "a-propos/presentation.md" }}{{.Content}}{{end}}
+      {{ with .Site.GetPage "page" "a-propos" }}{{.Content}}{{end}}
   </div>
   {{ range (.Site.GetPage "section" "ca").Sections | first 1 }}
     {{ partial "trombi" . }}
