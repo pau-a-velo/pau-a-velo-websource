@@ -2,7 +2,7 @@
 	{{ partial "nav.html" . }}
 		<main class="list-{{ .Section }} pure-g">
 			<div class="list-head pure-u-1">
-				<h1 class="list">{{ .Title }}</h1>}
+				<h1>{{ .Title }}</h1>}
 			</div>
 			{{ $pages:= cond (eq .Section "agenda") (where .Data.Pages "Date" "le" now) .Data.Pages }}
 			{{ $paginator := .Paginate $pages }}

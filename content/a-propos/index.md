@@ -1,3 +1,7 @@
+---
+headless: true
+---
+
 ## Parti pris
 
 Pau à Vélo est une association qui met son énergie pour :
@@ -13,9 +17,13 @@ Pau à Vélo est une association qui met son énergie pour :
 
 
 
-Notre devise:
+  Pau à vélo est membre de
+  <a href="http://www.fub.fr" target="_blank">la FUB</a> et de
+  <a href="http://www.af3v.org" target="_blank">l'AF3V</a>. Notre devise:
 
 >  *Le vélo plus qu'un sport, un moyen de transport*
+
+
 
 
 ## Adhérer
@@ -72,6 +80,13 @@ soutien et allège le travail administratif une fois en place.
 
 Pour nous faire parvenir des documents, notre adresse se trouve [en bas de page](#footer).
 {{% /toggle_on_click %}}
+
+<div>
+<i class="fas fa-file-pdf"></i>
+<a href="a-propos/2017-06-03-pau-a-velo-satuts-et-reglement-interieur.pdf">
+Consulter nos statuts et notre règlement
+intérieur</a>
+</div>
 
 
 

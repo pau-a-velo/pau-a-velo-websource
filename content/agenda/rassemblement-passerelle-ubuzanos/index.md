@@ -1,7 +1,7 @@
 +++
 title = "Entre Bizanos et Mazères-Lezons: exigeons une passerelle pour tous"
 publishdate = 2018-03-26T13:44:45+02:00
-date = 2018-03-04
+date = "2018-03-04"
 author = "Sébastien Lamy"
 lieu = "Au pied de la passerelle, côté Mazères (rive Sud)"
 horaire = "10h Square Aragon à Pau, 11h au pied de la passerelle"

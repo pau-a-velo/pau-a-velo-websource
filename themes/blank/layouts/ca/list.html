@@ -1,0 +1,72 @@
+{{ define "main" }}
+  {{ partial "nav.html" . }}
+    <main class="ca">
+      <div class="list-head">
+        <h1>Conseil d'administration {{ .Name }}</h1>
+        <p>Nommé le
+          {{ .Date.Day }}
+          {{ index .Site.Data.mois.long (printf "%d" .Date.Month) }}
+          {{ .Date.Year }}</p>
+      </div>
+        <div class="ca-wrapper">
+          <div class="ca">
+            {{ partial "trombi" . }}
+          </div>
+        </div>
+
+      <div class="list-head">
+          <h2 id="reunions">Liste des réunions</h2>
+      </div>
+      <div class="pure-button-group" role="group">
+      {{ range $i, $ca := .Parent.Sections }}
+        {{ $next_ca := cond (gt $i 0) (index $.Parent.Sections (add $i -1)) nil }}
+        {{ $previous_ca := cond (lt $i (len $.Parent.Sections)) (index $.Parent.Sections (add $i 1)) nil }}
+        {{ if eq $ca.Name $.Name }}
+          {{ with $previous_ca }}
+            <a href="{{ $previous_ca.RelPermalink }}#reunions" class="pure-button">&lt;<br/>
+            <span class="label">réunions du<br/>c.a. précédent</span></a>
+          {{ else }}
+            <button class="pure-button pure-button-disabled">&lt;<br/>
+            <span class="label">réunions du<br/>c.a. précédent</span></button>
+          {{ end }}
+            <a href="{{ $.Parent.RelPermalink }}" class="pure-button">^<br/>
+            <span class="label">historique<br/>des c.a.</span></a>
+          {{ with $next_ca }}
+            <a href="{{ $next_ca.RelPermalink }}#reunions" class="pure-button">&gt;<br/>
+            <span class="label">réunions du<br/>c.a. suivant</span></a>
+          {{ else }}
+            <button class="pure-button pure-button-disabled">&gt;<br/>
+            <span class="label">réunions du<br/>c.a. suivant</span></button>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      </div>
+      <article>
+      <div class="content">
+        {{ .Content }}
+          {{ range .Pages }}
+              <div class="pure-g" style="flex-wrap:nowrap">
+                <div class="pure-u">
+                  {{ partial "event_date.html" .}}
+                </div>
+                <div class="pure-u">
+                  <h2>{{ .Title }}</h2>
+                  <div>
+                    {{ .Content }}
+                  </div>
+                </div>
+              </div>
+          {{ end }}
+          {{ if not .Pages }}
+            <div class="empty-label">
+              Nous ne disposons pas de compte-rendu de réunion pour ce conseil d'administration.
+            </div>
+          {{ end }}
+      </div>
+      <article>
+    </main>
+
+
+
+  {{ partial "footer.html" . }}
+{{ end }}
