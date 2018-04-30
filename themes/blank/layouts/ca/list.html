@@ -57,6 +57,11 @@
                 </div>
               </div>
           {{ end }}
+          {{ if not .Pages }}
+            <div class="empty-label">
+              Nous ne disposons pas de compte-rendu de réunion pour ce conseil d'administration.
+            </div>
+          {{ end }}
       </div>
       <article>
     </main>

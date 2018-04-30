@@ -404,11 +404,16 @@ div.goto-header a:hover{
           box-shadow: 0 0 16px rgba(255, 255, 255, 0.4);
 }
 
-section .empty-label{
+.empty-label{
   padding: 3.5em .25em;
+  text-align: center;
+}
+section .empty-label{
   font-size: 2em;
   color: #aaa;
-  text-align: center;
+}
+.content .empty-label{
+  color: #888;
 }
 
 .view-all{
@@ -880,6 +885,7 @@ main.ca .pure-button span.label{
   line-height: normal;
   font-size: small;
 }
+
 /*main.ca .trombi .portrait h3{
   color:#eee;
 }
