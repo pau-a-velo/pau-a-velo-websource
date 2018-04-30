@@ -638,14 +638,20 @@ section.a-propos .presentation{
   border-radius: 10px;
   box-shadow: 2px 2px 4px 1px #0008
 }
-.trombi .portrait h3{
+.trombi .portrait h3, .trombi ul.membres .nom{
   color: #333;
+}
+.trombi .portrait h3{
   margin: 0.5em 0 0.2em;
 }
-.trombi .portrait .role{
+.trombi .role{
   color: #555;
   font-family: serif;
   font-style: italic;
+}
+.trombi ul.membres{
+  text-align: left;
+  margin: .5em .5em .5em 0;
 }
 
 .li-icon{

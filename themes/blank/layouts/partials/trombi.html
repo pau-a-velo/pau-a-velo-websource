@@ -19,8 +19,7 @@
     <ul class="membres">
     {{ range .Params.membres }}
       <li>
-        <span class="nom">{{ .nom }}<br/>
-        <span class="role">{{ .role }}</span>
+        <span class="nom">{{ .nom }} <span class="role">({{ .role }})</span>
       </li>
     {{ end }}
     </ul>
