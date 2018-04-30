@@ -1,9 +1,11 @@
+{{/* Le nombre d'articles du blog montrés sur la page d'acceuil */}}
+{{ $blog_posts_count := 5}}
 <section class="blog">
 		{{/* La liste des premiers articles
 		(le nombre est déterminé par postcount dans le fichier de configuration) */}}
 		<h1 id="blog" class="section-title">Blog</h1>
 		{{ partial "up_arrow" }}
-		{{ $posts := first .Params.postcount (where .Site.RegularPages "Type" "blog") }}
+		{{ $posts := first $blog_posts_count (where .Site.RegularPages "Type" "blog") }}
 		{{ $posts_len := len (where .Site.RegularPages "Type" "blog") }}
 		<div class="pure-g list-posts">
 			{{/* Les vignettes d'article */}}
@@ -19,7 +21,7 @@
 			</div>
 		</div>
 		{{/* Le lien pour afficher tous les articles */}}
-		{{ if or true (gt $posts_len .Params.postcount) }}
+		{{ if or true (gt $posts_len $blog_posts_count) }}
 		<div class="view-all">
 			<a class="pure-button pure-button-primary" href="/blog/">... Voir tous les articles</a>
 		</div>

@@ -1,10 +1,8 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl : "/"
+baseurl: "/"
 # Title of your site
-title : Pau à Vélo
-author : Pau à Vélo
-description: Favoriser les déplacements doux dans Pau et son agglomération
+title: "Pau à Vélo"
 
 #menu principal
 menu:
@@ -22,6 +20,9 @@ menu:
 # (donc pas sur la page d'accueil)
 paginate: 12
 theme : blank
+
+# La langue dans lequel sont rédigé les articles du site
+defaultContentLanguage: fr
 
 # le format par défaut du frontmatter
 metaDataFormat: yaml
