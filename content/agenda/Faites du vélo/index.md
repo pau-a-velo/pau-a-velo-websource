@@ -1,18 +1,24 @@
 ---
-draft: true
 title: "Faites du vélo"
 publishdate: 2018-04-17T13:12:11+02:00
 author: "Julie Champagne"
 date: 2018-06-02
-lieu: "selon programme"
-horaire: "selon programme"
+datefin: 2018-06-03
+lieu: "Médiathèque Labarrère et Parc de la Villa Ridgway"
+horaire: "Selon détails du programme"
 tags:
 ---
 
 Pour la fête du vélo qui se déroulera le week-end du 2 et 3 juin, Pau à vélo
 s’associera à l’évènement « faites du vélo » organisé par la mairie de Pau.
-Voici notre programme (en cours de finalisation):
+**Nous présentons ici la partie du programme que nous avons en charge**.
+
 <!--more-->
+
+_Pour consulter les autres évènements qui auront lieu pendant la fête, consultez
+[la page dédiée sur le site de la mairie](http://www.pau.fr/evenement/11855/14-faites-du-velo-2018-.htm)_
+
+
 ##  Samedi 2 juin, à la médiathèque André Labarrère (Place Marguerite Laborde)
 
 * **Exposition sur les différents usages du vélo** : Ses atouts au quotidien, pour
@@ -52,3 +58,5 @@ Voici notre programme (en cours de finalisation):
     monture !
   * De 16h à 17h : Les vendeurs sont invités à revenir récupérer leur gain
     (ou leur vélo si celui-ci n’a pas trouvé preneur)
+
+{{< image src="affiche.png" >}}
