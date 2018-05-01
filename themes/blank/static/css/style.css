@@ -882,6 +882,13 @@ main.ca .pure-button span.label{
   font-size: small;
 }
 
+main.ca h2, main.ca .event-date{
+  margin-top:0;
+}
+main.ca .content>div.pure-g{
+  margin-top: 1.5em;
+}
+
 /*main.ca .trombi .portrait h3{
   color:#eee;
 }
