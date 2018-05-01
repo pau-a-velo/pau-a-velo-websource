@@ -7,7 +7,7 @@ lieu: À l'angle Boulevard Tourasse/avenue de Buros
 horaire: 10h à 12h
 tags:
   - accident
-  - aménagement
+  - aménagements
   - action
 ---
 

@@ -3,7 +3,7 @@ title: "Revendication d'un aménagement cyclable rue d'Etigny"
 date: 2018-01-09T00:56:08+02:00
 author: "Hervé Laurent"
 tags:
-  - aménagement
+  - aménagements
   - étigny
   - proposition
   - courrier

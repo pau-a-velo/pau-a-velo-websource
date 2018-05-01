@@ -122,7 +122,7 @@ div.header-img{
 }
 div.header-img img{
   max-width: 100%;
-  max-height: 60%;
+  max-height: 560px;
 }
 
 /* SOLUTION SANS PARLLAX */
@@ -539,12 +539,8 @@ Mise en forme commune entre les pages pleines et les carte résumées
 .event-date .event-end {
   margin-top: 0;
 }
-.event-date .event-end:before {
-  content: "au";
-  font-size: .5em;
-  position: absolute;
-  top: 90px;
-  left: 37px;
+.event-date .event-to{
+  text-align: center;
 }
 .event-date .event-start span.day-month,
 .event-date .event-end span.day-month{

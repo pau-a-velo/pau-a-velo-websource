@@ -11,6 +11,7 @@ tags:
 Pour la "Faites du Vélo" de Pau (qui se déroulera les 2 et 3 juin), l'association recherche des témoignages de voyageurs globe-trotters à vélo, et de "vélotafeurs" (qui utilisent leur vélo pour aller au travail).
 
 <!--more-->
+
 * Si vous désirez partager votre expérience de voyage à vélo, contactez-nous par
   e-mail (contact en [bas de page](#footer)),
 * Si vous allez régulièrement au travail à vélo, merci de répondre à [ce
