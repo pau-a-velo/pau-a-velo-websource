@@ -11,7 +11,7 @@ tags:
   - 14 juillet
 ---
 
-Les travaux d'aménagement de la vélorout V81 avancent bon train ces derniers
+Les travaux d'aménagement de la véloroute V81 avancent bon train ces derniers
 jours,  avec de bonnes évolutions sur les communes de Rontignon et Narcastet,
 mais aussi avec la réouverture récente de la passerelle entre Jurançon et
 Billère. Pau à Vélo a adressé [un courrier à
