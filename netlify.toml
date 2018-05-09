@@ -11,3 +11,4 @@
   HUGO_VERSION = "0.38.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  command = "hugo -D"
