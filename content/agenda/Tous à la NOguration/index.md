@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Tous à la NOguration!"
 publishdate: 2018-05-09T15:04:26+02:00
 author: "Sébastien Lamy"
