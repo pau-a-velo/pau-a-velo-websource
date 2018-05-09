@@ -895,3 +895,12 @@ main.ca .content>div.pure-g{
 main.ca .trombi .portrait .role{
   color:#999;
 }*/
+
+/*pour le trombi du guidon d'or*/
+.content .trombi .subtitle, .content .trombi .author{
+  font-size:smaller;
+  line-height: normal;
+}
+.content .trombi .author{
+  font-style: italic;
+}
