@@ -33,7 +33,7 @@ explicite.
 **"Pau à Vélo" offrira à l'occasion de ce NO-évènement un vélo et une
 remorque au conseil communautaire**. Cet ensemble sera remis avec tous nos
 espoirs qu'il puisse être utilisé - à toute époque et par tout temps - par les
-différents représentants de l'agglomération pour circuler entre la V81 et la
+différents représentants de l'agglomération, pour circuler entre la V81 et la
 ville de Bizanos, et sans le risque d'être soumis au "coup de la panne" d'un
 ascenseur ou d'un monte-charge. "Pau à Vélo" ne manquera pas de les inviter à
 des balades pour profiter de ce cadeau et vivre quelques heures la vraie
@@ -49,8 +49,8 @@ suivante. Après nos courriers de relance du [29 mars][3] et du [29 avril][4], l
 mairie a récemment proposé à Pau à Vélo un rendez-vous qui aura lieu le 14 mai,
 soit peu avant la NOguration. Ce rendez-vous sera l'occasion de rappeler
 fermement nos attentes. Espérons qu'il ne s'agisse pas d'une  consultation
-fantoche comme [celle qui a eu lieu il y a un an sur le plan vélo][5]. C'est à dire
-espérons un vrai processus vers l'accessibilité, impliquant tous ceux qui sont
+fantoche comme [celle qui a eu lieu il y a un an sur le plan vélo][5].
+Espérons un vrai processus vers l'accessibilité, impliquant tous ceux qui sont
 actuellement exclus de cette passerelle. Nous souhaitons être **vraiment
 nombreux le 18 mai** pour que le chemin vers une passerelle accessible ne
 débouche ni sur une impasse, ni sur un monte-charge en panne!
