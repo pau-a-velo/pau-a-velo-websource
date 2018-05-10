@@ -48,14 +48,17 @@ réunion avec tous les acteurs concernés par l'accessibilité dès la semaine
 suivante. Après nos courriers de relance du [29 mars][3] et du [29 avril][4], la
 mairie a récemment proposé à Pau à Vélo un rendez-vous qui aura lieu le 14 mai,
 soit peu avant la NOguration. Ce rendez-vous sera l'occasion de rappeler
-fermement nos attentes. Espérons qu'il lance réellement un processus
-vers l'accessibilité, impliquant tous ceux qui sont actuellement exclus de
-cette passerelle. Nous souhaitons être **vraiment nombreux le 18 mai** pour que
-le chemin vers une passerelle accessible ne débouche ni sur une impasse, ni sur
-un monte-charge en panne!
+fermement nos attentes. Espérons qu'il ne s'agisse pas d'une  consultation
+fantoche comme [celle qui a eu lieu il y a un an sur le plan vélo][5]. C'est à dire
+espérons un vrai processus vers l'accessibilité, impliquant tous ceux qui sont
+actuellement exclus de cette passerelle. Nous souhaitons être **vraiment
+nombreux le 18 mai** pour que le chemin vers une passerelle accessible ne
+débouche ni sur une impasse, ni sur un monte-charge en panne!
 
 [1]: http://www.larepubliquedespyrenees.fr/2018/04/25/bizanos-la-passerelle-sur-le-gave-sera-inauguree-le-18-mai,2330042.php
 [2]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}
 [3]: {{< relref "blog/Passerelle Bizanos-Mazères on attend toujours" >}}
 [4]: {{< relref "blog/Passerelle courrier avant iNOguration" >}}
 [un dossier de projet]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret_projet.pdf
+[pannonceaux que nous proposons]: pau-a-velo-exclus-passerelle.pdf
+[5]: {{< relref "blog/Plan vélo-Consultation fantoche" >}}
