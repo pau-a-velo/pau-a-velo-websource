@@ -43,7 +43,7 @@ cyclabilité de l'agglo.
 ### Historique récent sur le sujet
 
 Lors du [rassemblement du 4 mars pour l'accessibilité][2], nous avons remis à
-l'agglo [un dossier de projet][]. L'agglo s'est alors engagé à organiser une
+l'agglo [un dossier de projet][]. L'agglo s'est alors engagée à organiser une
 réunion avec tous les acteurs concernés par l'accessibilité dès la semaine
 suivante. Après nos courriers de relance du [29 mars][3] et du [29 avril][4], la
 mairie a récemment proposé à Pau à Vélo un rendez-vous qui aura lieu le 14 mai,
