@@ -849,6 +849,12 @@ article figcaption{
   font-weight: bold;
 }
 
+article blockquote{
+  padding: .1em .5em;
+  border-left: 4px solid #0078e7;
+  background-color: #ebebf7;
+}
+
 h2.ca-title{
   font-size: 2em;
   text-align: center;
