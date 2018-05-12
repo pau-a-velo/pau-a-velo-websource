@@ -2,11 +2,16 @@
   <h1 id="agenda" class="section-title">Agenda</h1>
   {{ partial "up_arrow" }}
   <div class="pure-g">
-    {{ $pages := where .Site.RegularPages.ByDate "Type" "agenda" }}
-    {{ $pages := where $pages ".Date" "ge" (now.AddDate 0 0 -1) }}
-    {{ range $pages }}
+    {{ $pages := where .Site.RegularPages "Type" "agenda" -}}
+    {{ $pages := where $pages ".Date" "ge" (now.AddDate 0 0 -1) -}}
+    {{ $weighted_pages := where $pages "Weight" "!=" 0 -}}
+    {{ $standard_pages := where $pages "Weight" 0 -}}
+    {{ range $weighted_pages.ByWeight -}}
         {{ partial "cards/event.html" . }}
-    {{ end }}
+    {{ end -}}
+    {{ range $standard_pages.ByDate -}}
+        {{ partial "cards/event.html" . }}
+    {{ end -}}
   {{ with not $pages }}
     <div class="pure-u empty-label">
       L'agenda est vide pour le moment
