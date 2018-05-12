@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Promesses vélo de M. Bayrou"
 date: 2018-05-10T22:55:46+02:00
 author: "Sébastien Lamy"
