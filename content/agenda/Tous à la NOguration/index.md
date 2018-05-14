@@ -66,4 +66,4 @@ monte-charge en panne!
 [pannonceaux que nous proposons]: pau-a-velo-exclus-passerelle.pdf
 [5]: {{< relref "blog/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
 [6]: {{< relref "blog/Plan vélo-Consultation fantoche" >}}
-[le compte-rendu interne]: /ca/2018/reunions/2018-05-14-agglo-passerelle-bizanos-mazères-lezons-CR.pdf
+[le compte-rendu interne]: /ca/2018/réunions/2018-05-14-agglo-passerelle-bizanos-mazères-lezons-CR.pdf
