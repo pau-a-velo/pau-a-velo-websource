@@ -100,4 +100,4 @@ leur tiennent à coeur.
 Les mails adressés à l'association sont reçus par tous les administrateurs
 *(l'adresse mail de l'asso se trouve [en bas de page](#footer))*.
 Le conseil d'administration se réunit en général une fois par mois.
-Vous pouvez consulter tous les comptes-rendus [ici](#).
+Vous pouvez consulter les points abordés [ici](/ca/2018/#reunions).
