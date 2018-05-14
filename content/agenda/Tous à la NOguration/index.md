@@ -47,15 +47,16 @@ Lors du [rassemblement du 4 mars pour l'accessibilité][2], nous avons remis à
 l'agglo [un dossier de projet][]. L'agglo s'est alors engagée à organiser une
 réunion avec tous les acteurs concernés par l'accessibilité dès la semaine
 suivante. Après nos courriers de relance du [29 mars][3] et du [29 avril][4], la
-mairie a récemment proposé à Pau à Vélo un rendez-vous qui aura lieu le 14 mai,
-soit peu avant la NOguration. Ce rendez-vous sera l'occasion de rappeler
-fermement nos attentes, en cohérence avec [un des engagements de campagne
-de M.Bayrou en 2014][5]. Espérons qu'il ne s'agisse pas d'une  consultation
-fantoche comme [celle qui a eu lieu il y a un an sur le plan vélo][6].
-Espérons un vrai processus vers l'accessibilité, impliquant tous ceux qui sont
-actuellement exclus de cette passerelle. Nous souhaitons être **vraiment
-nombreux le 18 mai** pour que le chemin vers une passerelle accessible ne
-débouche ni sur une impasse, ni sur un monte-charge en panne!
+mairie a récemment proposé à Pau à Vélo un rendez-vous qui a eu lieu le 14 mai,
+soit peu avant la NOguration. Ce rendez-vous a été l'occasion de rappeler
+fermement nos attentes, en cohérence avec [un des engagements de campagne de
+M.Bayrou en 2014][5]. Vous pouvez en consulter [le compte-rendu interne][].
+Espérons que le processus d'avortement de la concertation observé pour [le plan
+vélo][6] ne soit pas reproduit sur ce dossier. Espérons un vrai processus vers
+l'accessibilité, impliquant tous ceux qui sont actuellement exclus de cette
+passerelle. Nous souhaitons être **vraiment nombreux le 18 mai** pour que le
+chemin vers une passerelle accessible ne débouche ni sur une impasse, ni sur un
+monte-charge en panne!
 
 [1]: http://www.larepubliquedespyrenees.fr/2018/04/25/bizanos-la-passerelle-sur-le-gave-sera-inauguree-le-18-mai,2330042.php
 [2]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}
@@ -65,3 +66,4 @@ débouche ni sur une impasse, ni sur un monte-charge en panne!
 [pannonceaux que nous proposons]: pau-a-velo-exclus-passerelle.pdf
 [5]: {{< relref "blog/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
 [6]: {{< relref "blog/Plan vélo-Consultation fantoche" >}}
+[le compte-rendu interne]: /ca/2018/reunions/2018-05-14-agglo-passerelle-bizanos-mazères-lezons-CR.pdf
