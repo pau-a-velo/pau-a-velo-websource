@@ -19,8 +19,8 @@ des déplacements urbains 3 axes principaux:
 
 En 11 point, M. Bayrou a détaillé les actions qu'il s'engageait à réaliser en
 faveur des déplacements à vélo. Nous reprenons ici ces 11 points en leurs
-donnant des titres<!-- et en plaçant en face nos constats et commentaires pour
-chacun d'eux. Nous tâcherons de tenir à jour ce carnet de bord vigilant-->.
+donnant des titres et en plaçant en face nos constats et commentaires pour
+chacun d'eux. Nous tâcherons de tenir à jour ce carnet de bord vigilant.
 
 
 
@@ -35,12 +35,13 @@ _Engagement 2014 de M. Bayrou:_
 > élus ayant déjà une sensibilité, des connaissances ou une pratique des modes
 > déplacement doux en ville.
 
-<!--
+
 ### Constat
+
 M. Bayrou a effectivement nommé M. Boniface, adhérent de longue date de Pau à
-Vélo, en charge du développement durable et des transport. Cependant,
-apparament desespéré par le manque de prise en compte de son travail, M. Boniface
-nous a signifié le 8 mars 2018 qu'il ne s'occupait plus du dossier vélo. Il n'y a donc
+Vélo, en charge du développement durable et des transport. Cependant, apparament
+desespéré par le manque de prise en compte de son travail, M. Boniface nous a
+signifié le 8 mars 2018 qu'il ne s'occupait plus du dossier vélo. Il n'y a donc
 actuellement plus de responsable vélo parmis les élus.
 
 M. Brin, en charge de la coordination générale et de l'urbanisme, est de fait
@@ -53,14 +54,16 @@ M. Capéran (travaux), nous a fait part de sa pratique du vélo lors de notre
 rencontre au rassemblement du 4 mars pour l'accessibilité de la passerelle.
 D'après nos éléments, il s'agirait surtout d'une pratique de loisir plus
 que d'une pratique utilitaire. N'hésitez pas à nous signaler si vous le
-croisez à vélo en ville.
+croisez régulièrement à vélo en ville.
 
 ### Commentaire
 
 Ce point n'est plus respecté, et il est de peu d'utilité si la voix du vélo
 reste placardisé. Avant l'élu vélo, il faut un maire qui ait une vraie envie de
-favoriser le vélo comme moyen de transport.
--->
+favoriser le vélo comme moyen de transport. L'élu vélo avec des pouvoirs
+conséquents n'est que la suite logique de ce préalable indispensable.
+Nous espérons contribuer à changer la vision de M. le maire par nos actions
+et le dialogue que nous pourrons mettre en place.
 
 ## 2. De la consultation organisée
 
@@ -74,48 +77,50 @@ _Engagement 2014 de M. Bayrou:_
 > avec votre association et tous les élus cités dans le point 1 et à minima une
 > réunion par an entre les dirigeants de l'association et le maire.
 
-<!--
 ### Constat
 
-Nombreux sont le projets de voiries qui ont été fait sans consulter notre
+* Nombreux sont le projets de voiries qui ont été fait sans consulter notre
 association: Etigny, place Gramont, rue du Mohédan, Boulevard des Pyrénées, rue
-des Alliés, rue Carnot, rue Orléan/Nogué, place Verdun. Il ne fait aucun doute
-que sur toutes ces rénovations, le déplacement en vélo aurait pu être largement
-plus favorisé si la volonté de le faire avait été là. Espérons un avenir
-meilleur, mais pour le moment le même constat se met en place pour la rénovation
-des Halles/foirail/Carnot, ainsi que pour toutes les rénovations liées au BHNS
-
-Nous n'avons jamais été conviés à une "réunion mensuelle" avec les services
+des Alliés, rue Carnot, rue Orléan/Nogué, place Verdun, avenue Trespoey. Il ne
+fait aucun doute que sur toutes ces rénovations, le déplacement en vélo aurait
+pu être largement plus favorisé si la volonté de le faire avait été là.  Pour la
+passerelle entre Bizanos et Mazères-Lezons, l'agglo nous a demandé le type de
+goulotte à mettre en place aux abords des escaliers. La décision "escalier"
+avait déjà été actée sans consultation préalable.
+* Nous n'avons jamais été conviés à une "réunion mensuelle" avec les services
 techniques.
-
-Bien que nous souhaitions une réunion trimestrielle avec les élus du point 1, ce
+* Bien que nous souhaitions une réunion trimestrielle avec les élus du point 1, ce
 type de réunion ne nous a jamais été proposé. Les seules réunions avec les élus
 qui ont eu lieu à ce jour avec les élus ont été:
-
-* une réunion de présentation du plan vélo, pour un processus de concertation
+  * une réunion de présentation du plan vélo, pour un processus de concertation
   avorté immédiatement
-* une réunion sur l'accessibilité de la passerelle Bizanos/Mazères-Lezons,
+  * une réunion sur l'accessibilité de la passerelle Bizanos/Mazères-Lezons,
   suite à un rassemblement public le 4 mars, plusieurs lettres de relance de
   notre part, et alors que l'inauguration de la passerelle était fixée avec
   une date très proche.
-
-La rencontre annuelle avec M. le maire n'a jamais eu lieu. Il reste possible
+* La rencontre annuelle avec M. le maire n'a jamais eu lieu. Il reste possible
 de l'interpeller publiquement au forum citoyen tous les vendredi soir où
 il a lieu.
-
-En décembre 2017, le SMTU a fait preuve de volontarisme en nous invitant pour
+* En décembre 2017, le SMTU a fait preuve de volontarisme en nous invitant pour
 nous présenter les évolutions envisagées pour son service de vélo en location
 longue durée, et vélo en libre service.
 
 ### Commentaire
 
-La réunion mensuelle avec les services techniques devait avoir lieu le 13è mois.
-Nous souhaitons une réunion trimestrielle avec les élus cité au point 1, nous
-n'avions pas compris qu ce souhait devait être manifesté par voie de
+* La réunion mensuelle avec les services techniques devait avoir lieu le 13è mois.
+* Nous souhaitons une réunion trimestrielle avec les élus cité au point 1, nous
+n'avions pas compris que ce souhait devait être manifesté par voie de
 rassemblements public, comme celui du 4 mars qui nous a permis d'obtenir notre
 deuxième rencontre avec eux depuis 2014, et avec un ordre du jour assez restreint
 (la passerelle)
--->
+* A l'heure où j'écris ces lignes (14 mai 2018), nous avons justement profité du
+forum du 20 avril 2018 pour demander la mise en place d'un processus de
+consultation sur les projets de voiries, et  une réunion en ce sens est prévu
+avec les services techniques le 16 mai. Nous espérons que la tenue de cet
+engagement va finir par se mettre en place. Espérons notamment pouvoir faire
+entendre la voix du déplacement à vélo sur la rénovation des
+Halles/foirail/Carnot, ainsi que pour toutes les rénovations liées au BHNS
+
 
 ## 3. Une information transparente et facile
 
@@ -126,16 +131,18 @@ _Engagement 2014 de M. Bayrou:_
 > ce que les dossiers présentés vous parviennent bien en amont afin que vous
 > puissiez les étudier avant que la réunion ne se tienne.
 
-<!--
+
 ### Constat
 
-Cet engagement n'a clairement pas été respecté pour les réfections de voirie.
-Nous avons pu recevoir des documents de la mairie qu'à une occasion depuis
-l'élection de M. Bayrou: Pour le plan vélo, un dossier nous a été transmis le 13
-avril 2017 pour une réunion le 3 mai 2017, et un avis à rendre pour le 5 mai.
-Ces délais sont pas "bien en amont" pour des bénévoles qui ont une vie active et
-doivent trouver le temps de se réunir après s'être documenté.
--->
+Cet engagement n'a clairement pas été respecté pour les réfections de voiries,
+pour lesquels aucun document ne nous a été transmis. Nous avons pu recevoir des
+documents de la mairie qu'à une occasion depuis l'élection de M. Bayrou: Pour le
+plan vélo, un dossier nous a été transmis le 13 avril 2017 pour une réunion le 3
+mai 2017, et un avis à rendre pour le 5 mai. Ces délais ne sont pas "bien en
+amont" pour des bénévoles qui ont une vie active et doivent trouver le temps de
+se réunir après s'être documenté.
+
+
 
 ## 4. Les aménagements nouveaux prendront en compte vélos et PMR
 
@@ -148,6 +155,34 @@ _Engagement 2014 de M. Bayrou:_
 > est gigantesque, mais nous nous engageons à mettre en place rapidement tous
 > les aménagements qui souvent ne coûtent pas très cher mais permettent à tous
 > d'avoir accès aux commerces et au bâtiments publics.
+
+### Constat
+
+* Ce point est mis à mal au niveau de la communauté d'agglomération, dont M.
+Bayrou est président. L'inauguration de la passerelle entre Bizanos et
+Mazères-Lezons se fera le 18 mai 2018 sans son accessibilité pour tous. A
+l'heure où j'écris ces lignes (14 mai 2018), les élus de l'agglomération ont
+manifesté une volonté de réaliser l'accessibilité de la passerelle en y
+impliquant les acteurs concernés. Reste à transformer l'essai.
+* Dans un passé proche, de nombreuse panne prolongée d'ascenseur sont venus
+contredire cette priorité accordé à l'accessibilité. L'ascenseur PMR du
+funiculaire est resté en panne pendant un mois, et les ascenseurs du Hédas ont
+connus plusieurs disfonctionnement qui ont tardés à être résolus. Au Hédas, nous
+regrettons que la pente douce vers la place d'Espagne ait été balayée au premier
+obstacle technique rencontré. L'avantage de la pente est qu'elle ne tombe pas en
+panne.
+* Le gros point noir de l'accessibilité publique à Pau reste la gare SNCF, et les
+services de M. Bayrou ont informés en forum citoyen qu'ils bataillent contre les
+nombreux obstacles que leur pose la SNCF et les batiments de France sur le sujet.
+
+### Commentaire
+
+Les aménagements les moins chers sont ceux qu'on ne fait pas, mais ils ne
+permettent pas à tous d'accéder aux batiments publics. Nous espérons la
+réalisation effective de l'accessibilité de la passerelle avec une pente douce,
+regrettons l'annulation du projet de pente douce vers la place d'Espagne depuis
+le Hédas, et souhaitons que M. Bayrou réussisse sa bataille pour l'accessibilité
+de la gare.
 
 
 ## 5. Sécurisation des itinéraires existants
@@ -162,6 +197,15 @@ _Engagement 2014 de M. Bayrou:_
 > quantitatif au mépris du bon sens mais dans un souci constant de qualité et
 > surtout de sécurité.
 
+### Constat
+
+Depuis le début de la mandature, l'entretien de la peinture et de l'espace
+cyclable est loin d'avoir été irréprochable. Aucune bande "dangereuse" n'a
+été modifiée à notre connaissance.
+M. Bayrou ne nous a pas menti en nous prévenant que "son but ne sera pas un
+développement quantitatif": Le réseau cyclable est resté quasiment inchangé
+jusqu'à présent, hormis la création de la piste du boulevard des Pyrénées
+et le tracé le long de l'avenue Trespoey.
 
 ## 6. Un maillage sécurisé, 3 axes cyclables principaux, des parcours agréables entre quartiers
 
@@ -186,6 +230,12 @@ _Engagement 2014 de M. Bayrou:_
 > et les habitants des quartiers à la mise en place d'aménagements légers et
 > d'une signalétique adaptée.
 
+Baromètre: accès au centre ville = point noir
+Aménagements légers zone 30: on les attends comme à Billère
+Plan vélo: voir la consultation fantoche, qu'il faut relancer.
+
+# Commentaire
+au même titre -> Il faudrait les favoriser, pas seulement les mettre au même titre
 
 ## 7. Apaisement et sécurisation aux abords des établissements scolaires.
 
@@ -196,6 +246,8 @@ _Engagement 2014 de M. Bayrou:_
 > serai intransigeant sur cet aspect pour nos concitoyens et en particulier pour
 > nos enfants.
 
+Vrai pour ce qui est touchén par le BHNS (Henri iv et calandreta). Mais le futur reste lointain
+Accès rue viard reste un enfer.
 
 ## 8. Développer les zones "pietonnes"
 
