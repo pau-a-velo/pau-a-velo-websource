@@ -35,6 +35,7 @@ _Engagement 2014 de M. Bayrou:_
 > élus ayant déjà une sensibilité, des connaissances ou une pratique des modes
 > déplacement doux en ville.
 
+<!--
 ### Constat
 M. Bayrou a effectivement nommé M. Boniface, adhérent de longue date de Pau à
 Vélo, en charge du développement durable et des transport. Cependant,
@@ -59,7 +60,7 @@ croisez à vélo en ville.
 Ce point n'est plus respecté, et il est de peu d'utilité si la voix du vélo
 reste placardisé. Avant l'élu vélo, il faut un maire qui ait une vraie envie de
 favoriser le vélo comme moyen de transport.
-
+-->
 
 ## 2. De la consultation organisée
 
@@ -73,6 +74,7 @@ _Engagement 2014 de M. Bayrou:_
 > avec votre association et tous les élus cités dans le point 1 et à minima une
 > réunion par an entre les dirigeants de l'association et le maire.
 
+<!--
 ### Constat
 
 Nombreux sont le projets de voiries qui ont été fait sans consulter notre
@@ -113,6 +115,7 @@ n'avions pas compris qu ce souhait devait être manifesté par voie de
 rassemblements public, comme celui du 4 mars qui nous a permis d'obtenir notre
 deuxième rencontre avec eux depuis 2014, et avec un ordre du jour assez restreint
 (la passerelle)
+-->
 
 ## 3. Une information transparente et facile
 
@@ -123,6 +126,7 @@ _Engagement 2014 de M. Bayrou:_
 > ce que les dossiers présentés vous parviennent bien en amont afin que vous
 > puissiez les étudier avant que la réunion ne se tienne.
 
+<!--
 ### Constat
 
 Cet engagement n'a clairement pas été respecté pour les réfections de voirie.
@@ -131,6 +135,7 @@ l'élection de M. Bayrou: Pour le plan vélo, un dossier nous a été transmis l
 avril 2017 pour une réunion le 3 mai 2017, et un avis à rendre pour le 5 mai.
 Ces délais sont pas "bien en amont" pour des bénévoles qui ont une vie active et
 doivent trouver le temps de se réunir après s'être documenté.
+-->
 
 ## 4. Les aménagements nouveaux prendront en compte vélos et PMR
 

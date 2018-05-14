@@ -51,12 +51,12 @@ mairie a récemment proposé à Pau à Vélo un rendez-vous qui a eu lieu le 14 
 soit peu avant la NOguration. Ce rendez-vous a été l'occasion de rappeler
 fermement nos attentes, en cohérence avec [un des engagements de campagne de
 M.Bayrou en 2014][5]. Vous pouvez en consulter [le compte-rendu interne][].
-Espérons que le processus d'avortement de la concertation observé pour [le plan
-vélo][6] ne soit pas reproduit sur ce dossier. Espérons un vrai processus vers
-l'accessibilité, impliquant tous ceux qui sont actuellement exclus de cette
-passerelle. Nous souhaitons être **vraiment nombreux le 18 mai** pour que le
-chemin vers une passerelle accessible ne débouche ni sur une impasse, ni sur un
-monte-charge en panne!
+Espérons que [l'avortement de la concertation pour le plan vélo][6] ne soit pas
+reproduit sur ce dossier. Espérons un vrai processus vers l'accessibilité,
+impliquant tous ceux qui sont actuellement exclus de cette passerelle. Nous
+souhaitons être **vraiment nombreux le 18 mai** pour que le chemin vers une
+passerelle accessible ne débouche ni sur une impasse, ni sur un monte-charge en
+panne!
 
 [1]: http://www.larepubliquedespyrenees.fr/2018/04/25/bizanos-la-passerelle-sur-le-gave-sera-inauguree-le-18-mai,2330042.php
 [2]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}
