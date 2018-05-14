@@ -35,6 +35,31 @@ _Engagement 2014 de M. Bayrou:_
 > élus ayant déjà une sensibilité, des connaissances ou une pratique des modes
 > déplacement doux en ville.
 
+### Constat
+M. Bayrou a effectivement nommé M. Boniface, adhérent de longue date de Pau à
+Vélo, en charge du développement durable et des transport. Cependant,
+apparament desespéré par le manque de prise en compte de son travail, M. Boniface
+nous a signifié le 8 mars 2018 qu'il ne s'occupait plus du dossier vélo. Il n'y a donc
+actuellement plus de responsable vélo parmis les élus.
+
+M. Brin, en charge de la coordination générale et de l'urbanisme, est de fait
+l'homme clé des aménagements de l'agglomération. Nous pouvons le créditer
+d'afficher une volonté de sortir du "tout voiture", mais nous ne l'avons pas
+croisé en vélo dans notre ville, ne manquez pas de nous informer si cela vous
+arrive.
+
+M. Capéran (travaux), nous a fait part de sa pratique du vélo lors de notre
+rencontre au rassemblement du 4 mars pour l'accessibilité de la passerelle.
+D'après nos éléments, il s'agirait surtout d'une pratique de loisir plus
+que d'une pratique utilitaire. N'hésitez pas à nous signaler si vous le
+croisez à vélo en ville.
+
+### Commentaire
+
+Ce point n'est plus respecté, et il est de peu d'utilité si la voix du vélo
+reste placardisé. Avant l'élu vélo, il faut un maire qui ait une vraie envie de
+favoriser le vélo comme moyen de transport.
+
 
 ## 2. De la consultation organisée
 
@@ -48,6 +73,46 @@ _Engagement 2014 de M. Bayrou:_
 > avec votre association et tous les élus cités dans le point 1 et à minima une
 > réunion par an entre les dirigeants de l'association et le maire.
 
+### Constat
+
+Nombreux sont le projets de voiries qui ont été fait sans consulter notre
+association: Etigny, place Gramont, rue du Mohédan, Boulevard des Pyrénées, rue
+des Alliés, rue Carnot, rue Orléan/Nogué, place Verdun. Il ne fait aucun doute
+que sur toutes ces rénovations, le déplacement en vélo aurait pu être largement
+plus favorisé si la volonté de le faire avait été là. Espérons un avenir
+meilleur, mais pour le moment le même constat se met en place pour la rénovation
+des Halles/foirail/Carnot, ainsi que pour toutes les rénovations liées au BHNS
+
+Nous n'avons jamais été conviés à une "réunion mensuelle" avec les services
+techniques.
+
+Bien que nous souhaitions une réunion trimestrielle avec les élus du point 1, ce
+type de réunion ne nous a jamais été proposé. Les seules réunions avec les élus
+qui ont eu lieu à ce jour avec les élus ont été:
+
+* une réunion de présentation du plan vélo, pour un processus de concertation
+  avorté immédiatement
+* une réunion sur l'accessibilité de la passerelle Bizanos/Mazères-Lezons,
+  suite à un rassemblement public le 4 mars, plusieurs lettres de relance de
+  notre part, et alors que l'inauguration de la passerelle était fixée avec
+  une date très proche.
+
+La rencontre annuelle avec M. le maire n'a jamais eu lieu. Il reste possible
+de l'interpeller publiquement au forum citoyen tous les vendredi soir où
+il a lieu.
+
+En décembre 2017, le SMTU a fait preuve de volontarisme en nous invitant pour
+nous présenter les évolutions envisagées pour son service de vélo en location
+longue durée, et vélo en libre service.
+
+### Commentaire
+
+La réunion mensuelle avec les services techniques devait avoir lieu le 13è mois.
+Nous souhaitons une réunion trimestrielle avec les élus cité au point 1, nous
+n'avions pas compris qu ce souhait devait être manifesté par voie de
+rassemblements public, comme celui du 4 mars qui nous a permis d'obtenir notre
+deuxième rencontre avec eux depuis 2014, et avec un ordre du jour assez restreint
+(la passerelle)
 
 ## 3. Une information transparente et facile
 
@@ -58,6 +123,14 @@ _Engagement 2014 de M. Bayrou:_
 > ce que les dossiers présentés vous parviennent bien en amont afin que vous
 > puissiez les étudier avant que la réunion ne se tienne.
 
+### Constat
+
+Cet engagement n'a clairement pas été respecté pour les réfections de voirie.
+Nous avons pu recevoir des documents de la mairie qu'à une occasion depuis
+l'élection de M. Bayrou: Pour le plan vélo, un dossier nous a été transmis le 13
+avril 2017 pour une réunion le 3 mai 2017, et un avis à rendre pour le 5 mai.
+Ces délais sont pas "bien en amont" pour des bénévoles qui ont une vie active et
+doivent trouver le temps de se réunir après s'être documenté.
 
 ## 4. Les aménagements nouveaux prendront en compte vélos et PMR
 
