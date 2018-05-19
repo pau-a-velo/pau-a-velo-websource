@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Tous à la NOguration!"
+title: "Tous à l'iNOguration!"
 publishdate: 2018-05-09T15:04:26+02:00
 author: "Sébastien Lamy"
 date: 2018-05-18
@@ -57,6 +57,8 @@ impliquant tous ceux qui sont actuellement exclus de cette passerelle. Nous
 souhaitons être **vraiment nombreux le 18 mai** pour que le chemin vers une
 passerelle accessible ne débouche ni sur une impasse, ni sur un monte-charge en
 panne!
+
+{{< image src="20180517-affiche_sur_passerelle.jpg" >}}
 
 [1]: http://www.larepubliquedespyrenees.fr/2018/04/25/bizanos-la-passerelle-sur-le-gave-sera-inauguree-le-18-mai,2330042.php
 [2]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}
