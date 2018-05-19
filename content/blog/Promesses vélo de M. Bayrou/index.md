@@ -19,8 +19,8 @@ des déplacements urbains 3 axes principaux:
 
 En 11 point, M. Bayrou a détaillé les actions qu'il s'engageait à réaliser en
 faveur des déplacements à vélo. Nous reprenons ici ces 11 points en leurs
-donnant des titres et en plaçant en face nos constats et commentaires pour
-chacun d'eux. Nous tâcherons de tenir à jour ce carnet de bord vigilant.
+donnant des titres<!-- et en plaçant en face nos constats et commentaires pour
+chacun d'eux. Nous tâcherons de tenir à jour ce carnet de bord vigilant-->.
 
 
 
@@ -35,7 +35,7 @@ _Engagement 2014 de M. Bayrou:_
 > élus ayant déjà une sensibilité, des connaissances ou une pratique des modes
 > déplacement doux en ville.
 
-
+<!--
 ### Constat
 
 M. Bayrou a effectivement nommé M. Boniface, adhérent de longue date de Pau à
@@ -63,7 +63,7 @@ reste placardisé. Avant l'élu vélo, il faut un maire qui ait une vraie envie 
 favoriser le vélo comme moyen de transport. L'élu vélo avec des pouvoirs
 conséquents n'est que la suite logique de ce préalable indispensable.
 Nous espérons contribuer à changer la vision de M. le maire par nos actions
-et le dialogue que nous pourrons mettre en place.
+et le dialogue que nous pourrons mettre en place. -->
 
 ## 2. De la consultation organisée
 
@@ -77,6 +77,7 @@ _Engagement 2014 de M. Bayrou:_
 > avec votre association et tous les élus cités dans le point 1 et à minima une
 > réunion par an entre les dirigeants de l'association et le maire.
 
+<!--
 ### Constat
 
 * Nombreux sont le projets de voiries qui ont été fait sans consulter notre
@@ -119,7 +120,7 @@ consultation sur les projets de voiries, et  une réunion en ce sens est prévu
 avec les services techniques le 16 mai. Nous espérons que la tenue de cet
 engagement va finir par se mettre en place. Espérons notamment pouvoir faire
 entendre la voix du déplacement à vélo sur la rénovation des
-Halles/foirail/Carnot, ainsi que pour toutes les rénovations liées au BHNS
+Halles/foirail/Carnot, ainsi que pour toutes les rénovations liées au BHNS-->
 
 
 ## 3. Une information transparente et facile
@@ -131,7 +132,7 @@ _Engagement 2014 de M. Bayrou:_
 > ce que les dossiers présentés vous parviennent bien en amont afin que vous
 > puissiez les étudier avant que la réunion ne se tienne.
 
-
+<!--
 ### Constat
 
 Cet engagement n'a clairement pas été respecté pour les réfections de voiries,
@@ -141,7 +142,7 @@ plan vélo, un dossier nous a été transmis le 13 avril 2017 pour une réunion 
 mai 2017, et un avis à rendre pour le 5 mai. Ces délais ne sont pas "bien en
 amont" pour des bénévoles qui ont une vie active et doivent trouver le temps de
 se réunir après s'être documenté.
-
+-->
 
 
 ## 4. Les aménagements nouveaux prendront en compte vélos et PMR
@@ -156,6 +157,7 @@ _Engagement 2014 de M. Bayrou:_
 > les aménagements qui souvent ne coûtent pas très cher mais permettent à tous
 > d'avoir accès aux commerces et au bâtiments publics.
 
+<!--
 ### Constat
 
 * Ce point est mis à mal au niveau de la communauté d'agglomération, dont M.
@@ -183,6 +185,7 @@ réalisation effective de l'accessibilité de la passerelle avec une pente douce
 regrettons l'annulation du projet de pente douce vers la place d'Espagne depuis
 le Hédas, et souhaitons que M. Bayrou réussisse sa bataille pour l'accessibilité
 de la gare.
+-->
 
 
 ## 5. Sécurisation des itinéraires existants
@@ -197,6 +200,7 @@ _Engagement 2014 de M. Bayrou:_
 > quantitatif au mépris du bon sens mais dans un souci constant de qualité et
 > surtout de sécurité.
 
+<!--
 ### Constat
 
 Depuis le début de la mandature, l'entretien de la peinture et de l'espace
@@ -206,6 +210,8 @@ M. Bayrou ne nous a pas menti en nous prévenant que "son but ne sera pas un
 développement quantitatif": Le réseau cyclable est resté quasiment inchangé
 jusqu'à présent, hormis la création de la piste du boulevard des Pyrénées
 et le tracé le long de l'avenue Trespoey.
+-->
+
 
 ## 6. Un maillage sécurisé, 3 axes cyclables principaux, des parcours agréables entre quartiers
 
@@ -230,12 +236,15 @@ _Engagement 2014 de M. Bayrou:_
 > et les habitants des quartiers à la mise en place d'aménagements légers et
 > d'une signalétique adaptée.
 
+<!--
 Baromètre: accès au centre ville = point noir
 Aménagements légers zone 30: on les attends comme à Billère
 Plan vélo: voir la consultation fantoche, qu'il faut relancer.
 
 # Commentaire
 au même titre -> Il faudrait les favoriser, pas seulement les mettre au même titre
+-->
+
 
 ## 7. Apaisement et sécurisation aux abords des établissements scolaires.
 
@@ -246,8 +255,10 @@ _Engagement 2014 de M. Bayrou:_
 > serai intransigeant sur cet aspect pour nos concitoyens et en particulier pour
 > nos enfants.
 
+<!--
 Vrai pour ce qui est touchén par le BHNS (Henri iv et calandreta). Mais le futur reste lointain
 Accès rue viard reste un enfer.
+-->
 
 ## 8. Développer les zones "pietonnes"
 
