@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "iNOguration et revendications"
 date: 2018-05-19T16:24:14+02:00
 author: "Sébastien Lamy"
