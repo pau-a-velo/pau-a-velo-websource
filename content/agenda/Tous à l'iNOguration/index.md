@@ -64,7 +64,7 @@ panne!
 [2]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}
 [3]: {{< relref "blog/Passerelle Bizanos-Mazères on attend toujours" >}}
 [4]: {{< relref "blog/Passerelle courrier avant iNOguration" >}}
-[un dossier de projet]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret_projet.pdf
+[un dossier de projet]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
 [pannonceaux que nous proposons]: pau-a-velo-exclus-passerelle.pdf
 [5]: {{< relref "blog/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
 [6]: {{< relref "blog/Plan vélo-Consultation fantoche" >}}
