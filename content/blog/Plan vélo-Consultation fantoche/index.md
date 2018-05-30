@@ -17,5 +17,10 @@ du 13 avril][2], nous attendons le compte-rendu officiel.
 **Note du 09 mai 2018** (un an après cet article): Nous n'avons toujours pas reçu
 le compte-rendu officiel.
 
+**Note du 16 mai 2018** Une [réunion avec le service "mobilité et espace publique"][3]
+en date d'aujourd'hui relance ce processus de consultation. Nous espérons une
+collaboration dans de meilleures conditions que celles de l'an dernier!
+
 [1]: 2017-05-09-pau-a-velo-courrier-plan-velo-2030.pdf
 [2]: 2017-04-13-synthese-reunion-agglo-plan-velo-2030.pdf
+[3]: /ca/2018/#direction-espace-public-et-mobilites-information-et-consultation-de-pau-a-velo
