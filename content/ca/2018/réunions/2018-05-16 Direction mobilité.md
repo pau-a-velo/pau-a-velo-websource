@@ -1,9 +1,10 @@
 ---
-title: "Direction espace public et mobilités: Information et consultation de Pau à Vélo"
+title: "Information et consultation de Pau à Vélo par les services techniques municipaux"
 date: 2018-05-16
 ---
 
-Cette réunion avait été actée le 20 avril 2018 au cours du forum citoyen de M.
+Cette réunion avec la direction des services techniques "espaces publics et
+mobilités" avait été actée le 20 avril 2018 au cours du forum citoyen de M.
 Bayrou à la médiathéque. La volonté de remettre sur pied un processus
 d'information et de consultation de notre association par les services
 techniques de la ville avait alors été confirmée par M. Bayrou et par notre

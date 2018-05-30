@@ -23,4 +23,4 @@ collaboration dans de meilleures conditions que celles de l'an dernier!
 
 [1]: 2017-05-09-pau-a-velo-courrier-plan-velo-2030.pdf
 [2]: 2017-04-13-synthese-reunion-agglo-plan-velo-2030.pdf
-[3]: /ca/2018/#direction-espace-public-et-mobilites-information-et-consultation-de-pau-a-velo
+[3]: /ca/2018/#information-et-consultation-de-pau-a-velo-par-les-services-techniques-municipaux
