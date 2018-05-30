@@ -27,7 +27,7 @@
                   {{ partial "event_date.html" .}}
                 </div>
                 <div class="pure-u-1 pure-u-sm-19-24">
-                  <h2>{{ .Title }}</h2>
+                  <h2 id="{{ .Title | urlize }}">{{ .Title }}</h2>
                   <div>
                     {{ .Content }}
                   </div>
