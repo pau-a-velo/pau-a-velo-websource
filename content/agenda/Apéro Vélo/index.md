@@ -16,10 +16,10 @@ espoirs, révolte, satisfaction, idées d'aménagements, idées de revendication
 idées d'actions.
 
 Pour imaginer et peut être aussi construire une ville plus belle avec des
-déplacements plus doux, quitte à affronter le lendemain la gueule de bois de la
-réalité paloise à vélo, en circulant sur le fameux ring cyclable spécialement
-aménagé pour favoriser les déplacement doux: Mermoz, Paix (variante:
-Berard-Tourasse), Nobel-Leclerc, Alsace-Lorraine (variante: Edouard VII,
-Lacoste-Biray), avant de descendre  vers le pont du 14 juillet via Verdun Marca.
+déplacements plus doux... Quitte à affronter le lendemain la gueule de bois de
+la réalité paloise à vélo, en circulant sur le fameux _ring cyclable_ spécialement
+aménagé : Mermoz, Paix (variante: Berard-Tourasse), Nobel-Leclerc,
+Alsace-Lorraine (variante: Edouard VII, Lacoste-Biray), avant de descendre  vers
+le pont du 14 juillet via Verdun Marca.
 
-Vivement les pistes du BHNS! mais nous feront-elles oublier tout ça?
+Vivement les pistes du BHNS! mais pourront-elles nous faire oublier tout ça?
