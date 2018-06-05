@@ -1,5 +1,4 @@
 ---
-draft: true
 header: "/agenda/faites-du-velo/header.png"
 title: "Faites du vélo 2018 à Pau"
 date: 2018-06-04T21:30:59+02:00
@@ -15,7 +14,7 @@ tags:
 Pour la fête du vélo 2018, Pau à Vélo a souhaité apporter tous les éléments
 qui peuvent favoriser ce mode de déplacement actif.
 
-Samedi 2 juin à la médiathèque andré Labarrère, tout était là pour donner
+Samedi 2 juin à la médiathèque André Labarrère, tout était là pour donner
 envie de se déplacer à vélo:
 
 * **Deux conférences de cardiologues** (Olivier Faucher et Jean-Yves Beigbeder)
@@ -76,8 +75,7 @@ des allées de Morlaas.
 permettait d'assurer un premier entretien/contrôle du vélo fraichement acheté, ou
 bien de prendre un peu soin de son vélo de toujours.
 
-La manifestation a valu [un bel article dans la république][] et un autre dans Sud
-Ouest. L'évènement avait aussi été annoncé sur France Bleu.
+La manifestation a valu [un bel article dans la république][].
 
 
 [Une exposition sur les pratiques du vélo en ville]: expo-faites-du-velo-2018-pau-a-velo.pdf

@@ -21,3 +21,5 @@ réalité paloise à vélo, en circulant sur le fameux ring cyclable spécialeme
 aménagé pour favoriser les déplacement doux: Mermoz, Paix (variante:
 Berard-Tourasse), Nobel-Leclerc, Alsace-Lorraine (variante: Edouard VII,
 Lacoste-Biray), avant de descendre  vers le pont du 14 juillet via Verdun Marca.
+
+Vivement les pistes du BHNS! mais nous feront-elles oublier tout ça?
