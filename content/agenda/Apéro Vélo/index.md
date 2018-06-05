@@ -1,0 +1,23 @@
+---
+title: "Apéro Vélo"
+publishdate: 2018-06-05T11:45:17+02:00
+author: "Sébastien Lamy"
+date: 2018-06-08
+lieu: "Bondi Beach, 14 rue du maréchal Joffre"
+horaire: 18h
+tags:
+---
+
+Lancement du premier apéro vélo!
+
+L'occasion de discuter autour de la pratique du vélo pour ses déplacements
+quotidiens. Anecdotes, blagues, commentaires, interrogations, lamentations,
+espoirs, révolte, satisfaction, idées d'aménagements, idées de revendications,
+idées d'actions.
+
+Pour imaginer et peut être aussi construire une ville plus belle avec des
+déplacements plus doux, quitte à affronter le lendemain la gueule de bois de la
+réalité paloise à vélo, en circulant sur le fameux ring cyclable spécialement
+aménagé pour favoriser les déplacement doux: Mermoz, Paix (variante:
+Berard-Tourasse), Nobel-Leclerc, Alsace-Lorraine (variante: Edouard VII,
+Lacoste-Biray), avant de descendre  vers le pont du 14 juillet via Verdun Marca.
