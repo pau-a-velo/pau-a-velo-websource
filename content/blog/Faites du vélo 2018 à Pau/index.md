@@ -11,7 +11,7 @@ tags:
   - medias
 ---
 
-Pour la fête du vélo 2018, Pau à Vélo a souhaité apporter tous les éléments
+Pour la fête du vélo 2018, Pau à Vélo a souhaité apporter les éléments
 qui peuvent favoriser ce mode de déplacement actif.
 
 Samedi 2 juin à la médiathèque André Labarrère, tout était là pour donner
