@@ -84,4 +84,4 @@ La manifestation a valu [un bel article dans la république][].
 [L'association écocène]: http://ecocene.fr/
 [Idecycle]: http://www.reseau-idelis.com/1105-IDEcycle---Votre-service-velo-de-l-agglomeration-paloise.html
 [sa nouvelle gamme de vélo en location longue durée]: http://www.reseau-idelis.com/affichage.php?id=1134
-[un bel article dans la république]: rep-fete-velo-2018.pdf
+[un bel article dans la république]: http://www.larepubliquedespyrenees.fr/2018/06/04/pau-et-le-velo-je-t-aime-moi-non-plus,2357056.php
