@@ -17,9 +17,11 @@ idées d'actions.
 
 Pour imaginer et peut être aussi construire une ville plus belle avec des
 déplacements plus doux... Quitte à affronter le lendemain la gueule de bois de
-la réalité paloise à vélo, en circulant sur le fameux _ring cyclable_ spécialement
-aménagé : Mermoz, Paix (variante: Berard-Tourasse), Nobel-Leclerc,
-Alsace-Lorraine (variante: Edouard VII, Lacoste-Biray), avant de descendre  vers
-le pont du 14 juillet via Verdun Marca.
+la réalité paloise à vélo, en circulant sur un  _ring cyclable_ spécialement
+aménagé : suivez les points rouges selon votre fantaisie, et terminez par
+le bad-trip du 14 juillet après la redescente Marca.
+
+![]({{< relref "blog/Prochains axes de travail sur les aménagements" >}}header.png")
+
 
 Vivement les pistes du BHNS! mais pourront-elles nous faire oublier tout ça?
