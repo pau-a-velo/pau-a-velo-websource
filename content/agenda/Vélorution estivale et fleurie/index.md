@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Vélorution estivale et fleurie"
 publishdate: 2018-07-03T11:41:11+02:00
 author: "Sébastien Lamy"
