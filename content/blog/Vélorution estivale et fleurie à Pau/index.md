@@ -1,0 +1,111 @@
+---
+title: "Vélorution estivale et fleurie à Pau"
+date: 2018-07-15T23:30:58+02:00
+author: "Sébastien Lamy"
+tags:
+  - action
+  - balade
+---
+
+> Donnons sa **chance** au vélo
+
+Tel était le slogan de la _vélorution estivale et fleurie_ qui s'est déroulée
+à Pau le **vendredi 13** du mois de juillet 2018.
+
+Une petite centaine de participants étaient au rendez-vous. Slogans, fleurs,
+tenues estivales, sono, [journalistes de "la rép"][]: tout était là pour un
+moment festif et  revendicatif.
+
+{{< gallery "clemenceau" >}}
+
+Le principe de la vélorution: les cyclistes assurent leur sécurité par
+le nombre, en occupant pleinement la route qui redevient alors une rue.
+_(Merci à tous ceux qui ont bloqué les intersections le temps que passe
+la vélorution!)_
+
+{{< gallery "velorution" >}}
+
+Dans l'agglomération paloise, l'espace public est essentiellement dédié aux
+déplacements motorisés. Cette réalité ne répond plus aux enjeux présents:
+pollution, sédentarité, insécurité routière, effet de serre, bruit, bouchons,
+encombrement au dépend de la vie sociale, urbanisation démesurée au dépend des
+terres cultivables et de la proximité, coût des transports. Tout plaide pour que
+le vélo qui soit désormais le grand favorisé des modes de déplacement.
+
+![](poumons_plus.jpg)
+![](balance_ta_caisse.jpg)
+
+A Pau et dans l'agglo, nombreux sont ceux qui souhaitent se déplacer à vélo pour
+contribuer à leur bien être et à celui des autres. Mais ils sont presque aussi
+nombreux à penser que se déplacer à vélo à Pau ou dans l'agglo, c'est mettre sa
+vie en danger. Les vélorutionnaires du 13 juillet 2018 ont donc interpellé le
+maire sous sa fenêtre:
+
+> Le maire   
+> à vélo!
+
+> Le maire   
+> à vélo! 
+
+> Le maire   
+> à vélo!
+
+![](mairie.jpg)
+
+Pau a été très mal classée au [baromètre des villes cyclables][] sorti ce
+printemps (classement E: plutôt défavorale au vélo). De nombreuses rénovations
+récentes d'espace public n'ont pas su donner au vélo la place, la priorité et la
+sécurité qu'il mérite. **Place Gramont** par exemple, le vélo se trouve en
+montée (donc à un rythme lent) sur une voie étroite, et sans aucune
+signalisation qui interdise aux voitures de le dépasser. Même en
+zone 30, celui qui se déplace en vélo se sent en danger sur cette voie à fort
+transit. Il y avait pourtant largement la place de faire des pistes cyclables
+lors de sa rénovation, mais la municipalité à préféré augmenter la surface
+dédiée au parterre fleuri central. 
+
+**Et des cyclistes fleuris, ça peut avoir une augmentation de surface dédiée?**
+
+Oui: en formant un gros bouquet pour s'approprier entièrement la place Gramont!
+Les cyclistes fleuris ont commencé par insister en faisant trois fois le tour,
+et ont trouvé ça si chouette qu'ils ont fait deux tours _bonus
+supplémentaire_, poussant à bout la patience des conducteurs motorisés bloqués
+aux entrées. Ces cinq petits tours à vélo ont pourtant provoqué beaucoup [moins
+de bouchons que les grands tours du circuit de Pau][1] en voiture de
+courses! (et fait beaucoup moins de bruit, et couté [beaucoup moins cher]...)
+
+Avant d'arriver au Hédas, comment oublier cet escalier place d'Espagne dont
+la rampe d'accès initialement prévue a été abandonnée ? 
+
+ ![](hedas_abandonné.png)
+
+{{< gallery "escaliers_espagne" >}}
+ 
+Au côté de "Ville Partagée", Pau à Vélo avait [protesté contre cet abandon] lors
+de l'inauguration de la place d'Espagne en décembre 2017.
+ 
+Une fois l'obstacle passé, les vélorutionnaires ont pu tourner autour d'une
+planète dessinée à la craie sur la place Récaborde pour l'occasion, avant de
+déployer le slogan des cycladins sur une banderole géante.
+
+{{< gallery "planete_banderole" >}}
+
+Mais que serait une vélorution sans un [bike salute] final?
+
+{{< gallery "bike_salute" >}}
+
+L'orage du soir s'était retenu jusqu'à l'auberge espagnole, il a ensuite gentiment
+dispersé les participants avec quelques gouttes bien placées, avant de saucer
+complètement les quelques vélorutionnaires obstinés restés sur place, dans
+l'euphorie de ce moment réussi!
+
+Après tout, on sait qu'il n'y a pas de mauvais temps, mais seulement de mauvais
+équipements!
+
+![place et sécurité pour les vélos: changeons de braquet!](place_securite.jpg)
+
+[journalistes de "la rép"]: http://www.larepubliquedespyrenees.fr/2018/07/14/pau-une-velorution-joyeuse-mais-determinee,2385538.php
+[baromètre des villes cyclables]: {{< relref "/blog/Résultats du baromètre des villes cyclables" >}}
+[beaucoup moins cher]: https://alternatives-pyrenees.com/2018/05/25/il-faut-sauver-les-grands-prix-de-pau/
+[bike salute]: http://carfree.fr/index.php/2015/01/23/soulevez-votre-velo/
+[protesté contre cet abandon]: http://www.villepartage.com/2017/12/ville-partagee-et-pau-velo-face-face.html
+[1]: http://www.larepubliquedespyrenees.fr/2018/05/15/pau-des-embouteillages-monstres-ce-lundi-apres-midi,2343167.php
