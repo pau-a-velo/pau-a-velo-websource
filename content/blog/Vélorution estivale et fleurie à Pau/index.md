@@ -12,8 +12,8 @@ tags:
 Tel était le slogan de la _vélorution estivale et fleurie_ qui s'est déroulée
 à Pau le **vendredi 13** du mois de juillet 2018.
 
-Une petite centaine de participants étaient au rendez-vous. Slogans, fleurs,
-tenues estivales, sono, [journalistes de "la rép"][]: tout était là pour un
+Une petite centaine de participants était au rendez-vous. Slogans, fleurs,
+tenues estivales, sono, [journalistes de "la rép"][] : tout était là pour un
 moment festif et  revendicatif.
 
 {{< gallery "clemenceau" >}}
@@ -26,11 +26,11 @@ la vélorution!)_
 {{< gallery "velorution" >}}
 
 Dans l'agglomération paloise, l'espace public est essentiellement dédié aux
-déplacements motorisés. Cette réalité ne répond plus aux enjeux présents:
+déplacements motorisés. Cette réalité ne répond plus aux enjeux présents :
 pollution, sédentarité, insécurité routière, effet de serre, bruit, bouchons,
-encombrement au dépend de la vie sociale, urbanisation démesurée au dépend des
+encombrement au dépens de la vie sociale, urbanisation démesurée au dépens des
 terres cultivables et de la proximité, coût des transports. Tout plaide pour que
-le vélo qui soit désormais le grand favorisé des modes de déplacement.
+le vélo soit désormais le grand favorisé des modes de déplacement.
 
 ![](poumons_plus.jpg)
 ![](balance_ta_caisse.jpg)
@@ -58,7 +58,7 @@ récentes d'espace public n'ont pas su donner au vélo la place, la priorité et
 sécurité qu'il mérite. **Place Gramont** par exemple, le vélo se trouve en
 montée (donc à un rythme lent) sur une voie étroite, et sans aucune
 signalisation qui interdise aux voitures de le dépasser. Même en
-zone 30, celui qui se déplace en vélo se sent en danger sur cette voie à fort
+zone 30, celui qui se déplace à vélo se sent en danger sur cette voie à fort
 transit. Il y avait pourtant largement la place de faire des pistes cyclables
 lors de sa rénovation, mais la municipalité à préféré augmenter la surface
 dédiée au parterre fleuri central. 
@@ -67,16 +67,17 @@ dédiée au parterre fleuri central.
 
 Oui: en formant un gros bouquet pour s'approprier entièrement la place Gramont!
 Les cyclistes fleuris ont commencé par insister en faisant trois fois le tour,
-et ont trouvé ça si chouette qu'ils ont fait deux tours _bonus
-supplémentaire_, poussant à bout la patience des conducteurs motorisés bloqués
-aux entrées. Ces cinq petits tours à vélo ont pourtant provoqué beaucoup [moins
-de bouchons que les grands tours du circuit de Pau][1] en voiture de
-courses! (et fait beaucoup moins de bruit, et couté [beaucoup moins cher]...)
+et ont trouvé ça si chouette qu'ils ont fait deux tours _bonus_, poussant à bout
+la patience des conducteurs motorisés bloqués aux entrées. Ces cinq petits tours
+à vélo ont pourtant provoqué beaucoup [moins de bouchons que les grands tours du
+circuit de Pau][1] en voiture de course ! (et fait beaucoup moins de bruit, et
+coûté [beaucoup moins cher]...)
 
 Avant d'arriver au Hédas, comment oublier cet escalier place d'Espagne dont
 la rampe d'accès initialement prévue a été abandonnée ? 
 
- ![](hedas_abandonné.png)
+![](hedas_abandonné.png)   
+ _plan de la rampe d'accès initialement prévue place d'Espagne_
 
 {{< gallery "escaliers_espagne" >}}
  
