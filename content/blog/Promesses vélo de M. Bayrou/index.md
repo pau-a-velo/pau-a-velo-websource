@@ -298,7 +298,7 @@ _Engagement 2014 de M. Bayrou:_
 > ville. Les "tourne à droite" aux feux, les doubles sens cyclables (dans les
 > zones 30 bien évidemment, à minima et en priorité), les sas vélos aux feux et
 > la signalisation impasses débouchantes seront développés. Par exemple, je
-> pense que les sas vélos aux faeux devraient être quasi généralisés, cela ne
+> pense que les sas vélos aux feux devraient être quasi généralisés, cela ne
 > coûte pratiquement rien (de la peinture uniquement) et c'est un aménagement
 > qui sécurise le cycladin et lui évite de respirer les gaz de pots
 > d'échappement. Il me semble aussi important de plus développer les stations de
