@@ -5,12 +5,16 @@ author: "Sébastien Lamy"
 tags:
   - action
   - balade
+  - place d'Espagne
+  - Gramont
 ---
 
-> Donnons sa **chance** au vélo
+> Donnons sa **chance** au vélo !
 
 Tel était le slogan de la _vélorution estivale et fleurie_ qui s'est déroulée
 à Pau le **vendredi 13** du mois de juillet 2018.
+
+![](affiche.jpg)
 
 Une petite centaine de participants était au rendez-vous. Slogans, fleurs,
 tenues estivales, sono, [journalistes de "la rép"][] : tout était là pour un
@@ -19,9 +23,7 @@ moment festif et  revendicatif.
 {{< gallery "clemenceau" >}}
 
 Le principe de la vélorution: les cyclistes assurent leur sécurité par
-le nombre, en occupant pleinement la route qui redevient alors une rue.
-_(Merci à tous ceux qui ont bloqué les intersections le temps que passe
-la vélorution!)_
+le nombre, en occupant pleinement la route qui redevient alors une rue.[^1]
 
 {{< gallery "velorution" >}}
 
@@ -39,7 +41,7 @@ A Pau et dans l'agglo, nombreux sont ceux qui souhaitent se déplacer à vélo p
 contribuer à leur bien être et à celui des autres. Mais ils sont presque aussi
 nombreux à penser que se déplacer à vélo à Pau ou dans l'agglo, c'est mettre sa
 vie en danger. Les vélorutionnaires du 13 juillet 2018 ont donc interpellé le
-maire sous sa fenêtre:
+maire sous sa fenêtre :
 
 > Le maire   
 > à vélo!
@@ -53,7 +55,7 @@ maire sous sa fenêtre:
 ![](mairie.jpg)
 
 Pau a été très mal classée au [baromètre des villes cyclables][] sorti ce
-printemps (classement E: plutôt défavorale au vélo). De nombreuses rénovations
+printemps (classement E : plutôt défavorale au vélo). De nombreuses rénovations
 récentes d'espace public n'ont pas su donner au vélo la place, la priorité et la
 sécurité qu'il mérite. **Place Gramont** par exemple, le vélo se trouve en
 montée (donc à un rythme lent) sur une voie étroite, et sans aucune
@@ -65,7 +67,7 @@ dédiée au parterre fleuri central.
 
 **Et des cyclistes fleuris, ça peut avoir une augmentation de surface dédiée?**
 
-Oui: en formant un gros bouquet pour s'approprier entièrement la place Gramont!
+Oui : en formant un gros bouquet pour s'approprier entièrement la place Gramont !
 Les cyclistes fleuris ont commencé par insister en faisant trois fois le tour,
 et ont trouvé ça si chouette qu'ils ont fait deux tours _bonus_, poussant à bout
 la patience des conducteurs motorisés bloqués aux entrées. Ces cinq petits tours
@@ -90,17 +92,18 @@ déployer le slogan des cycladins sur une banderole géante.
 
 {{< gallery "planete_banderole" >}}
 
-Mais que serait une vélorution sans un [bike salute] final?
+Mais que serait une vélorution sans un [bike salute] final ?
 
 {{< gallery "bike_salute" >}}
 
 L'orage du soir s'était retenu jusqu'à l'auberge espagnole, il a ensuite gentiment
 dispersé les participants avec quelques gouttes bien placées, avant de saucer
 complètement les quelques vélorutionnaires obstinés restés sur place, dans
-l'euphorie de ce moment réussi!
+l'euphorie de ce moment réussi !
 
 Après tout, on sait qu'il n'y a pas de mauvais temps, mais seulement de mauvais
-équipements!
+équipements !
+
 
 ![place et sécurité pour les vélos: changeons de braquet!](place_securite.jpg)
 
@@ -110,3 +113,6 @@ Après tout, on sait qu'il n'y a pas de mauvais temps, mais seulement de mauvais
 [bike salute]: http://carfree.fr/index.php/2015/01/23/soulevez-votre-velo/
 [protesté contre cet abandon]: http://www.villepartage.com/2017/12/ville-partagee-et-pau-velo-face-face.html
 [1]: http://www.larepubliquedespyrenees.fr/2018/05/15/pau-des-embouteillages-monstres-ce-lundi-apres-midi,2343167.php
+
+
+[^1]: _Merci à tous ceux qui ont bloqué les intersections le temps que passe la vélorution !_
