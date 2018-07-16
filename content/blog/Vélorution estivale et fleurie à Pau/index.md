@@ -32,7 +32,8 @@ déplacements motorisés. Cette réalité ne répond plus aux enjeux présents :
 pollution, sédentarité, insécurité routière, effet de serre, bruit, bouchons,
 encombrement au dépens de la vie sociale, urbanisation démesurée au dépens des
 terres cultivables et de la proximité, coût des transports. Tout plaide pour que
-le vélo soit désormais le grand favorisé des modes de déplacement.
+le vélo soit désormais le grand favorisé des modes de déplacement, et qu'un
+[système vélo complet][] soit mis en place dans l'agglo.
 
 ![](poumons_plus.jpg)
 ![](balance_ta_caisse.jpg)
@@ -40,7 +41,7 @@ le vélo soit désormais le grand favorisé des modes de déplacement.
 A Pau et dans l'agglo, nombreux sont ceux qui souhaitent se déplacer à vélo pour
 contribuer à leur bien être et à celui des autres. Mais ils sont presque aussi
 nombreux à penser que se déplacer à vélo à Pau ou dans l'agglo, c'est mettre sa
-vie en danger. Les vélorutionnaires du 13 juillet 2018 ont donc interpellé le
+vie en danger. Les vélorutionnaires du 13 juillet 2018 ont donc interpellé le 
 maire sous sa fenêtre :
 
 > Le maire   
@@ -55,15 +56,18 @@ maire sous sa fenêtre :
 ![](mairie.jpg)
 
 Pau a été très mal classée au [baromètre des villes cyclables][] sorti ce
-printemps (classement E : plutôt défavorale au vélo). De nombreuses rénovations
-récentes d'espace public n'ont pas su donner au vélo la place, la priorité et la
-sécurité qu'il mérite. **Place Gramont** par exemple, le vélo se trouve en
-montée (donc à un rythme lent) sur une voie étroite, et sans aucune
-signalisation qui interdise aux voitures de le dépasser. Même en
-zone 30, celui qui se déplace à vélo se sent en danger sur cette voie à fort
-transit. Il y avait pourtant largement la place de faire des pistes cyclables
-lors de sa rénovation, mais la municipalité à préféré augmenter la surface
-dédiée au parterre fleuri central. 
+printemps (classement E : plutôt défavorale au vélo). Contrairement aux
+[engagements de campagne de M. Bayrou][], les aménagements cyclables existants
+ne sont pas entretenus ([engagement 5][] et [engagement 11][]), l'accès au
+centre ville reste très peu sécurisé à vélo ([engagement 6][]) et de nombreux
+aménagements nouveaux n'ont pas su donner au vélo la place, la priorité et la
+sécurité qu'il mérite ([engagement 4][]). **Place Gramont** par exemple, le vélo
+se trouve en montée (donc à un rythme lent) sur une voie étroite, et sans aucune
+signalisation qui interdise aux voitures de le dépasser. Même en zone 30, celui
+qui se déplace à vélo se sent en danger sur cette voie à fort transit. Il y
+avait pourtant largement la place de faire des pistes cyclables lors de sa
+rénovation, mais la municipalité à préféré augmenter la surface dédiée au
+parterre fleuri central. 
 
 **Et des cyclistes fleuris, ça peut avoir une augmentation de surface dédiée?**
 
@@ -108,6 +112,12 @@ Après tout, on sait qu'il n'y a pas de mauvais temps, mais seulement de mauvais
 ![place et sécurité pour les vélos: changeons de braquet!](place_securite.jpg)
 
 [journalistes de "la rép"]: http://www.larepubliquedespyrenees.fr/2018/07/14/pau-une-velorution-joyeuse-mais-determinee,2385538.php
+[système vélo complet]: http://fr.forumviesmobiles.org/reperes/systeme-velo-12437
+[engagements de campagne de M. Bayrou]: {{< relref "blog/Promesses vélo de M. Bayrou" >}}
+[engagement 5]: {{< relref "blog/Promesses vélo de M. Bayrou#5-sécurisation-des-itinéraires-existants" >}}
+[engagement 11]: {{< relref "blog/Promesses vélo de M. Bayrou#11-réfléchir-et-entretenir-les-aménagements-cyclables" >}}
+[engagement 6]: {{< relref "blog/Promesses vélo de M. Bayrou#6-un-maillage-sécurisé-3-axes-cyclables-principaux-des-parcours-agréables-entre-quartiers" >}}
+[engagement 4]: {{< relref "blog/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
 [baromètre des villes cyclables]: {{< relref "/blog/Résultats du baromètre des villes cyclables" >}}
 [beaucoup moins cher]: https://alternatives-pyrenees.com/2018/05/25/il-faut-sauver-les-grands-prix-de-pau/
 [bike salute]: http://carfree.fr/index.php/2015/01/23/soulevez-votre-velo/
