@@ -9,6 +9,8 @@ tags:
   - Gramont
 ---
 
+{{< youtube QDPw4LRzl-M >}}
+
 > Donnons sa **chance** au vélo !
 
 Tel était le slogan de la _vélorution estivale et fleurie_ qui s'est déroulée
