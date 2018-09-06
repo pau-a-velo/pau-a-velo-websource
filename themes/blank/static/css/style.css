@@ -715,6 +715,20 @@ footer .social a{
  margin-right:0.5em;
 }
 
+footer .credit{
+  color:#666;
+  font-size: 0.8em;
+  padding-top: 2em;
+}
+
+footer .credit a{
+  color:#888;
+  text-decoration: underline;
+}
+
+footer .credit a:hover{
+  color: #eee;
+}
 
 /**********************************************
 GALLERY
