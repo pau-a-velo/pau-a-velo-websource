@@ -2,7 +2,7 @@
 title: "Réunions avec les services techniques"
 date: 2018-09-06T01:39:55+02:00
 author: "Sébastien Lamy"
-tags:
+tags:  
   - courrier
   - aménagements
   - BHNS
@@ -17,10 +17,12 @@ directeur de ce pôle a été présent à plusieurs occasions. Nous n'en sommes 
 encore au point où nous sommes systématiquement consulté en amont de tout projet
 urbain ou de voirie ([engagement 2][]), et invités à chaque commission
 circulation ([engagement 3][]). Et puis, nous attendons toujours une vraie
-rencontre pour parler vélo avec M. Bayrou ([engagement 2][]), nous lui
-avons réclamé plusieurs fois par oral et par écrit depuis le mois d'avril.
-Cependant, ces réunions avec les services techniques sont une avancée dans le
-dialogue. 
+rencontre pour parler vélo avec M. Bayrou ([engagement 2][]), nous lui avons
+réclamé plusieurs fois par oral et par écrit depuis le mois d'avril. Cependant,
+ces réunions avec les services techniques sont une avancée dans le dialogue. Ils
+nous permettent de mieux cerner les projets en cours et à venir, d'émettre nos
+avis et suggestions sur ces projets, et d'obtenir plus facilement des retours sur 
+nos propositions, nos mécontentements et nos questions.
 
 Malheureusement, les services techniques ne souhaitent pas que les documents
 qu'ils nous présentent en réunion soient publiés ici. Reste la possibilité
