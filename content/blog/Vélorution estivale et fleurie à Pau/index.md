@@ -58,7 +58,7 @@ maire sous sa fenêtre :
 ![](mairie.jpg)
 
 Pau a été très mal classée au [baromètre des villes cyclables][] sorti ce
-printemps (classement E : plutôt défavorale au vélo). Contrairement aux
+printemps (classement E : plutôt défavorable au vélo). Contrairement aux
 [engagements de campagne de M. Bayrou][], les aménagements cyclables existants
 ne sont pas entretenus ([engagement 5][] et [engagement 11][]), l'accès au
 centre ville reste très peu sécurisé à vélo ([engagement 6][]) et de nombreux

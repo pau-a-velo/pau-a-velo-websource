@@ -11,12 +11,12 @@ tags:
 ---
 
 Natacha CHARTIER nous a mis en copie d'un courrier qu'elle a adressé à M. le
-Maire et qu'elle nous a autorisé à partager avec vous. On y parle du manque
+Maire et qu'elle nous a autorisés à partager avec vous. On y parle du manque
 d'aménagement, des incivilités dangereuses de certains automobilistes, du
 boulevard des Pyrénées, des avantages du vélo et du nombre croissant de
 cyclistes, de la nécessité d'offrir aux enfants la possibilité de se rendre en
 sécurité en vélo à l'école, collège, lycée. Un rappel que le vélo n'est pas une
 lubie mais un moyen de déplacement qui doit être pris au sérieux.
 
-Cette lettre adressée au Maire nous a touché. Elle exprime avec justesses
+Cette lettre adressée au Maire nous a touchés. Elle exprime avec justesse
 des constats et des aspirations que nous partageons. Vous pouvez [la consulter](courrier-chartier-au-maire-de-pau.pdf).

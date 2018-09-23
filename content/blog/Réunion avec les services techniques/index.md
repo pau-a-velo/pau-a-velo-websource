@@ -75,8 +75,6 @@ Nous leur avons aussi glissé des idées qui ne coûtent pas grand chose, comme
 sécuriser la place Gramont en montée), ou encore [les céder-le-passage au
 feux][] (pas que pour tourner à droite).
 
-Prochaine réunion le 11 septembre 2018.
-
 
 [la page qui liste nos réunions]: /ca/2018/#reunions
 [engagement 2]: {{< relref "blog/Promesses vélo de M. Bayrou#2-de-la-consultation-organisée" >}}
