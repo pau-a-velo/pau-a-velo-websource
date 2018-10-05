@@ -35,7 +35,7 @@ pour "vélorutionner" les déplacements en ville.
 
 <div style="text-align:center;padding:1em 0;">
 <a  class="pure-button pure-button-primary"
-    href="https://www.cotizasso.com/participation/adhesion/2118"
+    href="https://www.cotizasso.com/participation/adhesion/2265"
     target="_blank">
     Accéder au formulaire<br/>
     d'adhésion en ligne
