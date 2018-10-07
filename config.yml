@@ -4,6 +4,8 @@ baseurl: "/"
 # Title of your site
 title: "Pau à Vélo"
 
+newContentEditor: C:\Program Files\Notepad++\notepad++.exe
+
 #menu principal
 menu:
   main:
