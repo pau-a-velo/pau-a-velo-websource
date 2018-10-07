@@ -1,0 +1,22 @@
+---
+title: "Passerelle Bizanos : courrier à la préfecture"
+date: 2018-09-10T17:57:15+02:00
+author: "Sébastien Lamy"
+tags:
+    - courrier
+    - passerelle
+    - voie verte
+---
+
+Pau à Vélo revendique toujours l'accessibilité de la passerelle entre Bizanos et
+Mazères-Lezon. Comme indiqué dans [notre article sur son iNOguration][], la mairie a
+transmis [notre projet de rampe d'accès][] "tel quel" à la préfecture, pour avoir
+son avis sur la faisabilité du projet. Nous avons reçu copie de sa lettre le 25
+mai. Sans nouvelle depuis, nous avons écris une lettre à la préfecture pour 
+connaître son retour, et établir un contact sur ce sujet. Vous pouvez 
+[consulter notre lettre][].
+
+
+[notre article sur son iNOguration]: {{< ref "blog/iNOguration et revendications" >}}
+[notre projet de rampe d'accès]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
+[consulter notre lettre]: 20180910-pau-a-velo-prefet-passerelle.pdf
