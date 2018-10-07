@@ -9,6 +9,7 @@ tags:
   - cyclotourisme
   - faites du vélo
   - medias
+  - sensibilisation
 ---
 
 Pour la fête du vélo 2018, Pau à Vélo a souhaité apporter les éléments

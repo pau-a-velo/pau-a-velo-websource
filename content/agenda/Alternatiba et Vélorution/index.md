@@ -7,6 +7,7 @@ lieu: "Départ Friche Laherrère"
 horaire: 11h
 tags:  
     - action
+    - vélorution
 ---
 
 le [Tour Alternatiba][] passe à Pau le dimanche 30 septembre. Au total du 9 juin au

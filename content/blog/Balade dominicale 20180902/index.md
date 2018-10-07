@@ -1,6 +1,6 @@
 ---
 title: "Balade du dimanche 2 septembre 2018"
-date: 2018-09-13T01:00:34+02:00
+date: 2018-09-03T01:00:34+02:00
 author: "Hervé Laurent"
 tags:
   - balade

@@ -1,6 +1,6 @@
 ---
 title: "Courrier d'une cycladine à M. Bayrou"
-date: 2018-09-06T00:12:22+02:00
+date: 2018-08-31T00:12:22+02:00
 author: "Sébastien Lamy"
 tags:
   - courrier
