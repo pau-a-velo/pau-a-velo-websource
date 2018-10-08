@@ -21,6 +21,6 @@ Certains points on fait l'objet d'un document rédigé à part et sont détaill�
   6. [Modèle de circulation à Gand]
 
 [retour2020]: /ca/2018/réunions/2018-06-25-pau-a-velo-retour-2020-ST.pdf
-[BHNS]: {{< ref "/blog/BHNS visite des itinéraires cyclables" >}}
-[Corps Francs Pommiès]: {{< ref "/blog/Corps Franc Pommiès un chaînon à sécuriser" >}}
-[Modèle de circulation à Gand]: {{< ref "/blog/Favoriser le vélo sans débourser" >}}
+[BHNS]: /blog/bhns-visite-des-itineraires-cyclables/
+[Corps Francs Pommiès]: /blog/corps-franc-pommies-un-chaînon-a-securiser/
+[Modèle de circulation à Gand]: /blog/favoriser-le-velo-sans-debourser/

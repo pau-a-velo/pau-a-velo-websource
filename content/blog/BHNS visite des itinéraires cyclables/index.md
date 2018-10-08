@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "BHNS : visite des itinéraires cyclables"
 date: 2018-06-26T03:21:53+02:00
 author: "Sylvain Thibeau"

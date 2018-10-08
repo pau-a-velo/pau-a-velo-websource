@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Reprise du dialogue avec la mairie"
 date: 2018-09-24T01:39:55+02:00
 author: "Sébastien Lamy"

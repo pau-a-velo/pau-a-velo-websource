@@ -1,5 +1,5 @@
 ---
-title: "Apéro Vélo 20181005"
+title: "Apéro Vélo"
 publishdate: 2018-10-08T09:48:23+02:00
 author: "Sébastien Lamy"
 date: 2018-10-05
