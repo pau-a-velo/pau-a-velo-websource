@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Favoriser le vélo sans débourser"
 date: 2018-06-26T03:29:02+02:00
 author: "Sébastien Lamy"

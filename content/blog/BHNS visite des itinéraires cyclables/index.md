@@ -1,13 +1,12 @@
 ---
-draft: true
 title: "BHNS : visite des itinéraires cyclables"
 date: 2018-06-26T03:21:53+02:00
 author: "Sylvain Thibeau"
 tags:
   - BHNS
   - courrier
-  - dialogue mairie
   - proposition
+  - aménagements
 ---
 
 Les travaux du BHNS avancent, nous en avons profité pour faire une petite visite

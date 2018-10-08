@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Parlons vélo avec M. Bayrou"
 date: 2018-09-29T21:55:53+02:00
 author: "Sébastien Lamy"

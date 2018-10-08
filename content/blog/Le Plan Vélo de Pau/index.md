@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Le Plan Vélo de Pau"
 date: 2018-10-08T14:04:10+02:00
 author: "Sébastien Lamy"
