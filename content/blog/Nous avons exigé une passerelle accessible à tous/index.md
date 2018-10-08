@@ -9,6 +9,7 @@ tags:
   - accessibilité
   - passerelle
   - proposition
+  - continuité cyclable
 ---
 
 Le **dimanche 4 mars 2018**, nous étions environ 150 à nous réunir à [l'appel

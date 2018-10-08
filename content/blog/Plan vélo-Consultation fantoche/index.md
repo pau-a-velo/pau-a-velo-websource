@@ -3,8 +3,9 @@ title: "Plan vélo: Consultation fantoche"
 date: 2017-05-09T22:38:48+02:00
 author: "Christophe Nussbaumer"
 tags:
-  - plan vélo 2030
+  - plan vélo
   - courrier
+  - dialogue mairie
 ---
 
 Voici [le courrier "Pau à Vélo" adressé aujourd'hui][1] à Véronique Hourcade

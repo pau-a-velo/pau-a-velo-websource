@@ -8,6 +8,7 @@ tags:
   - accessibilité
   - médias
   - courrier
+  - continuité cyclable
 ---
 
 Que l'on nomme aussi "Ubuzanos" comme "ubuesque". En plein dans une voie verte

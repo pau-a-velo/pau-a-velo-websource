@@ -6,6 +6,8 @@ tags:
   - courrier
   - aménagements
   - Idron
+  - proposition
+  - continuité cyclable
 ---
 
 La mairie d'Idron se lance dans l'aménagement d'une liaison douce sur l'avenue

@@ -6,6 +6,7 @@ date: 2018-10-12
 lieu: "Coulée Douce (bar de la cité des Pyrénées), 29 bis rue Berlioz"
 horaire: 18h
 tags:
+  - atelier vélo
 ---
 
 En plus de nous permettre de côtoyer un peu [l'Atelier Vélo Participatif et 

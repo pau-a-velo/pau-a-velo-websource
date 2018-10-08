@@ -6,6 +6,8 @@ date: 2018-09-14
 lieu: "La Coulée Douce, 29 rue Berlioz (Cité des Pyrénées)"
 horaire: 19h
 tags:
+  - atelier vélo
+
 ---
 
 Deux nouvelles tombent d'un coup:

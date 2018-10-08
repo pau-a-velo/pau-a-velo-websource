@@ -22,5 +22,5 @@ Certains points on fait l'objet d'un document rédigé à part et sont détaill�
 
 [retour2020]: /ca/2018/réunions/2018-06-25-pau-a-velo-retour-2020-ST.pdf
 [BHNS]: /blog/bhns-visite-des-itineraires-cyclables/
-[Corps Francs Pommiès]: /blog/corps-franc-pommies-un-chaînon-a-securiser/
+[Corps Francs Pommiès]: /blog/corps-franc-pommies-un-chainon-a-securiser/
 [Modèle de circulation à Gand]: /blog/favoriser-le-velo-sans-debourser/
