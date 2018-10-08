@@ -38,12 +38,12 @@ commentaires suivants:
   jusqu'à présent. L'entretien des peintures et le nettoyage des pistes doit être
   le premier signe d'une volonté vélo. Cet entretien devrait être explicitement
   mentionné dans le plan vélo.
-* Ce plan vélo aurait du sortir en début de mandat, nous regrettons le temps perdu.
 * **L'objectif de part modale** ne semble pas faire partie du plan, nous aimerions 
   que notre ville ambitionne les 10 % pour 2022, et fasse des mesures de part 
   modale. 
 * **Budget trop bas** alloué au vélo jusqu'à présent (900 000 euros sur 6 ans, au 
   lieu des 800 000 euros par an qui permettraient une vraie ambition vélo).
+* Ce plan vélo aurait du sortir en début de mandat, nous regrettons le temps perdu.
 * Trop peu de pistes (séparation physique). Paix, Tourasse, Alsace-Lorraine, 
   Leclerc-Nobel sont des traversantes est-ouest ou les bandes (peinture) 
   actuelles ne répondent pas à l'enjeu primordial du sentiment de sécurité, il en
