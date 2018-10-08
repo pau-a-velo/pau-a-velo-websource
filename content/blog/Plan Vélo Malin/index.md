@@ -4,6 +4,7 @@ date: 2018-01-30T14:50:01+02:00
 author: "Sébastien Lamy"
 tags:
   - plan vélo malin
+  - dialogue mairie
 ---
 
 "Pau à Vélo" a été sollicitée par la mairie pour collaborer à la réalisation
