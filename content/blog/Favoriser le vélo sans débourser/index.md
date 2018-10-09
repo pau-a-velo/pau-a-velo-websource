@@ -12,7 +12,7 @@ Face au constat d'un très faible budget alloué à la voirie en général (hors
 BHNS), et donc à la voirie vélo en particulier, nous avons rappelé aux services
 techniques municipaux la nécessité criante de prioriser le déplacement à vélo.
 Mais [la réunion du 25 juin 2018][] a aussi été l'occasion de leur parler d'une
-solution pas cher: la définition d'un plan de circulation, comme celui mis
+solution pas chère: la définition d'un plan de circulation, comme celui mis
 récemment en place à Gand (Belgique). Ce plan
 
 * limite drastiquement le transit automobile de courte distance,
@@ -20,7 +20,7 @@ récemment en place à Gand (Belgique). Ce plan
 * favorise le vélo et les transports en commun,
 * ne nécessite pas d'investir lourdement dans les infrastructures.
 
-Il est inspiré de celui mis en place pour Groningen (Pay-Bas) dans les année 80,
+Il est inspiré de celui mis en place pour Groningen (Pay-Bas) dans les années 80,
 et on retrouve cette logique dans de nombreuses autres villes, comme Houten
 (Pays-Bas). Vous pouvez [consulter notre présentation sur ce sujet ici][Gand et compagnie].
 

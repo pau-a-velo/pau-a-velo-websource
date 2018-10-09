@@ -13,8 +13,8 @@ tags:
 ---
 
 Vendredi dernier, la mairie de Pau à fait connaitre [son plan vélo à l'horizon
-2020][]. Notre association salut ce pas en avant vers une meilleure prise
-en compte des déplacements en vélo. Le CA a été consulté lors de son élaboration,
+2020][]. Notre association salue ce pas en avant vers une meilleure prise
+en compte des déplacements à vélo. Le CA a été consulté lors de son élaboration,
 et a pu donner son point de vue lors d'une série de réunions avec les services
 techniques.
 
@@ -26,7 +26,7 @@ commentaires suivants:
 * Ambition de **continuité** (sauf Tourasse?),
 * **jalonnement** prévu pour les itinéraires,
 * **limitation étendue de la vitesse** en centre ville,
-* ambition de créer des **support de communication** pratiques pour le déplacement 
+* ambition de créer des **supports de communication** pratiques pour le déplacement 
   à vélo,
 * un vrai effort des services techniques et un travail de consultation de notre association.
 * Avant la sortie de ce plan vélo, le renouveau du service de location longue 
@@ -35,9 +35,9 @@ commentaires suivants:
 ## Déceptions
 
 * **L'entretien du réseau existant** est essentiel et a été vraiment négligé 
-  jusqu'à présent. L'entretien des peintures et le nettoyage des pistes doit être
-  le premier signe d'une volonté vélo. Cet entretien devrait être explicitement
-  mentionné dans le plan vélo.
+  jusqu'à présent. L'entretien des peintures et le nettoyage des pistes et des 
+  bandes cyclables doivent être les premiers signe d'une volonté vélo. Cet 
+  entretien devrait être explicitement mentionné dans le plan vélo.
 * **L'objectif de part modale** ne semble pas faire partie du plan, nous aimerions 
   que notre ville ambitionne les 10 % pour 2022, et fasse des mesures de part 
   modale. 
@@ -48,9 +48,9 @@ commentaires suivants:
   Leclerc-Nobel sont des traversantes est-ouest ou les bandes (peinture) 
   actuelles ne répondent pas à l'enjeu primordial du sentiment de sécurité, il en
   va de même pour Mermoz. Qui plus est, la peinture aux normes actuelles semble 
-  s'effacer très vite, posant un vrai problème pour l'entretien des aménagements 
-  peints.
-* Chemin parfois trop tortueux (traversée de St Joseph)
+  s'effacer très vite, posant un vrai problème de visibilité.
+* Chemin parfois trop tortueux (traversée de St Joseph), qui ne favorisent pas
+  un déplacement efficace à vélo.
 * Rampes le long d'escaliers et petits ascenceurs ne constituent pas des 
   solutions satisfaisantes pour les enfants et les familles (remorque, 
   vélo-cargo).
@@ -60,7 +60,7 @@ commentaires suivants:
   peut pas être considéré comme un itinéraire complètement sécurisé (critère: un 
   parent peu laisser son enfant y rouler seul). Avec cette considération on 
   comprend que **l'accès vraiment sécurisé au centre ville ne semble pas prévu pour
-  2020, et c'est un point crucial**.
+  2020, ce qui est pourtant un point crucial**.
 * Dans le plan prévu, il manque la **connexion à la véloroute V81** sur la rive gauche
 * Le périmètre des stations Idecycle a été réduit.
   
@@ -70,32 +70,32 @@ commentaires suivants:
 
 * **Sécurisation des itinéraires et traitement des intersections**. Le sentiment de
   sécurité du cycliste est primordial, car la peur est le premier frein à la 
-  pratique du vélo. Largeur des bandes (1,5m), distance de sécurité entre bande 
-  et stationnement (ouverture de portière).
+  pratique du vélo. Prévoir des bandes cyclables de 1,5m de large et une distance 
+  de sécurité entre bande et stationnement (pour l'ouverture des portières), etc.
 * Stationnement: attention à poser des **arceaux correctement scellés** pour le 
   sécuriser. Ceux posés récemment ont une forme correcte, mais peuvent être 
   détachés du sol en enlevant les écrous.
 * La **loi Laure** a été violée sur de nombreuses reprises de chaussée jusqu'à 
   présent. Les aménagements faits et prévus pour le BHNS au centre ville ne 
-  respectent pas cette loi, le dernier en date étant la rue Cazaubon Norbert où 
+  respectent pas cette loi, le dernier en date étant la rue Cazaubon-Norbert où 
   deux voies voitures ont été peintes au débouché sur Alsace Lorraine sans aucun 
   aménagement cyclable. Rappel de la loi:
   
-  > Sur toute les chaussées refaites doivent être mis au point   des itinéraires 
-  > cyclables pourvus d'aménagements sous forme de pistes,   marquages au sol ou 
+  > Sur toute les chaussées refaites doivent être mis au point des itinéraires 
+  > cyclables pourvus d'aménagements sous forme de pistes, marquages au sol ou 
   > couloirs indépendants.
   
 <p style="padding-left: 2em;"> 
   La ville doit mettre un point d'honneur à respecter cette loi essentielle sur
-  toutes les routes qu'elle refait même si elle ne font pas partie du plan 2020,
-  et même si cela doit complexifier la circulation ou le stationnement 
-  automobile.</p>
+  toutes les routes qu'elle refait même pour celles qui ne font pas partie du 
+  plan 2020, et même si cela doit complexifier la circulation ou le 
+  stationnement automobile.</p>
   
 ## Suggérés en complément du plan 2020
 
 * Améliorer la communication pour inciter au report modal.
 * Mise en place de l’ikv dans les collectivités territoriales.
-* Aide à l’achat et à l’entretient du vélo (subvention atelier, point gonflage/réparation).
+* Aide à l’achat et à l’entretien du vélo (subvention atelier, point gonflage/réparation).
 * Tester des fermetures temporaires aux abords des écoles et des marchés, comme
   par exemple place Gramont le dimanche, rue Carnot aux abords des halles le 
   samedi. 
@@ -115,13 +115,8 @@ ligne de comparaison, mais aussi les lignes 13 à 15 et 18  à 20).
 
 La Rochelle est la mieux classée des villes de notre catégorie selon ce 
 baromètre, et **c'est une bonne ambition pour Pau de souhaiter offrir à ses 
-cycliste un confort et une sécurité comparable à ceux de La Rochelle**. Cet 
+cyclistes un confort et une sécurité comparable à ceux de La Rochelle**. Cet 
 objectif nécessite un fort engagement financier et politique.
-
-
-
-
-
 
 
 

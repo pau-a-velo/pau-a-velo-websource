@@ -17,7 +17,7 @@ Méliès].
 ![](affiche_small.jpg)
 A cette occasion, Magalie Flacelière a conté à l'ostracode la surprenante 
 histoire de "Graussmoless et la ville extraordinaire". Un moment de spectacle
-qui ne laisse pas indiférrent!
+qui ne laisse pas indifférent!
 
 <video controls width="100%"><source src="graussmoless_magalie.mp4" type="video/mp4"></video>
 

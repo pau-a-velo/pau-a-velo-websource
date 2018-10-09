@@ -12,10 +12,10 @@ rencontres font suite à une revendication portée directement auprès de M.
 Bayrou, en fin d'un forum citoyen du mois d'avril. Nos interlocuteurs font
 partie du pôle "mobilité et espaces publics", et le directeur de ce pôle a été
 présent à plusieurs occasions. Nous n'en sommes pas encore au point où nous
-sommes systématiquement consulté en amont de tout projet urbain ou de voirie
+sommes systématiquement consultés en amont de tout projet urbain ou de voirie
 ([engagement 2][]), et invités à chaque commission circulation ([engagement
 3][]).  Cependant, ces réunions avec les services techniques sont une avancée
-dans le dialogue. Ils nous permettent de mieux cerner les projets en cours et à
+dans le dialogue. Elles nous permettent de mieux cerner les projets en cours et à
 venir, d'émettre nos avis et suggestions sur ces projets, et d'obtenir plus
 facilement des retours sur  nos propositions, nos mécontentements et nos
 questions.
@@ -33,9 +33,9 @@ financement pour le vélo au regard des enjeux d'avenir.
 Tout en continuant de travailler avec les services techniques sur le réseau
 qu'ils envisagent pour 2020, nous avons donc insisté pour rencontrer
 également M. Bayrou en personne,  car il est le principal décisionnaire des
-ambitions portée par la ville. Après des relances orales et écrites réclamant
+ambitions portées par la ville. Après des relances orales et écrites réclamant
 cette rencontre, M. Bayrou nous a proposé [une rencontre le 28 septembre][], que
-nous avons accepté.
+nous avons acceptée.
 
 
 

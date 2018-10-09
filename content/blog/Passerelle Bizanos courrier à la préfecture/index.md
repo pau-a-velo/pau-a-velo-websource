@@ -9,13 +9,15 @@ tags:
 ---
 
 Pau à Vélo revendique toujours l'accessibilité de la passerelle entre Bizanos et
-Mazères-Lezon. Comme indiqué dans [notre article sur son iNOguration][], la mairie a
+Mazères-Lezons. Comme indiqué dans [notre article sur son iNOguration][], la mairie a
 transmis [notre projet de rampe d'accès][] "tel quel" à la préfecture, pour avoir
 son avis sur la faisabilité du projet. Nous avons reçu copie de sa lettre le 25
-mai. Sans nouvelle depuis, nous avons écris une lettre à la préfecture pour 
+mai. Sans nouvelle depuis, nous avons écrit une lettre à la préfecture pour 
 connaître son retour, et établir un contact sur ce sujet. Vous pouvez 
 [consulter notre lettre][].
 
+L'accès à la passerelle sera cité comme exemple d'aménagement insatisfaisant 
+lors d'une formation de la FUB
 
 [notre article sur son iNOguration]: {{< ref "blog/iNOguration et revendications" >}}
 [notre projet de rampe d'accès]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
