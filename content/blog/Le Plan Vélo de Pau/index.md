@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Le Plan Vélo de Pau"
 date: 2018-10-08T14:04:10+02:00
 author: "Sébastien Lamy"
@@ -44,26 +43,26 @@ commentaires suivants:
   modale. 
 * **Budget trop bas** alloué au vélo jusqu'à présent (900 000 euros sur 6 ans, au 
   lieu des 800 000 euros par an qui permettraient une vraie ambition vélo).
-* Ce plan vélo aurait du sortir en début de mandat, nous regrettons le temps perdu.
+* **La zone 30 ne suffit pas dans le cas d’un fort trafic**, et doit être 
+  accompagnée d’aménagements cyclables spécifiques (Gramont, Trespoey, Carnot, 
+  Garet, Soust avec le traffic actuel). Le partage d'une voie avec le bus ne 
+  peut pas être considéré comme un itinéraire complètement sécurisé (critère: un 
+  parent peu laisser son enfant y rouler seul). Avec cette considération on 
+  comprend que **l'accès vraiment sécurisé au centre ville ne semble pas prévu pour
+  2020, ce qui est pourtant un point crucial**.
 * Trop peu de pistes (séparation physique). Paix, Tourasse, Alsace-Lorraine, 
   Leclerc-Nobel sont des traversantes est-ouest ou les bandes (peinture) 
   actuelles ne répondent pas à l'enjeu primordial du sentiment de sécurité, il en
   va de même pour Mermoz. Qui plus est, la peinture aux normes actuelles semble 
   s'effacer très vite, posant un vrai problème de visibilité.
-* Chemin parfois trop tortueux (traversée de St Joseph), qui ne favorisent pas
-  un déplacement efficace à vélo.
+* Dans le plan prévu, il manque la **connexion à la véloroute V81** sur la rive gauche
 * Rampes le long d'escaliers et petits ascenceurs ne constituent pas des 
   solutions satisfaisantes pour les enfants et les familles (remorque, 
   vélo-cargo).
-* **La zone 30 ne suffit pas dans le cas d’un fort trafic**, et doit être 
-  accompagnée d’aménagements cyclables spécifiques (Gramont, Trespoey, Carnot, 
-  Garet, Soust avec le traffic actuel) . Le partage d'une voie avec le bus ne 
-  peut pas être considéré comme un itinéraire complètement sécurisé (critère: un 
-  parent peu laisser son enfant y rouler seul). Avec cette considération on 
-  comprend que **l'accès vraiment sécurisé au centre ville ne semble pas prévu pour
-  2020, ce qui est pourtant un point crucial**.
-* Dans le plan prévu, il manque la **connexion à la véloroute V81** sur la rive gauche
+* Chemins parfois trop tortueux (traversée de St Joseph), qui ne favorisent pas
+  un déplacement efficace à vélo.
 * Le périmètre des stations Idecycle a été réduit.
+* Ce plan vélo aurait du sortir en début de mandat, nous regrettons le temps perdu.
   
 
   
