@@ -11,7 +11,7 @@ tags:
 
 Le [Tour Alternatiba][] passait par Pau et Billère aujourd'hui. À cette occasion
 Pau à Vélo gérait l'encadrement d'une vélorution animée, motivée, et rythmée par
-des slogans explicites. "Et 1, et 2, et 3 degré, c'est un crime contre
+des slogans explicites. "Et 1, et 2, et 3 degrés, c'est un crime contre
 l'humanité", "Libérez les cyclistes enfermés dans les voitures", "Les piétons,
 avec nous!" "Les terrasses, avec nous!". 
 
