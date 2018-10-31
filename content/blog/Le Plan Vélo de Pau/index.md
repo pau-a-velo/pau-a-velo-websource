@@ -119,6 +119,18 @@ cyclistes un confort et une sécurité comparable à ceux de La Rochelle**. Cet
 objectif nécessite un fort engagement financier et politique.
 
 
+## Dans les médias
+Pour son JT local, France 3 a fait un bref reportage sur ce plan vélo, dans 
+lequel notre association apparait.
+<video controls width="100%"><source src="20181019-jt-local-1920-pau-sud-aquitaine-france3.mp4" type="video/mp4"></video>
+
+Vous pouvez également trouver [un article qui parle de notre point de vue dans
+la République des Pyrénées][la_rep] 
+
+
+[la_rep]: http://www.larepubliquedespyrenees.fr/2018/10/08/pau-a-velo-denonce-le-manque-de-securite-du-nouveau-plan,2439253.php
+
+
 
 [son plan vélo à l'horizon 2020]: http://www.pau.fr/2306-plan-velo.htm
 [la comparaison qui est faites avec les villes de taille similaire]: http://www.pau.fr/2315-les-realisations.htm

@@ -1,0 +1,34 @@
+---
+title: "Loi LAURE et BHNS"
+date: 2018-10-31T01:24:55+01:00
+author: "Sébastien Lamy"
+tags:
+  - courrier
+  - LAURE
+  - BHNS
+---
+
+La finalisation des travaux liés au passage du futur FEBUS en centre ville a  
+rappelé la triste réalité prévue sur le papier : **aucun aménagement spécifique 
+pour les vélos entre le boulevard Alsace-Lorraine et la gare SNCF**.
+Nous avons rédigé [un courrier pour faire un rappel de la loi LAURE][] (en vigueur
+depuis 2000), qui n'a manifestement pas été respectée sur ces rénovations 
+récentes. Nous avons joint à ce courrier [un document rédigé au mois de mars][] au 
+sujet des rénovation liées au BHNS, mais qui n'avait pas été envoyée suite à la
+[reprise du dialogue avec les services techniques de la ville][]. 
+
+Hervé à également diffusé une vidéo à ce sujet sur notre compte facebook:
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpauaveloo%2Fvideos%2F172924026979616%2F&show_text=0&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Devoir côtoyer des bus et des bus à soufflet dans les couloirs réservés peut 
+convenir à certains cyclistes, mais fera assurément renoncer de nombreuses 
+personnes à enfourcher leur vélo.
+En attendant une vraie accessibilité du centre ville avenc un sentiment de 
+sécurité pour tous, il faudra que la ville assure [la formation de ses 
+chauffeurs de bus] pour la cohabitation avec les vélos.
+
+[un courrier pour faire un rappel de la loi LAURE]: 2018-10-19-courrier-pav-bhns-laure.pdf
+[un document rédigé au mois de mars]: 2018-03-courrier-amenagements-cyclables-febus.pdf
+[reprise du dialogue avec les services techniques de la ville]: {{< relref "Reprise du dialogue avec la mairie" >}}
+[la formation de ses chauffeurs de bus]: https://twitter.com/Resolutebayldn/status/975364996149497856
