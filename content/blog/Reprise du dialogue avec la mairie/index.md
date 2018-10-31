@@ -40,6 +40,6 @@ nous avons acceptée.
 
 
 [la page qui liste nos réunions]: /ca/2018/#reunions
-[engagement 2]: {{< relref "blog/Promesses vélo de M. Bayrou#2-de-la-consultation-organisée" >}}
-[engagement 3]: {{< relref "blog/Promesses vélo de M. Bayrou#3-une-information-transparente-et-facile" >}} 
-[une rencontre le 28 septembre]: {{< relref "blog/Parlons vélo avec M. Bayrou">}}
+[engagement 2]: {{< relref "Promesses vélo de M. Bayrou#2-de-la-consultation-organisée" >}}
+[engagement 3]: {{< relref "Promesses vélo de M. Bayrou#3-une-information-transparente-et-facile" >}} 
+[une rencontre le 28 septembre]: {{< relref "Parlons vélo avec M. Bayrou">}}

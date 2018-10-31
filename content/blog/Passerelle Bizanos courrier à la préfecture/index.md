@@ -19,6 +19,6 @@ connaître son retour, et établir un contact sur ce sujet. Vous pouvez
 L'accès à la passerelle sera cité comme exemple d'aménagement insatisfaisant 
 lors d'une formation de la FUB
 
-[notre article sur son iNOguration]: {{< ref "blog/iNOguration et revendications" >}}
-[notre projet de rampe d'accès]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
+[notre article sur son iNOguration]: {{< ref "iNOguration et revendications" >}}
+[notre projet de rampe d'accès]: {{< relref "Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
 [consulter notre lettre]: 20180910-pau-a-velo-prefet-passerelle.pdf

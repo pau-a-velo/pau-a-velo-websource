@@ -123,11 +123,11 @@ Après tout, on sait qu'il n'y a pas de mauvais temps, mais seulement de mauvais
 
 [journalistes de "la rép"]: http://www.larepubliquedespyrenees.fr/2018/07/14/pau-une-velorution-joyeuse-mais-determinee,2385538.php
 [système vélo complet]: http://fr.forumviesmobiles.org/reperes/systeme-velo-12437
-[engagements de campagne de M. Bayrou]: {{< relref "blog/Promesses vélo de M. Bayrou" >}}
-[engagement 5]: {{< relref "blog/Promesses vélo de M. Bayrou#5-sécurisation-des-itinéraires-existants" >}}
-[engagement 11]: {{< relref "blog/Promesses vélo de M. Bayrou#11-réfléchir-et-entretenir-les-aménagements-cyclables" >}}
-[engagement 6]: {{< relref "blog/Promesses vélo de M. Bayrou#6-un-maillage-sécurisé-3-axes-cyclables-principaux-des-parcours-agréables-entre-quartiers" >}}
-[engagement 4]: {{< relref "blog/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
+[engagements de campagne de M. Bayrou]: {{< relref "Promesses vélo de M. Bayrou" >}}
+[engagement 5]: {{< relref "Promesses vélo de M. Bayrou#5-sécurisation-des-itinéraires-existants" >}}
+[engagement 11]: {{< relref "Promesses vélo de M. Bayrou#11-réfléchir-et-entretenir-les-aménagements-cyclables" >}}
+[engagement 6]: {{< relref "Promesses vélo de M. Bayrou#6-un-maillage-sécurisé-3-axes-cyclables-principaux-des-parcours-agréables-entre-quartiers" >}}
+[engagement 4]: {{< relref "Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
 [baromètre des villes cyclables]: {{< relref "/blog/Résultats du baromètre des villes cyclables" >}}
 [bouchons]: http://www.larepubliquedespyrenees.fr/2018/05/15/pau-des-embouteillages-monstres-ce-lundi-apres-midi,2343167.php
 [beaucoup moins cher]: https://alternatives-pyrenees.com/2018/05/25/il-faut-sauver-les-grands-prix-de-pau/

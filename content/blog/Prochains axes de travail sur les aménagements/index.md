@@ -7,7 +7,7 @@ tags:
 ---
 
 La FUB a récemment publié [les résultats nationaux baromètre des villes
-cyclables]({{<relref "blog/Résultats du baromètre des villes cyclables">}}) auxquels 460
+cyclables]({{<relref "Résultats du baromètre des villes cyclables">}}) auxquels 460
 usagers de Pau et son agglomération ont répondu. Pau à Vélo souhaite mener
 une campagne d’observation et de propositions sur des « points noirs » de
 la circulation à vélo, révélés par cette enquête.

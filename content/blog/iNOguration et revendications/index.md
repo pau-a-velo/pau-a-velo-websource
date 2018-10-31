@@ -50,7 +50,7 @@ du 12 février 2015 rend ce dépôt obligatoire pour une IOP (installation ouver
 au public) ce qui confirme l'évidence : cette passerelle est illégale en l'état. -->
 
 
-[notre appel]: {{< relref "agenda/Tous à l'iNOguration" >}}
+[notre appel]: {{< relref "/agenda/Tous à l'iNOguration" >}}
 [le compte-rendu interne]: /ca/2018/réunions/2018-05-14-agglo-passerelle-bizanos-mazères-lezons-CR.pdf
-[notre proposition pour l'accessibilité]: {{< relref "blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
+[notre proposition pour l'accessibilité]: {{< relref "Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
 [courrier de M.Bayrou adressé à la préfecture]: 20180525-courrier-bayrou-prefecture.pdf

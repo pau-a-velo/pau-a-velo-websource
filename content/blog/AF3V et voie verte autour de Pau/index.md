@@ -26,7 +26,7 @@ d'aménagement cyclable permettant de relier la partie est (à Gelos) et la part
 ouest (à Jurançon). C'est aussi sur cette voie verte que nous trouvons la
 passerelle de Bizanos en construction actuellement, avec un double escalier au
 mépris de la circulation en vélo, poussette, carriole...  (voir [notre appel
-au rassemblement sur ce sujet]({{< relref "agenda/rassemblement-passerelle-ubuzanos/index.md" >}}))
+au rassemblement sur ce sujet]({{< relref "/agenda/rassemblement-passerelle-ubuzanos/index.md" >}}))
 
 L'image en haut de page est  document de l'agglomération, datant de juin 2017,
 qui cartographie la voie verte au niveau de l'agglomération. Il comporte la

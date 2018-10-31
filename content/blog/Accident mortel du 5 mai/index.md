@@ -17,4 +17,4 @@ ville de Pau et communauté d'agglomération.
 
 Bonne journée et soyez prudents.
 
-[1]: {{< relref "blog/Accident mortel du 5 mai" >}}2017-05-09-pau-a-velo-communique-accident_mortel.pdf
+[1]: {{< relref "Accident mortel du 5 mai" >}}2017-05-09-pau-a-velo-communique-accident_mortel.pdf
