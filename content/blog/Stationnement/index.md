@@ -26,7 +26,8 @@ stationnements vélo à la médiathèque, en profitant si possible du auvent
 pour abriter de la pluie.
 * Par oral, nous avons demandé aux services techniques que soit augmenté le 
   nombre de stationnement vélo aux abords des halles. Il nous a été répondu
-  que cette augmentation était déjà prévue.  
+  que cette augmentation était déjà prévue. Mais clairement cette augmentation
+  devrait rester insuffisante pour l'affluence du samedi matin.
 * Nous avons relayé par mail des réclamations pour que soit installé
 un parking vraiment sécurisé aux abords de la gare SNCF. Vous pouvez [consulter
 notre mail].
