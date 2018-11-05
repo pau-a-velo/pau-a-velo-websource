@@ -1,6 +1,6 @@
 ---
-title: "Balade dominicale"
-date: 2018-11-04T22:26:14+01:00
+title: "Balade du dimanche 4 novembre 2018"
+date: 2018-11-05T12:26:14+01:00
 author: "Sébastien Lamy"
 tags:
   - balade
@@ -8,6 +8,7 @@ tags:
   - morlane
   - jeanne d'albret
   - philippon
+  - courrier
 ---
 
 Un temps magnifique pour cette balade du premier dimanche de novembre. L'occasion
@@ -34,10 +35,11 @@ Au retour de la forêt, nous avons été confrontés à une bande cyclable dispa
 le long d'un trottoir-chemin que certains ont pris pour l'itinéraire cyclable.
 Ce chemin était bordé d'une haie mal taillée, qui a provoquée la chute d'une 
 des participantes. Heureusement aucun mal. La photo ci-dessous est une mise 
-en scène du problème.
+en scène du problème. [Un courrier à ce sujet] a été envoyé à la mairie en suivant.
 
 ![](156-philippon-nov2018.jpg)
 
 Environ 20km et une matinée somme toute bien agréable.
 
 [l'action de "Ville partagée" à la rentrée]: http://www.larepubliquedespyrenees.fr/2018/09/15/pau-le-collectif-ville-partagee-s-inquiete-du-manque-de-securite-autour-des-colleges,2423492.php
+[Un courrier à ce sujet]: courrier-mairie-pav-continuité-marquage-bande-cyclable.pdf
