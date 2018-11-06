@@ -5,7 +5,7 @@ author: "Sébastien Lamy"
 tags:
   - balade
   - bastard
-  - morlane
+  - berlanne
   - jeanne d'albret
   - philippon
   - courrier
