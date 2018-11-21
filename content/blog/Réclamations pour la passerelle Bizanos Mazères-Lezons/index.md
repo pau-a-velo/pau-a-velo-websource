@@ -3,12 +3,15 @@ title: "Réclamations pour la passerelle Bizanos Mazères-Lezons"
 date: 2018-01-03
 author: "Sébastien Lamy"
 tags:
-  - passerelle
   - voie verte
+  - passerelle
+  - véloroute V81
   - accessibilité
   - médias
   - courrier
   - continuité cyclable
+  - Bizanos
+  - Mazères-Lezons
 ---
 
 Que l'on nomme aussi "Ubuzanos" comme "ubuesque". En plein dans une voie verte

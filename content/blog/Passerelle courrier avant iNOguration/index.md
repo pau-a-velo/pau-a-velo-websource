@@ -3,10 +3,13 @@ title: "Passerelle: courrier avant iNOguration"
 date: 2018-05-03T00:06:23+02:00
 author: "Sébastien Lamy"
 tags:
+  - voie verte
   - passerelle
   - courrier
   - accessibilité
-  - voie verte
+  - véloroute V81
+  - Bizanos
+  - Mazères-Lezons
 ---
 
 Une iNOguration de la passerelle entre Bizanos et Mazères-Lezons est annoncée

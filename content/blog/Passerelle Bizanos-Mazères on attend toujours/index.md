@@ -3,8 +3,9 @@ title: "Passerelle Bizanos-Mazères: on attend toujours!"
 date: 2018-04-17T15:44:11+02:00
 author: "Julie Champagne"
 tags:
-  - passerelle
   - voie verte
+  - passerelle
+  - véloroute V81
   - accessibilité
   - courrier
 ---

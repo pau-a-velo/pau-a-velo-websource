@@ -3,12 +3,13 @@ title: "Aménagement de la V81"
 date: 2018-05-07T22:27:04+02:00
 author: "Hervé Laurent"
 tags:
-  - voie verte
+  - véloroute V81
   - Gelos
   - Jurançon
   - Pau
   - courrier
   - 14 juillet
+  - aménagements
 ---
 
 Les travaux d'aménagement de la véloroute V81 avancent bon train ces derniers

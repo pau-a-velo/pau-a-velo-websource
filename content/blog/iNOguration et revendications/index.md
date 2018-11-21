@@ -6,7 +6,10 @@ tags:
   - passerelle
   - accessibilité
   - voie verte
+  - véloroute V81
   - action
+  - Bizanos
+  - Mazères-Lezons
 ---
 
 Suite à [notre appel], nous avons été présents à l'iNOguration officielle de la

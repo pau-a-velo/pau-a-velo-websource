@@ -3,9 +3,12 @@ title: "Passerelle Bizanos : courrier à la préfecture"
 date: 2018-09-10T17:57:15+02:00
 author: "Sébastien Lamy"
 tags:
-    - courrier
-    - passerelle
-    - voie verte
+  - voie verte
+  - courrier
+  - passerelle
+  - véloroute V81
+  - Bizanos
+  - Mazères-Lezons
 ---
 
 Pau à Vélo revendique toujours l'accessibilité de la passerelle entre Bizanos et

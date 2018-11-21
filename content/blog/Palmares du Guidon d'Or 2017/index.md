@@ -3,7 +3,15 @@ title: "Palmares du Guidon d'Or 2017"
 date: 2017-06-18T23:27:23+02:00
 author: "Christophe Nussbaumer"
 tags:
-  - aménagements
+  - aménagements  
+  - Bizanos
+  - Mazères-Lezons
+  - Billère
+  - Gan
+  - Lescar
+  - Lons
+  - Jurançon
+  - Idron
 ---
 
 Le samedi 3 juin 2017, dans le cadre de la Fête du Vélo, nous avons procédé à

@@ -4,12 +4,15 @@ date: 2018-03-13T16:02:43+02:00
 author: "Sébastien Lamy"
 tags:
   - voie verte
+  - véloroute V81
   - médias
   - action
   - accessibilité
   - passerelle
   - proposition
   - continuité cyclable
+  - Bizanos
+  - Mazères-Lezons
 ---
 
 Le **dimanche 4 mars 2018**, nous étions environ 150 à nous réunir à [l'appel
