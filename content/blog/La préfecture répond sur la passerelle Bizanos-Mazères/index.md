@@ -1,6 +1,6 @@
 ---
 title: "La préfecture répond sur la passerelle Bizanos-Mazères"
-date: 2018-11-05T15:48:26+01:00
+date: 2018-11-06T15:48:26+01:00
 author: "Julie Champagne"
 tags:
   - voie verte
