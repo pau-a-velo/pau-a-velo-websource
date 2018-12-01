@@ -11,6 +11,6 @@
   command = "hugo -D"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.38.2"
+  HUGO_VERSION = "0.49"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
