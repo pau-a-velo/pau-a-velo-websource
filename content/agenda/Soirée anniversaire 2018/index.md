@@ -2,7 +2,7 @@
 title: "Soirée anniversaire 2018"
 publishdate: 2018-12-02T00:12:17+01:00
 author: "Sébastien Lamy"
-date: 2018-12-08
+date: 2018-12-08T20:00:00+01:00
 lieu: "Un dimanche à la campagne (derrière le trinquet du parc Beaumont"
 horaire: 20h
 tags:
