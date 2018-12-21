@@ -32,6 +32,9 @@ metaDataFormat: yaml
 #enlève les accent dans les noms des fichiers générés
 removePathAccents: true
 
+# Les mots clés affichés sont préservés et non url-izés
+preserveTaxonomyNames: true
+
 pluralizeListTitles: false
 
 ## paramètre pour proposer du contenu en rapport avec l'article présenté
