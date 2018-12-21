@@ -21,7 +21,7 @@ la réalité paloise à vélo, en circulant sur un  _ring cyclable_ spécialemen
 aménagé : suivez les points rouges selon votre fantaisie, et terminez par
 le bad-trip du 14 juillet après la redescente Marca.
 
-![]({{< relref "/blog/Prochains axes de travail sur les aménagements" >}}header.png")
+![]({{< relref "/blog/2018/Prochains axes de travail sur les aménagements" >}}header.png")
 
 
 Vivement les pistes du BHNS! mais pourront-elles nous faire oublier tout ça?

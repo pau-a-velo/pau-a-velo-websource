@@ -61,11 +61,11 @@ panne!
 {{< image src="20180517-affiche_sur_passerelle.jpg" >}}
 
 [1]: http://www.larepubliquedespyrenees.fr/2018/04/25/bizanos-la-passerelle-sur-le-gave-sera-inauguree-le-18-mai,2330042.php
-[2]: {{< relref "/blog/Nous avons exigé une passerelle accessible à tous" >}}
-[3]: {{< relref "/blog/Passerelle Bizanos-Mazères on attend toujours" >}}
-[4]: {{< relref "/blog/Passerelle courrier avant iNOguration" >}}
-[un dossier de projet]: {{< relref "/blog/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
+[2]: {{< relref "/blog/2018/Nous avons exigé une passerelle accessible à tous" >}}
+[3]: {{< relref "/blog/2018/Passerelle Bizanos-Mazères on attend toujours" >}}
+[4]: {{< relref "/blog/2018/Passerelle courrier avant iNOguration" >}}
+[un dossier de projet]: {{< relref "/blog/2018/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
 [pannonceaux que nous proposons]: pau-a-velo-exclus-passerelle.pdf
-[5]: {{< relref "/blog/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
-[6]: {{< relref "/blog/Plan vélo-Consultation fantoche" >}}
+[5]: {{< relref "/blog/2018/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
+[6]: {{< relref "/blog/2017/Plan vélo-Consultation fantoche" >}}
 [le compte-rendu interne]: /ca/2018/réunions/2018-05-14-agglo-passerelle-bizanos-mazères-lezons-CR.pdf
