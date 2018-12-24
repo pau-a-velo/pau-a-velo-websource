@@ -745,10 +745,9 @@ GALLERY
 TAGS
 ***********************************************/
  .tags{
-  text-align: center;
   word-break: keep-all;
 }
-.tags h2{
+h2.xcard-title{
   color:#666;
 }
 .tags ul {

@@ -4,13 +4,12 @@
 			<div class="list-head pure-u-1">
 				<h1>{{ .Title }}</h1>
 			</div>
-      <div class="pure-u-1" style="background-color:white">
-			{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-            <a href="{{ .Permalink }}">{{ $name }}</a>
-        {{ end }}
-    {{ end }}
-    </div>
+      <div class="pure-u-1">
+      <article>
+        <div class="content">
+        {{ partial "tag-cloud.html" . }}
+        </div><article>
+      </div>
 		</main>
 	{{ partial "footer.html" . }}
 {{ end }}
