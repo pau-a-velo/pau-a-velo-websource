@@ -5,8 +5,9 @@
   <div class="portrait">
     {{- $portrait := $portraits.GetMatch (.nom | urlize | printf "%s.*") }}
     {{- with $portrait }}
-      {{- $src := ($portrait.Fill "240x320").Permalink }}
-      <image src="{{ $src }}">
+      {{/* - $src := ($portrait.Fill "240x320").Permalink */}}
+      {{- $src := ($portrait.Resize "240x").Permalink }}      
+      <img src="{{ $src }}" />
     {{- end }}
     <h3>{{ .nom }}</h3>
     {{ with .role }}
@@ -25,7 +26,7 @@
     </ul>
   {{ else }}
     {{ with .Resources.GetMatch (printf "%s" .Params.trombi)}}
-    <img src="{{ .RelPermalink }}">
+    <img src="{{ .RelPermalink }}" />
     {{ else }}
       Pas de trombi disponible pour ce CA
     {{ end }}
