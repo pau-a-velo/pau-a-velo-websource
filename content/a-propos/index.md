@@ -11,7 +11,7 @@ Pau à Vélo est une association qui met son énergie pour :
 * Revendiquer de la place, de la sécurité et de l'accessibilité pour les
   cyclistes, les piétons et les personnes à mobilité réduite dans
   l'agglomération paloise. *(revendications guidées par
-  [sa charte proposée aux municipalités](a-propos/charte-deplacements-actifs.pdf))*
+  [sa charte proposée aux municipalités](a-propos/charte-deplacements-actifs-2019.pdf))*
 * Initier à la pratique du vélo en proposant gratuitement des cours hebdomadaires
   d’apprentissage et des balades familiales mensuelles ouvertes à tous.
 
