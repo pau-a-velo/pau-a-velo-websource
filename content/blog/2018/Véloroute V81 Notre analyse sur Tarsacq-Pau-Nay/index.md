@@ -65,5 +65,12 @@ Sur le sujet, vous pouvez aussi consulter [notre article sur la véloroute V81 e
 l'association qui s'en occupe], et [la lettre que nous avons 
 envoyé en mai au sujet de la voie verte].
 
+
+**Edit du 7 janvier 2019**: Un adhérent nous a signalé qu'il avait envoyé de
+son côté un email au sujet de la v81, à l'agglo et aux communes concernées. Il 
+alertait entre autre sur l'effondrement probable d'une partie de l'itinéraire.
+Vous pouvez [consulter ce mail]
+
 [notre article sur la véloroute V81 et l'association qui s'en occupe]: {{< relref "AF3V et voie verte autour de Pau" >}}
 [la lettre que nous avons envoyé en mai au sujet de la voie verte]: {{< relref "Aménagement de la V81" >}}2018-05-06-pau-a-velo-courrier-v81.pdf
+[consulter ce mail]: courrier-adhérent-v81-nov2018.pdf

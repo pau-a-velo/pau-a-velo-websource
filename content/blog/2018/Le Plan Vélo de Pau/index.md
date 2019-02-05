@@ -16,7 +16,7 @@ aliases:
 ---
 
 Vendredi dernier, la mairie de Pau à fait connaitre [son plan vélo à l'horizon
-2020][]. Notre association salue ce pas en avant vers une meilleure prise
+2020][] [^1]. Notre association salue ce pas en avant vers une meilleure prise
 en compte des déplacements à vélo. Le CA a été consulté lors de son élaboration,
 et a pu donner son point de vue lors d'une série de réunions avec les services
 techniques.
@@ -129,10 +129,14 @@ vélo, dans lequel notre association apparait.
 <video controls width="100%"><source src="20181019-jt-local-1920-pau-sud-aquitaine-france3.mp4" type="video/mp4"></video>
 
 Vous pouvez également trouver [un article qui parle de notre point de vue dans
-la République des Pyrénées][la_rep] 
+la République des Pyrénées][la_rep]
+
+[^1]: **Edit du 04 février 2019**: la ville a remodelé son site, et le plan vélo 2020 n'est plus accessible en ligne, c'est une capture archivé que nous vous proposons ici. Sur le nouveau site, [une page est dédiée au plan vélo]. On y trouve une vision de l'état actuel du réseau vélo et des services de la ville sur le sujet, mais aucune prévision datée pour l'évolution du réseau. Au cas où cette page bougerait à nouveau, vous pouvez consulter [notre version archivée du plan au format pdf].
 
 
-[son plan vélo à l'horizon 2020]: http://www.pau.fr/2306-plan-velo.htm
+[son plan vélo à l'horizon 2020]: 20181005-capture-plan-velo-pau.pdf
 [la comparaison qui est faites avec les villes de taille similaire]: http://www.pau.fr/2315-les-realisations.htm
 [le baromètre des villes cyclables]: https://www.parlons-velo.fr/barometre-villes-cyclables
 [la_rep]: http://www.larepubliquedespyrenees.fr/2018/10/08/pau-a-velo-denonce-le-manque-de-securite-du-nouveau-plan,2439253.php
+[une page est dédiée au plan vélo]: https://www.pau.fr/article/le-velo-au-coeur-d-une-vraie-strategie-de-mobilites-douces
+[notre version archivée du plan au format pdf]: 20190201-capture-plan-velo-pau.pdf
