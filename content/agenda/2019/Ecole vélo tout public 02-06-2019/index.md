@@ -7,10 +7,12 @@ lieu: "Centre social la pépinière, 6 av. Robert Schuman, Pau"
 horaire: 14h
 tags:
   - vélo école
+aliases:
+  - /agenda/2019/ecole-velo-tout-public/
 ---
 
-Dans le cadre d’un partenariat avec l’Atelier Vélo participatif et solidaire et
-le Centre Social la Pépinière, et à l’occasion du mois des famille, nous vous 
+Dans le cadre d’un partenariat avec [l’Atelier Vélo participatif et solidaire][] et
+[le Centre Social la Pépinière][], et à l’occasion du mois des famille, nous vous 
 proposons **des cours pour apprendre à faire du vélo**.
 
 <!--more-->
@@ -44,3 +46,5 @@ Cet extrait du [site de la FUB] résume bien nos motivations:
 >Depuis les années 2000, la demande pour l’apprentissage du vélo s’est traduite par la création de vélo-écoles au sein des associations du réseau FUB : 104 des 290 associations du réseau ont une “vélo-école” (mai 2018). Les vélo-écoles proposent des sessions d’apprentissage (pour les primo-apprenants) ou de remises en selle (personnes sachant pédaler mais qui ne circulent pas à vélo).
 
 [site de la FUB]: https://www.fub.fr/velo-ecoles
+[l’Atelier Vélo participatif et solidaire]: https://ateliervelopau.fr/
+[le Centre Social la Pépinière]: https://www.pepiniere-pau.org/

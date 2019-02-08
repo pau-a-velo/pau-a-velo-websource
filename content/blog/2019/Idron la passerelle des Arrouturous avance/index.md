@@ -1,5 +1,5 @@
 ---
-title: "Idron la passerelle des Arrouturous avance"
+title: "Idron : la passerelle des Arrouturous avance"
 date: 2019-02-04T18:27:46+01:00
 author: "Fabien Beaufils et Hervé Laurent"
 tags:
