@@ -12,11 +12,11 @@ le Fébus en hypercentre ([Voir notre article sur le sujet]). Sans réponse deux
 mois plus tard, nous devions entamer un recours juridique ou nous taire. Nous 
 avons choisi le recours, [vous pouvez consulter le document ici].
 
-**Edit du 7 février 2019**: Les services techniques ayant pris connaissance
+**Edit du 7 février 2019** : Les services techniques ayant pris connaissance
 tardivement de ce recours, ils ont annulé une réunion initialement prévue
 avec nous le 11 février 2019, pour prendre connaissance du dossier. Ils 
-reviendront vers nous pour faire part de la suite que nos élus souhaitent 
-donner aux échanges engagés avec l'association.
+reviendront vers nous pour faire part de la suite que les élus souhaitent 
+donner aux échanges engagés avec notre association.
 
 [vous pouvez consulter le document ici]: recours-contentieux-pau-a-velo-BHNS-LAURE-2018-12-21.pdf
 [Voir notre article sur le sujet]:{{<relref "Loi LAURE et BHNS">}}
