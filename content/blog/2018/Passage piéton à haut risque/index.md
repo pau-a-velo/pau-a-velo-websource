@@ -8,7 +8,7 @@ tags:
   - avenue de l'Europe
   - total
   - terega
-  - amenagements
+  - aménagements
 ---
 
 Nous avons reçu [un courrier au sujet d'un passage piéton problématique], à

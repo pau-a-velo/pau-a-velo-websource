@@ -10,6 +10,8 @@ tags:
   - faites du vélo
   - medias
   - sensibilisation
+  - conférence
+  - expo
 aliases:
   - /blog/faites-du-velo-2018-a-pau/
 ---
