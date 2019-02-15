@@ -785,6 +785,11 @@ h2.xcard-title{
   margin: 2em 0 1em;
 }
 
+/* Les liens permanents vers les ancres*/
+.hanchor { font-size: 100%; visibility: hidden; color:silver; text-decoration:none}
+.hanchor:hover {color:#277747;}
+h1:hover a, h2:hover a, h3:hover a, h4:hover a { visibility: visible;}
+
 article {
   background-color: #f8f8f8;
   max-width:40em;
@@ -809,6 +814,21 @@ article .content {
   font-size:1.1em;
   line-height:1.5;
 }
+article .share{
+  padding: 1em;
+  color:#666;
+}
+
+article .share a{
+  font-size: 1.5em;
+  padding: 0 .4em;
+  color: #666;
+}
+
+article .share a:hover{
+  color: black;
+}
+
 article .related{
   background-color: #222;
   text-align: center;

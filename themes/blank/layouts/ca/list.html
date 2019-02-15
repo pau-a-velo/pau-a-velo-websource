@@ -27,7 +27,7 @@
                   {{ partial "event_date.html" .}}
                 </div>
                 <div class="pure-u-1 pure-u-sm-19-24">
-                  <h2 id="{{ .Title | urlize }}">{{ .Title }}</h2>
+                  <h2 id="{{ .File.BaseFileName | anchorize }}">{{ .Title }}&nbsp;<a href="#{{ .File.BaseFileName | anchorize }}" class="hanchor" ariaLabel="Anchor">🔗&#xFE0E;</a></h2>
                   <div>
                     {{ .Content }}
                   </div>

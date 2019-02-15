@@ -38,6 +38,6 @@ de l'agglomération, pour les inciter à assister au film vendredi soir et à
 la conférence de Frédéric Héran samedi après-midi.
 
 [CAUE 64]: http://www.caue64.fr/
-[Le programme complet est ici]: {{< ref "/agenda/2019/Festival Cinespaces" >}}2019-cinespaces-programme.pdf
+[Le programme complet est ici]: {{< relref "/agenda/2019/Festival Cinespaces" >}}2019-cinespaces-programme.pdf
 [l'Atelier Vélo participatif et Solidaire de Pau]: http://ateliervelopau.fr
 [Tous les renseignements pour ces formations sur leur site]: https://www.infoadrets.info/velo/evenement/formation-autour-de-la-roue/

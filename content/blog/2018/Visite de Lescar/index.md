@@ -32,5 +32,5 @@ Vous pouvez consulter [la réponse de la mairie reçue le 7 décembre].
 
 [un courrier assez complet pour la mairie]: courrier-pav-lescar-25nov2018.pdf
 [la réponse de la mairie reçue le 7 décembre]: reponse-lescar-pav-7déc2018.pdf
-[dossier envoyé le 15 mai 2017 par cette ville]: {{< ref "/blog/2017/Palmares du Guidon d'Or 2017" >}}pau-velo-guidon-dor-dossier-lescar.pdf
-[guidon d'or 2017]: {{< ref "/blog/2017/Palmares du Guidon d'Or 2017" >}}
+[dossier envoyé le 15 mai 2017 par cette ville]: {{< relref "/blog/2017/Palmares du Guidon d'Or 2017" >}}pau-velo-guidon-dor-dossier-lescar.pdf
+[guidon d'or 2017]: {{< relref "/blog/2017/Palmares du Guidon d'Or 2017" >}}
