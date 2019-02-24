@@ -8,7 +8,7 @@ tags:
   - balade
   - cyclotourisme
   - faites du vélo
-  - medias
+  - médias
   - sensibilisation
   - conférence
   - expo

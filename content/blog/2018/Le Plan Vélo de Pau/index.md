@@ -10,7 +10,7 @@ tags:
   - proposition
   - plan vélo
   - continuité cyclable
-  - medias
+  - médias
 aliases:
   - /blog/le-plan-velo-de-pau/
 ---

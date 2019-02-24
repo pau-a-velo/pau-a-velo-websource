@@ -5,6 +5,7 @@ author: "Sébastien Lamy"
 tags:
   - courrier
   - Jurançon
+  - école-collège-lycée 
   - collège Louis Barthou
 aliases:
   - /blog/courrier-dun-parent-deleve-au-maire-de-jurancon/

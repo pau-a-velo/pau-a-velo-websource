@@ -6,7 +6,8 @@ tags:
   - balade
   - bastard
   - berlanne
-  - jeanne d'albret
+  - collège Jeanne d'Albret
+  - école-collège-lycée
   - philippon
   - courrier
 aliases:

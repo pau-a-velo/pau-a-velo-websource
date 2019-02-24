@@ -8,7 +8,7 @@ tags:
   - insécurité
   - étigny
   - gramont
-  - jurançon
+  - Jurançon
 ---
 
 Un de nos adhérents, victime d'un accident rue d'Etigny, a écrit un courrier
