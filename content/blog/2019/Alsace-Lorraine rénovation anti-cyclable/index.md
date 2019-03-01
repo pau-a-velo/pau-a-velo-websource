@@ -91,23 +91,32 @@ suggéré sur ce plan !
 
 ![](lyautey-lorraine-proposition.jpg)
 
+### note
+Actuellement, tout le croisement (les deux rond points et le tronçon qui les 
+séparent) est sur un plateau pratiquement à hauteur de trottoir. On monte sur 
+ce plateau juste avant les passage piéton qui le précèdent Nous partons de cet 
+état de fait.
+
 ### légende
-1. Le dédoublement motorisé de Dufau à l'approche du rond point est supprimé, 
-plus de place pour séparer le vélo. La trajectoire vélo est déportée pour 
+1. La voie dédiée aux véhicules qui tournent à droite à l'approche du rond point est supprimé, 
+laissant davantage de place pour séparer le vélo et le faire monter plus en douceur
+sur le plateau que les véhicules motorisés. La trajectoire vélo est déportée pour 
 assurer un croisement à la perpendiculaire avec les véhicules motorisés qui 
-tournent. Le croisement est sur un plateau.
-2. Le tourne à droite motorisé est supprimé, un accès vélo est créé pour ceux 
+tournent.
+2. La voie dédiée aux véhicules qui tournent à droite est supprimée, un accès vélo est créé pour ceux 
 qui viendraient via la voie de bus (alliés) pour aller vers lyautey ou tourner 
 à gauche. Le tracé actuel de la piste cyclable est en pointillés rouges
-3. Pas de dédoublement de la voie motorisée en arrivant sur le rond point, plus
- de place pour séparer le vélo, qui monte sur le plateau avant d'aborder le 
-croisement. Piétons et vélos traversent ensuite l'avenue baradat sur le plateau.
-4. La voie cyclable monte sur l'actuel trottoir pour rester séparée de la 
-circulation
+3. La voie dédiée aux véhicules qui tournent à droite en arrivant sur le rond point est supprimée, laissant
+davantage de place pour séparer le vélo, et le faire monter en pente très douce sur le plateau avant d'aborder le 
+croisement. Le séparateur assure un croisement à la perpendiculaire avec les 
+véhicules motorisés.
+4. La voie cyclable monte sans ressaut sur l'actuel trottoir pour rester séparée de la 
+circulation jusqu'à la sortie du rond point suivant.
 5. Une des deux voies motorisée de Cazaubon-Norbert laisse la place à une voie 
-cyclable séparée de la chaussée. L'occasion peut-être d'élargir le trottoir
-à l'arrivée vers Alsace Lorraine, dont la largeur ne respecte pas les contraintes
-légales pour une rénovation (1,4m libre d'obstacle). ![](largeur-illegale.jpg)
+cyclable séparée de la chaussée, avec une pente d'accès plus douce au plateau. 
+L'occasion peut-être d'élargir le trottoir à l'arrivée vers Alsace Lorraine, 
+dont la largeur ne respecte pas les contraintes légales pour une rénovation 
+(1,4m libre d'obstacle). ![](largeur-illegale.jpg)
 
 ### commentaires supplémentaires
 * Partout, les bandes cyclables sont élargies pour faire minimum 1,5m 
