@@ -10,5 +10,5 @@ tags:
 ---
 
 Vous pouvez réserver votre dimanche matin pour un moment agréable en vélo.
-Raymonde sera présente pour écouter vos proposition d'itinéraire ou vous 
+Raymonde sera présente pour écouter vos propositions d'itinéraire ou vous 
 soumettre les siennes.
