@@ -30,6 +30,9 @@ En attendant une vraie accessibilité du centre ville avec un sentiment de
 sécurité pour tous, il faudra au minimum que la ville assure [la formation de ses 
 chauffeurs de bus] pour la cohabitation avec les vélos.
 
+Edit du 21 décembre 2018: Suite à notre recours gracieux, nous avons entamé [un
+recours juridique](/blog/2018/bhns-recours-juridique-pour-lhypercentre/)
+
 [un courrier pour faire un rappel de la loi LAURE]: 2018-10-19-courrier-pav-bhns-laure.pdf
 [un document rédigé au mois de mars]: 2018-03-courrier-amenagements-cyclables-febus.pdf
 [reprise du dialogue avec les services techniques de la ville]: {{< relref "Reprise du dialogue avec la mairie" >}}
