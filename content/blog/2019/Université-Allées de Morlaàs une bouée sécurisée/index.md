@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Université-Allées de Morlaàs : une bouée sécurisée"
 date: 2018-12-31T20:11:53+01:00
 author: "Fabien Beaufils"
