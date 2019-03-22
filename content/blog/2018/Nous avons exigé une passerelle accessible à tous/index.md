@@ -18,7 +18,7 @@ aliases:
 ---
 
 Le **dimanche 4 mars 2018**, nous étions environ 150 à nous réunir à [l'appel
-initié par Pau à vélo](/agenda/rassemblement-passerelle-ubuzanos) et soutenu
+initié par Pau à vélo](/agenda/2018/rassemblement-passerelle-ubuzanos) et soutenu
 par 4 autres associations:
 
 *   Association Françaises des véloroutes et voies vertes (AF3V),

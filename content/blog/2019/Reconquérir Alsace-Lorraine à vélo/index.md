@@ -1,8 +1,7 @@
 ---
-draft: true
 title: "Reconquérir Alsace-Lorraine à vélo"
 date: 2019-03-01T19:59:42+01:00
-author: ""
+author: "Sébastien Lamy"
 tags:
   - Alsace-Lorraine
   - Dufau/Lyautey
@@ -30,7 +29,7 @@ vélos.
 rond point est supprimée, laissant davantage de place pour séparer le vélo, et
 le faire monter en pente douce sur le plateau[^1] avant d'aborder le
 croisement. Le séparateur assure un croisement à la perpendiculaire avec les
-véhicules motorisés.
+véhicules motorisés. L'ancien tracé du trottoir est en pointillé rouge
 2. Sur Alsace-Lorraine, la voie dédiée aux véhicules qui tournent à droite
 après le rond-point est supprimée, un accès vélo est créé pour ceux qui
 viendraient via la voie de bus (Alliés) pour aller vers lyautey ou tourner à
@@ -84,7 +83,7 @@ béton dans la plupart des cas.
 
 Dans l'immédiat, il faut s'assurer d'une vitesse apaisée en faisant respecter la
 limitation à 30km/h sur toutes les entrées du carrefour. On peut aussi [questionner
-à la stratégie de mobilité douce sur cette zone...](/blog/2019/alsace-lorraine-la-debacle-velo/#quelle-stratégie)
+la stratégie de mobilité douce sur cette zone...](/blog/2019/alsace-lorraine-la-debacle-velo/#quelle-stratégie)
 
 
 [la débâcle vélo aux abords de la portion rénovée d'Alsace-Lorraine]: /blog/2019/alsace-lorraine-la-debacle-velo/

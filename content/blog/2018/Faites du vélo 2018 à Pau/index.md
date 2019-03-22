@@ -1,5 +1,4 @@
 ---
-header: "/agenda/faites-du-velo/header.png"
 title: "Faites du vélo 2018 à Pau"
 date: 2018-06-04T21:30:59+02:00
 author: "Sébastien Lamy"

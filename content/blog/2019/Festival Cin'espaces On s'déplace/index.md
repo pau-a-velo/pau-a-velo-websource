@@ -40,8 +40,10 @@ contre la place de stationnement vélo n'était pas forcément fournie...
 Samedi, à la médiathèque André Labarrère, l'auteur du livre [le retour de la 
 bicyclette] nous a parlé de l'avenir des mobilités urbaines, à partir d'un 
 constat très documenté sur l'histoire passée et présente des déplacements.
-Vous pouvez [consulter la présentation], nous travaillons à une retranscription
-vidéo.
+Vous pouvez [consulter la présentation au format pdf]. Ci-dessous le film de
+la conférence dans son intégralité, que vous pouvez aussi [télécharger en version hd](http://fubicy.org/pau/evenements/cinespaces2019/conference-herran-2019-hd-1080.mp4).
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/cc119d6b-1650-4979-b4eb-63fa5de78997" frameborder="0" allowfullscreen></iframe>
 
 ### La balade dominicale
 
@@ -70,5 +72,5 @@ par l'atelier vélo participatif et solidaire de Pau. [Le compte rendu sur leur 
 [programme]: {{< relref "/agenda/2019/Festival Cinespaces" >}}2019-cinespaces-programme.pdf
 [cinéma Le Méliès]: http://www.lemelies.com/
 [le retour de la bicyclette]: https://www.editionsladecouverte.fr/catalogue/index-Le_retour_de_la_bicyclette-9782707186812.html
-[consulter la présentation]: presentation-heran.pdf
+[consulter la présentation au format pdf]: presentation-heran.pdf
 [Le compte rendu sur leur site]: https://www.infoadrets.info/velo/album/#post-221

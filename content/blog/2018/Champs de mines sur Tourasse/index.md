@@ -12,4 +12,9 @@ la chaussée pour les bandes cyclables sur une partie du boulevard Tourasse!
 
 ![photo du champs de mines](champs_mines.jpg)
 
+Edit du 12 mars 2019 : la ville a réagit et posé des potelets. En revanche rien
+de fait pour créer un itinéraire praticable.
+
+![photo des potelets](potelets-tourasse.jpg)
+
 [Ville Partagée]: http://www.villepartage.com/

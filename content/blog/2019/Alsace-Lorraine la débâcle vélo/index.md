@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Alsace-Lorraine : la débâcle vélo"
 date: 2019-02-24T01:45:08+01:00
 author: "Sébastien Lamy"
@@ -142,14 +141,14 @@ coinçant les cyclistes au côté des ouvertures de portières.
 
 ## Quelle stratégie ?
 
-Rupture de piste, de bande, rupture d'itinéraire, rond point double file, 
+Rupture de bande et rond point double file, rupture d'itinéraire, 
 passage à risque proche de stationnements, environnement provoquant le 
 stationnement sur bande, circulation entre plusieurs files de voitures, autant 
-de coups subit par le vélo sur cette voirie toute neuve. Les stratèges de la 
-mobilité douce ont de belles marge de progrès... 
+de problèmes posés au vélo sur cette voirie toute neuve. Les stratèges de la 
+mobilité douce ont de belles marges de progrès... 
 
 Notre maire répète souvent que le kilométrage de voies cyclables à Pau en fait 
-la deuxième ville française sur ce point derrière la Rochelle, pour les villes 
+la deuxième ville française derrière la Rochelle, pour les villes 
 de taille similaire. Mais si la sécurité n'est pas au rendez-vous, la quantité 
 ne sert à rien, et ces kilomètres de voies cyclables resteront autant de 
 chemins ne menant nul part, à part au rejet du déplacement à vélo. 

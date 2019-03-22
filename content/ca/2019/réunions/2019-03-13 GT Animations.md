@@ -4,14 +4,11 @@ date: 2019-03-13
 publishDate: 2019-03-04
 ---
 
-Ordre du jour proposé, à discuter ensemble
+Ordre du jour effectué
 
-* Faites du vélo les samedi 1er et dimanche 2 juin
-  * identification d'animations festives - apportez vos idées de spectacles de rue !!
-  * préparation de la bourse aux vélos (dimanche) - comment s'organiser pour pouvoir recevoir et vendre plus de vélos ?
-  * préparation des Guidons d'or
-  * programme mis en place par la ville
-* Progression des autres animations
-  * La Rue aux Enfants
-  * [Altertour 2019](https://www.altercampagne.net/)
-  * [VéloTaf et semaine de la mobilité](https://www.challengedelamobilite.com/)
+1. Organisation d'une vélorution le 11 mai.
+2. Fête du vélo les 1er et 2 juin
+3. La Rue aux Enfants
+4. Autres animations
+  * [Altertour les 24 et 25 août](https://www.altercampagne.net/)
+  * [Semaine de la mobilité en septembre](https://www.challengedelamobilite.com/)
