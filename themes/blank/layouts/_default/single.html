@@ -1,8 +1,14 @@
 {{ define "main" }}
 	{{ partial "nav.html" . }}
-	{{ with (.Resources.ByType "image").GetMatch "header.*" }}
-	<div class="header-img"><img src="{{ .Name }}" /></div>
-	{{ end }}
+  {{ $header := "nil" -}}
+  {{ $header_src:= "nil" -}}
+  {{ if (isset .Params "header") -}}
+    {{ $header := ((.Site.GetPage "media").Resources.GetMatch .Params.header) -}}
+    <div class="header-img"><img src="{{ $header.Permalink }}" /></div>
+  {{ else if .Resources -}}
+    {{ $header := (.Resources.ByType "image").GetMatch "header.*" -}}    
+    {{ with $header }}<div class="header-img"><img src="{{ .Name }}" /></div>{{ end }}
+  {{ end -}}
 	<main>
 		<article>
 			{{ .Scratch.Set "about_display" "long" }}

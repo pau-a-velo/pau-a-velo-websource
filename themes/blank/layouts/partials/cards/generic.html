@@ -1,4 +1,8 @@
-{{ .Scratch.Set "image" ((.Resources.ByType "image").GetMatch "header.*") -}}
+{{ if .Params.header }}
+  {{ .Scratch.Set "image" ((.Site.GetPage "media").Resources.GetMatch .Params.header) -}}
+{{ else if .Resources }}
+  {{ .Scratch.Set "image" ((.Resources.ByType "image").GetMatch "header.*") -}}
+{{ end}}
 {{ .Scratch.Set "hasImage" (cond (not (.Scratch.Get "image")) false true) -}}
 <div class="card {{ cond (.Scratch.Get "hasImage") " with-image" "" }}">
 	{{ partial "cards/image.html" . }}
