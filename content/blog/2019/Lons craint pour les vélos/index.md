@@ -18,7 +18,7 @@ Souvenir rendent dangereux un double sens cycliste.
 
 Pourtant dans le contexte apaisé et peu fréquenté de cette rue, il n'y a aucun 
 mal pour les vélos à croiser les véhicules motorisés. Si la ville a des 
-craintes, nous proposons d'en faire une zone partagée (20km/h), ce qui rendrait
+craintes, nous proposons d'en faire une zone de rencontre (20km/h), ce qui rendrait
 la circulation à vélo encore plus confortable.
 
 Pour l'heure, sans faire de grand détour, la seule alternative est le boulevard

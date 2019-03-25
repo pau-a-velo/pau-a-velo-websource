@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Opération Protège ta bande au carrefour Alsace-Lorraine"
 publishdate: 2019-03-25T01:40:06+01:00
 author: "Hervé Laurent"
