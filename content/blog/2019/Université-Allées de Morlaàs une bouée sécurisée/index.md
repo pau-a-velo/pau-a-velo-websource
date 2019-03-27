@@ -38,5 +38,8 @@ la zone boueuse.
 
 ![photo de la cendrée](cendre.jpg)
 
+Note : Comprenez le mot "_bouée_" du titre comme désignant une "_coulée de boue_",
+et non pas l'ustensile de sauvetage du cycliste en train de couler.
+
 
 [réunion entre Pau à Vélo et les services techniques]: /ca/2018/#2018-06-25-direction-mobilité

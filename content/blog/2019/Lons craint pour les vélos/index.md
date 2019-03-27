@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Lons craint pour les vélos"
 date: 2019-03-03T23:25:42+01:00
 author: "Hervé Laurent et Sébastien Lamy"
@@ -21,9 +20,10 @@ mal pour les vélos à croiser les véhicules motorisés. Si la ville a des
 craintes, nous proposons d'en faire une zone de rencontre (20km/h), ce qui rendrait
 la circulation à vélo encore plus confortable.
 
-Pour l'heure, sans faire de grand détour, la seule alternative est le boulevard
-Charles de Gaulle, sans aménagement cyclable et avec un fort trafic automobile.
-Et ça, ça craint !
+Pour l'heure, il faut faire un bon détour par la rue des écoles. Pour ceux
+qui veulent un itinéraire direct, la seule proposition est de rester sur 
+le boulevard Charles de Gaulle, sans aménagement cyclable et avec un fort trafic 
+automobile. Et ça, ça craint !
 
 
 [f]: https://www.facebook.com/pauaveloo/photos/a.1774122085955705/2342520345782540/?type=3

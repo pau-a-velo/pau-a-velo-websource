@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Les vélos n'ont toujours pas la Paix à Pau"
 date: 2019-03-25T00:35:30+01:00
 author: "Sébastien Lamy et Hervé Laurent"
