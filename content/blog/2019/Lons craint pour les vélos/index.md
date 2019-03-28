@@ -7,11 +7,16 @@ tags:
   - DSC
 ---
 
-La rue du Souvenir à Lons est en zone 30.  Cette voie est une formidable alternative 
-apaisée au très motorisé boulevard Charles de Gaulle. Mais la municipalité ne 
-souhaite pas autoriser les vélos en contre-sens, et a pris un arrêté municipal 
-à ce sujet. [Interpellée sur facebook][f], elle nous avoue qu'elle craint pour les vélos...
 
+La rue du Souvenir à Lons est en zone 30.  Cette voie est une formidable alternative 
+apaisée au très motorisé boulevard Charles de Gaulle.
+
+![](plan.jpg)
+
+Mais la municipalité ne souhaite pas autoriser les vélos en contre-sens, et a 
+pris un arrêté municipal à ce sujet. [Interpellée sur facebook][f], elle nous 
+avoue qu'elle craint pour les vélos...
+ 
 > [...] la commune estime que les potelets qui bordent cette voie de la rue du 
 Souvenir rendent dangereux un double sens cycliste.
 
