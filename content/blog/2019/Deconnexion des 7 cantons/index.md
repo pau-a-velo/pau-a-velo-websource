@@ -6,6 +6,8 @@ tags:
   - Carnot
   - Montpensier
   - 7 cantons
+  - DSC
+  - travaux
 ---
 
 Situation complexe et conflictuelle au carrefour des 7 Cantons depuis la 

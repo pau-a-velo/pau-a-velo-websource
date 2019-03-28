@@ -5,6 +5,7 @@ author: "Hervé Laurent"
 tags:
   - André Mitton
   - GCUM
+  - aménagements
 ---
 Qui ne connaît pas la piste cyclable de la rue André Mitton ?
 Le meilleur spot palois pour trouver des véhicules stationnés illégalement à toute heure du jour et de la nuit et jamais verbalisés.

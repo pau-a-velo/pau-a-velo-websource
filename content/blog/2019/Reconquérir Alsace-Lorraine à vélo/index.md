@@ -9,6 +9,7 @@ tags:
   - BHNS
   - Carnot
   - Cazaubon-Norbert
+  - aménagements
 ---
 
 Après le constat de [la débâcle vélo aux abords de la portion rénovée d'Alsace-Lorraine],

@@ -8,6 +8,7 @@ horaire: "19h"
 tags:
   - Alsace-Lorraine
   - action
+  - aménagements
 ---
 
 Le carrefour Alsace-Lorraine est un lieu où [la piste cyclable est systématiquement

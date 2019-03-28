@@ -8,6 +8,7 @@ tags:
   - Baradat
   - BHNS
   - Carnot
+  - aménagements
 ---
 
 Le chantier pour le passage du Fébus à l'intersection avec le Boulevard

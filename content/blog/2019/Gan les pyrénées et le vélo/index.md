@@ -6,6 +6,8 @@ author: "Hervé Laurent"
 tags:
   - Gan
   - LAURE
+  - véloroute Ossau
+  - aménagements
 ---
 
 A Gan, l’avenue des Pyrénées, a été refaite sur 1 km entre le rond-point de  
@@ -24,8 +26,9 @@ C’est aussi une des voies candidates au passage de la véloroute de la vallée
 d’Ossau.
 
 Malheureusement, cet réfection a été faite sans prendre en compte la [loi LAURE],
-et rien n'a été prévue pour les vélos. Notre association envisage un recours
-juridique, comme [déjà fait pour les voies BHNS en centre ville de Pau](/blog/2018/bhns-recours-juridique-pour-lhypercentre/).
+et rien n'a été prévue pour les vélos ni pour les piétons! Notre association 
+envisage un recours juridique, comme [déjà fait pour les voies BHNS en centre 
+ville de Pau](/blog/2018/bhns-recours-juridique-pour-lhypercentre/).
 
 [loi LAURE]: https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006833430&dateTexte=20090518
  

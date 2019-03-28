@@ -5,7 +5,7 @@ author: "Hervé Laurent"
 tags:
   - courrier
   - gan
-  - voie verte
+  - véloroute Ossau
   - aménagements
 aliases:
   - /blog/pau-gan-par-la-voie-verte/
