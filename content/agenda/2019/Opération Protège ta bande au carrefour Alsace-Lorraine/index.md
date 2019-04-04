@@ -11,7 +11,7 @@ tags:
   - aménagements
 ---
 
-Le carrefour Alsace-Lorraine est un lieu où [la piste cyclable est systématiquement
+Le carrefour Alsace-Lorraine est un lieu où [la bande cyclable est systématiquement
 squattée par les voitures le soir][video]. Nous vous proposons une action symbolique
 pour la protéger.
 
