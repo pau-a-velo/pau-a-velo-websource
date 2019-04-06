@@ -9,6 +9,8 @@ tags:
   - collège Margueritte de Navarre
   - lycée St Cricq
   - lycée Louis Barthou
+  - GCUM
+  - incivilités
 ---
 
 Une cycladine nous a récemment fait parvenir par mail un témoignage sur l'accès cyclable

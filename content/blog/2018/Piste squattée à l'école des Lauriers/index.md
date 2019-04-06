@@ -7,6 +7,7 @@ tags:
   - école-collège-lycée
   - GCUM
   - collège Jeanne d'Albret
+  - incivilités
 ---
 
 La piste cyclable de la rue Lavignotte à Pau est constamment neutralisée, de 8h

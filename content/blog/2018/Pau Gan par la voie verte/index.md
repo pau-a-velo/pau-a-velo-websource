@@ -4,7 +4,7 @@ date: 2018-11-05T23:17:35+01:00
 author: "Hervé Laurent"
 tags:
   - courrier
-  - gan
+  - Gan
   - véloroute Ossau
   - aménagements
 aliases:
