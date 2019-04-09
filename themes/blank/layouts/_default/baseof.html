@@ -25,8 +25,8 @@
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 	<!--link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous" -->
   <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/fontawesome-free-5.4.2-web/css/all.css">
-	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
-	{{ .Hugo.Generator }}
+	{{ with .OutputFormats.Get "RSS" -}}<link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ or $.Page.Title $.Site.Title }}">{{- end }}
+	{{ hugo.Generator }}
 </head>
 <body>
 	{{ block "main" . }}{{ end }}
