@@ -37,6 +37,9 @@ preserveTaxonomyNames: true
 
 pluralizeListTitles: false
 
+# Les emoticon
+enableEmoji: true
+
 
 ## paramètre pour proposer du contenu en rapport avec l'article présenté
 related:
