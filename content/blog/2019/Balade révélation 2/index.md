@@ -7,10 +7,8 @@ tags:
 ---
 
 Chouette balade dominicale «Révélation #2» ce matin, en partenariat avec 
-Destination Patrimoine, pour faire une «Traversée à contre courant» de Pau:bike: 
-On a découvert plein de cours d'eau parfois bien cachés 
-:thinking::open_mouth::smile:
-
+Destination Patrimoine, pour faire une «Traversée à contre courant» de Pau
+On a découvert plein de cours d'eau parfois bien cachés
 
 {{< image src="pause.jpg" >}}
 
