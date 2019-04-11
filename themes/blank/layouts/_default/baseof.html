@@ -22,7 +22,7 @@
   {{ with .Scratch.Get "header-img" -}}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ . }}">    
-    <meta name="og:image" content="{{ . }}">
+    <meta property="og:image" content="{{ . }}">
   {{ else }}
     <meta name="twitter:card" content="summary">
     <meta name="twitter:image" content="{{ .Site.BaseURL }}img/logo_75x75_coul_noir.png">
@@ -30,7 +30,7 @@
 	{{ with .Page.Params.description -}}
     <meta name="description" content="{{ . }}">
     <meta name="twitter:description" content="{{ . }}">
-    <meta name="og:description" content="{{ . }}">
+    <meta property="og:description" content="{{ . }}">
   {{ end -}}
     <meta name="twitter:site" content="@pauavelo">
   {{ with (or .Title .Site.Title) -}}
