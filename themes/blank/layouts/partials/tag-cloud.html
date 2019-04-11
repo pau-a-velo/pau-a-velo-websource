@@ -11,8 +11,6 @@
     {{ $min := cond (le $min $tagMinOccurence) $tagMinOccurence $min }}
     {{ $spread := sub $max $min }}
     {{ $fontStep := div $fontSpread $spread }}
-
-    
         {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
             {{ $currentTagCount := len $taxonomy.Pages }}
             {{ $currentFontSize := (add $smallestFontSize (mul (sub $currentTagCount $min) $fontStep) ) }}

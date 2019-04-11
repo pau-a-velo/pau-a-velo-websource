@@ -1,13 +1,43 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta http-equiv="content-language" content="fr" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-language" content="fr" />  
+	{{ hugo.Generator }}
+  {{ if (isset .Params "header") -}}
+      {{ .Scratch.Set "header-img" ((.Site.GetPage "media").Resources.GetMatch .Params.header).Permalink -}}
+  {{ else if .Resources -}}
+      {{ with (.Resources.ByType "image").GetMatch "header.*" -}}
+      {{ $.Page.Scratch.Set "header-img" .Permalink -}}
+      {{ end -}}
+  {{ else if .IsHome -}}
+      {{ $.Page.Scratch.Set "header-img" (print .Site.BaseURL "home.jpg") -}}
+  {{ end -}}
+  <meta property="og:url" content="{{ .Permalink }}" />
+	{{ with .Page.Params.author -}}
+    <meta name="author" content="{{ . }}" >
+  {{ end -}}
+  {{ with .Scratch.Get "header-img" -}}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ . }}">    
+    <meta name="og:image" content="{{ . }}">
+  {{ else }}
+    <meta name="twitter:card" content="summary">
+  {{ end -}}
+	{{ with .Page.Params.description -}}
+    <meta name="description" content="{{ . }}">
+    <meta name="twitter:description" content="{{ . }}">
+    <meta name="og:description" content="{{ . }}">
+  {{ end -}}
+    <meta name="twitter:site" content="@pauavelo">
+  {{ with (or .Title .Site.Title) -}}
+    <meta name="twitter:title" content="{{ . }}">
+    <meta property="og:title" content="{{ . }}">
+  {{ end -}}
+  
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-	{{ with .Page.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-	{{ with .Page.Params.author }}<meta name="author" content="{{ . }}" >{{ end }}
 	<!--link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous"-->
   <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/purecss.1.0.0/pure-min.css">
 	<!--[if lte IE 8]>
@@ -26,7 +56,6 @@
 	<!--link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous" -->
   <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/fontawesome-free-5.4.2-web/css/all.css">
 	{{ with .OutputFormats.Get "RSS" -}}<link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ or $.Page.Title $.Site.Title }}">{{- end }}
-	{{ hugo.Generator }}
 </head>
 <body>
 	{{ block "main" . }}{{ end }}
