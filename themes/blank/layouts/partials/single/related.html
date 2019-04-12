@@ -1,14 +1,15 @@
 {{ $related := .Site.RegularPages.Related . | first 4 }}
+{{ .Scratch.Set "card_display_summary" false }}
 {{ if (or $related .Params.tag) }}
   <div class="related">
     <h1>En rapport</h1>
     {{ with $related }}
       <div class="suggestions">
         <h2>Suggestions</h2>
-        <div class="pure-g">
+        <div class="pure-g">        
           {{ range . }}
           <div class="pure-u-1 pure-u-sm-1-2">
-            {{ .Scratch.Set "card_display_summary" false }}
+            {{/* .Scratch.Set "card_display_summary" false  */}}
             {{ partial "cards/generic.html" . }}
           </div>
           {{ end }}
