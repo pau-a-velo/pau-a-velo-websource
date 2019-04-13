@@ -3,7 +3,7 @@
     {{ partial "event_date.html" . }}
   </div>
   <div class="pure-u">
-    {{ partial "cards/image.html" . }}
+    {{ partialCached "cards/image.html" . .Permalink }}
     <div class="event-description">
       {{ partial "cards/title.html" . }}
       <p class="event-location">

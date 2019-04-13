@@ -5,7 +5,7 @@
 {{ end}}
 {{ .Scratch.Set "hasImage" (cond (not (.Scratch.Get "image")) false true) -}}
 <div class="card {{ cond (.Scratch.Get "hasImage") " with-image" "" }}">
-	{{ partial "cards/image.html" . }}
+	{{ partialCached "cards/image.html" . .Permalink }}
 	<div class="card-text">
 		{{ partial "cards/title.html" . }}
 		{{/* On ne met pas le résumé si on est dans les suggestions d'un autre article  */}}
