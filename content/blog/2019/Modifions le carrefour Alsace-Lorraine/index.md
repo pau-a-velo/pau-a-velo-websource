@@ -60,17 +60,20 @@ ne change que de façon très minime la longueur des bouchons. Le facteur
 déterminant est en fait le blocage du trafic par le feu rouge destiné à laisser 
 passer le Fébus en priorité. Et l'auto-solisme.
 
-Et quand bien même, à l'heure ou la Solution Vélo apparait comme une réponse 
+![](auto-solisme.jpg)
+
+À l'heure ou la Solution Vélo apparait comme une réponse 
 évidente aux problèmes de [santé], de [pollution], de [changement climatique],
 de bruit, d'[encombrement de l'espace public], de [crise énergétique] et à la 
 nécessité d'[apaisement], il est indispensable de commencer à contraindre les 
 déplacements automobiles tout en offrant des conditions très favorables à la 
 pratique cyclable.
 
-Avec un carrefour favorable au vélo, il est à parier que le 
+Si on y réalise [un aménagement très favorable au vélo][notre proposition], il est à parier que le 
 trafic global à ce rond point augmentera, avec une part beaucoup plus 
-importante de trafic vélo[^1]. A commencer par les 55% qui parcourent 
-actuellement moins de 10 km/jour. (Soit 5km aller, 5km retour)[^2]
+importante de trafic vélo[^1]. Parmis les 55% des habitants de l'agglo
+faisant moins de 10km par jour, beaucoup aimeraient se mettre au vélo[^2]. Il 
+faut leur offrir la place et la sécurité nécessaires.
 
 ![](interface-urbaine.jpg)
 
