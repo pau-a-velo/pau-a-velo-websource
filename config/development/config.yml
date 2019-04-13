@@ -1,0 +1,4 @@
+disableKinds:
+  - "taxonomy"
+  - "RSS"
+disableAliases: true
