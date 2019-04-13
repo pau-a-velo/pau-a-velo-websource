@@ -1,24 +1,9 @@
-{{ define "social" -}}
-  {{ if (isset .Params "header") -}}
-      {{ .Scratch.Set "header-img" ((.Site.GetPage "media").Resources.GetMatch .Params.header).Permalink -}}
-  {{ else if .Resources -}}
-      {{ with (.Resources.ByType "image").GetMatch "header.*" -}}
-      {{ $.Page.Scratch.Set "header-img" .Permalink -}}
-      {{ end -}}
-  {{ end -}}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@pauavelo">
-  <meta name="twitter:title" content="{{ .Title }}">
-  {{ with .Params.description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
-  {{ with .Scratch.Get "header-img" }}<meta name="twitter:image" content="{{ . }}">{{ end }}
-{{ end }}
-
 {{ define "main" -}}
 	{{ partial "nav.html" . }}
   {{ $header := "nil" -}}
   {{ $header_src:= "nil" -}}
   {{ with .Scratch.Get "header-img" -}}
-    <div class="header-img"><img src="{{ . }}" /></div>
+    <div class="header-img"><img src="{{ .Permalink }}" /></div>
   {{ end -}}
 	<main>
 		<article>
