@@ -40,6 +40,9 @@ pluralizeListTitles: false
 # Les emoticon
 enableEmoji: true
 
+# Un timeout augmenté
+timeout: 20000
+
 
 ## paramètre pour proposer du contenu en rapport avec l'article présenté
 related:
