@@ -10,7 +10,7 @@
 		{{ partial "cards/title.html" . }}
 		{{/* On ne met pas le résumé si on est dans les suggestions d'un autre article  */}}
 		{{ if (.Scratch.Get "card_display_summary") }}
-			{{ partial "cards/summary.html" . }}
+			{{ partial "cards/summary.html" . .Permalink }}
 		{{ end }}
 	</div>
 </div>

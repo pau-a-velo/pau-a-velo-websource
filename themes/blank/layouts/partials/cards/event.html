@@ -8,7 +8,7 @@
 	<div class="card">
 		{{ partial "cards/event_info.html" . }}
 		<div class="card-text">
-			{{ partial "cards/summary.html" . }}
+			{{ partialCached "cards/summary.html" . .Permalink }}
 		</div>
 	</div>
 </div>

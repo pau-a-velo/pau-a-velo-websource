@@ -12,7 +12,7 @@
 					{{ partial "cards/event.html" . }}
 				{{ else }}
 					<div class="card-container pure-u-1 pure-u-md-1-2 pure-u-xl-1-3">
-						{{ partial "cards/generic.html" . }}
+						{{ partialCached "cards/generic.html" . .Permalink "true" }}
 					</div>
 				{{ end }}
 			{{ end }}
