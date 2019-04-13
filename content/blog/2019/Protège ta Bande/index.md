@@ -8,6 +8,7 @@ tags:
   - aménagements
   - incivilités
   - GCUM
+  - médias
 ---
 
 Un grand MERCI à la vingtaine de participants à l'opération «&nbsp;Protège ta 

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Modifions le carrefour Alsace-Lorraine !"
 date: 2019-04-12T09:50:23+02:00
 author: "Sébastien Lamy"
@@ -12,13 +11,14 @@ tags:
   - Carnot
   - Cazaubon-Norbert
   - aménagements
+  - médias
 ---
 
 Notre association revendique une modification du carrefour Alsace-Lorraine 
 (carrefour fraichement refait pour le passage du BHNS). Plus généralement, la 
-multiplication des voies voitures aux abords des intersections, c'est pas cool 
+multiplication des voies voitures aux abords des intersections, c'est pas chouette 
 pour les vélos. Vous pouvez lire [notre constat aux abords de ce carrefour], 
-mais aussi [notre proposition]. Nos revendication ont été transmises à la 
+mais aussi [notre proposition]. Nos revendications ont été transmises à la 
 mairie et aux services techniques.
 
 
@@ -29,8 +29,8 @@ Cazaubon-Norbert.
 
 * Un vendredi matin à l'heure de pointe, nous mesurons le débit sans rien faire.
 Nous comptons toutes les voitures qui rentrent sur le rond point.
-* Le vendredi suivant à la même heure nous supprimons les dédoublements de voie 
-voiture et nous observons le nouveau débit.
+* Le vendredi suivant à la même heure nous **supprimons les dédoublements de voie 
+voiture** et nous observons le nouveau débit.
 
 Pour bloquer les voies inutiles, nous avons fait appel à [Gandalf] le 29 mars, 
 
@@ -41,7 +41,13 @@ et à un Storm Trooper le 12 avril.
 
 ![](storm-trooper.jpg)
 
+La force est dans les mollets!
+
 {{< gallery "photos" >}}
+
+France 3 et [la république] étaient présents pour couvrir le dernier vendredi.
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/4eb0d2df-04a0-484e-8384-f90459efc352" frameborder="0" allowfullscreen></iframe>
 
 Résultats : 1893 véhicules/heure accèdent au rond point avec
 toutes les voies disponibles, et 1806 véhicules/heure en supprimant les
@@ -52,13 +58,13 @@ dédoublements de voies, soit une réduction du débit de 4,5%.
 Au delà de ces chiffres, nous avons observé que la suppression des dédoublements
 ne change que de façon très minime la longueur des bouchons. Le facteur 
 déterminant est en fait le blocage du trafic par le feu rouge destiné à laisser 
-passer le Fébus en priorité.
+passer le Fébus en priorité. Et l'auto-solisme.
 
 Et quand bien même, à l'heure ou la Solution Vélo apparait comme une réponse 
 évidente aux problèmes de [santé], de [pollution], de [changement climatique],
 de bruit, d'[encombrement de l'espace public], de [crise énergétique] et à la 
 nécessité d'[apaisement], il est indispensable de commencer à contraindre les 
-déplacements automobiles tout en offrant des conditions très favorable à la 
+déplacements automobiles tout en offrant des conditions très favorables à la 
 pratique cyclable.
 
 Avec un carrefour favorable au vélo, il est à parier que le 
@@ -82,3 +88,4 @@ actuellement moins de 10 km/jour. (Soit 5km aller, 5km retour)[^2]
 [encombrement de l'espace public]: https://cdn3.lebonbon.fr/wp-content/uploads/2015/10/villesansvoiture-simon.gif
 [changement climatique]: https://reseauactionclimat.org/thematiques/transports/
 [apaisement]: Arpad-ter-Szeged-Hongrie.jpg
+[la république]: http://www.larepubliquedespyrenees.fr/2019/04/12/boulevard-alsace-lorraine-pau-a-velo-demande-plus-de-securite,2540581.php
