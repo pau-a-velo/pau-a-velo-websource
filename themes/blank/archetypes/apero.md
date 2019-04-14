@@ -5,11 +5,14 @@ author: "Sébastien Lamy"
 date: {{ strings.TrimPrefix "Pot à Vélo " .File.BaseFileName }}
 lieu: "Coulée Douce (bar de la cité des Pyrénées), 29 bis rue Berlioz"
 horaire: 18h
+header: pot-atelier.jpg
 ---
 
 Rendez-vous pour échanger entre cycladins. On pourra parler de "vélo à Pau", 
 de vélo-taf, de balade, de plan vélo, de vélorution, ou même de complètement
 autre chose, autour d'une boisson rafraichissante.
+
+<!--more-->
 
 Comme d'habitude, le Pot à Vélo c'est aussi l'occasion se tenir au courant des 
 évènements de l'association, d'emprunter des magazines sur la thématique du 

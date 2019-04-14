@@ -1,5 +1,5 @@
 ---
-title: "{{ substr .File.BaseFileName 11 }}"
+title: "Conseil d'administration"
 date: {{ substr .File.BaseFileName 0 10 }}
 publishdate: {{ .Date }}
 ---
