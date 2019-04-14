@@ -6,7 +6,7 @@
   HUGO_VERSION = "0.55.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-  HUGO_BASEURL = "http://wwww.pauavelo.fr/"
+  HUGO_BASEURL = "http://www.pauavelo.fr/"
 
 [context.branch-deploy]
   command = "hugo -D -b $DEPLOY_PRIME_URL"
