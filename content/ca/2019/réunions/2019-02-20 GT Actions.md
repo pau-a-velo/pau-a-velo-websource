@@ -1,5 +1,5 @@
 ---
-title: "Lancement du groupe de travail sur les actions de terrain"
+title: "Lancement du groupe de travail Actions de terrain"
 date: 2019-02-20
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Groupe de travail sur les actions de terrain"
+title: "Groupe de travail Actions de terrain"
 date: 2019-04-09
 publishdate: 2019-04-14T23:50:06+02:00
 ---
