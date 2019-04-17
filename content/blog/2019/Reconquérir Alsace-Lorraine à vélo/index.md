@@ -10,11 +10,14 @@ tags:
   - Carnot
   - Cazaubon-Norbert
   - aménagements
+aliases:
+  - /al/
 ---
 
-Après le constat de [la débâcle vélo aux abords de la portion rénovée d'Alsace-Lorraine],
-nous proposons un plan pour que cette zone redevienne un espace cyclable, que 
-l'on peut aisément traverser en tout sens.
+Après le constat des [difficultés posées pour le déplacement à vélo aux abords 
+de la portion rénovée d'Alsace-Lorraine][constat], nous proposons un plan pour 
+que cette zone redevienne un espace cyclable, que l'on peut aisément traverser 
+en tout sens.
 
 La stratégie est de ne pas doubler systématiquement les voies voitures aux 
 abords des intersections, et de mettre en place une traversée à l'abri pour les
@@ -82,9 +85,9 @@ béton dans la plupart des cas.
 
 ## En attendant la mise en oeuvre ?
 
-Dans l'immédiat, il faut s'assurer d'une vitesse apaisée en faisant respecter la
+Dans l'immédiat, il conviendra d'assurer d'une vitesse apaisée en faisant respecter la
 limitation à 30km/h sur toutes les entrées du carrefour. On peut aussi [questionner
 la stratégie de mobilité douce sur cette zone...](/blog/2019/alsace-lorraine-la-debacle-velo/#quelle-stratégie)
 
 
-[la débâcle vélo aux abords de la portion rénovée d'Alsace-Lorraine]: /blog/2019/alsace-lorraine-la-debacle-velo/
+[constat]: /blog/2019/alsace-lorraine-la-debacle-velo/
