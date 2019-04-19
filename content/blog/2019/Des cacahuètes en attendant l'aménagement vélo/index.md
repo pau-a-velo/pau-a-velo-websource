@@ -39,12 +39,13 @@ spécifique aux aménagements vélos qui seront réalisés très vite sur ce car
 **Le 20 juin 2019**, nul doute que la mairie proposera des petits fours, des 
 pâtisseries exquises, du champagne, et une vraie stratégie des mobilités douces.
 
-Cette inauguration a été l'occasion de proposer au public d'élus et techniciens 
-présents d'essayer le plaisir du vélo sur le carrefour "amélioré, embelli et modernisé". 
-Comment doit-on comprendre qu'aucun d'eux n'ait été tenté par cette aventure sur 
-du bitume très roulant ? Les cyclistes présents à la fête leur ont 
-pourtant montré l'exemple en pratiquant l'exercice du tour complet à plusieurs 
-reprises, en avant-gout de la [vélorution du 4 mai].
+En attendant, cette première inauguration a été l'occasion de proposer au 
+public d'élus et techniciens présents d'essayer le plaisir du vélo sur le 
+carrefour déjà "amélioré, embelli et modernisé". Comment doit-on comprendre qu'aucun
+ d'eux n'ait été tenté par cette aventure sur du bitume très roulant ? Les 
+cyclistes présents à la fête leur ont pourtant montré l'exemple en pratiquant 
+l'exercice du tour complet à plusieurs reprises, en avant-gout de la 
+[vélorution du 4 mai].
 
 A défaut de prendre le vélo, M. Brin a accepté de prendre rendez-vous, ce qui est
 une avancée à saluer. Le dialogue avec la mairie était en effet rompu depuis 
