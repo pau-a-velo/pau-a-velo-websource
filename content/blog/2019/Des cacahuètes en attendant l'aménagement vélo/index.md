@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Des cacahuètes en attendant l'aménagement vélo"
 date: 2019-04-18T23:51:45+02:00
 author: "Sébastien Lamy"
