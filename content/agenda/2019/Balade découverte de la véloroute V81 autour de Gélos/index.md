@@ -2,7 +2,7 @@
 title: "Balade découverte de la véloroute V81 autour de Gélos"
 publishdate: 2019-04-14T23:12:07+02:00
 author: "Patrick Duchaine"
-date: 2019-05-12
+date: 2019-05-19
 lieu: "Départ devant le bistrot du Pradeau"
 horaire: 9h30
 tags:
