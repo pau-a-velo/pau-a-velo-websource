@@ -21,12 +21,11 @@ garni en cacahuètes.
 
 À cette attention délicate faisait écho la présentation par M. Brin des 
 aménagements vélos qui sont prévus dans les mois à venir aux abords du
-carrefour. Le premier adjoint a livré à la presse et au public une version erronée
-issue d'un brouillon de réflexion intermédiaire, avec des éléments intéressants,
-mais ne contenant pas l'ensemble du projet abouti. L'image de ce brouillon:
+carrefour. Le premier adjoint a livré à la presse et au public une ébauche avec
+des éléments intéressants, mais peu représentative du projet abouti. L'image de
+cette ébauche :
 
 {{< image src="plan-carrefour-alsace-lorraine-pau-brouillon.jpg" >}}
-
 
 Fort heureusement notre association avait préparé en grand nombre un tract
 présentant [le projet final de modification de ce carrefour][projet final], 
@@ -41,11 +40,11 @@ pâtisseries exquises, du champagne, et une vraie stratégie des mobilités douc
 
 En attendant, cette première inauguration a été l'occasion de proposer au 
 public d'élus et techniciens présents d'essayer le plaisir du vélo sur le 
-carrefour déjà "amélioré, embelli et modernisé". Comment doit-on comprendre qu'aucun
- d'eux n'ait été tenté par cette aventure sur du bitume très roulant ? Les 
-cyclistes présents à la fête leur ont pourtant montré l'exemple en pratiquant 
-l'exercice du tour complet à plusieurs reprises, en avant-gout de la 
-[vélorution du 4 mai].
+carrefour déjà "amélioré, embelli et modernisé". Comment doit-on comprendre 
+qu'aucun  d'eux n'ait été tenté par cette aventure sur du bitume très roulant ?
+ Les cyclistes présents à la fête leur ont pourtant montré l'exemple en 
+pratiquant l'exercice du tour complet à plusieurs reprises, en avant-gout de la
+ [vélorution du 4 mai].
 
 A défaut de prendre le vélo, M. Brin a accepté de prendre rendez-vous, ce qui est
 une avancée à saluer. Le dialogue avec la mairie était en effet rompu depuis 
