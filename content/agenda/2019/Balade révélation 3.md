@@ -3,7 +3,7 @@ title: "Balade révélation #3"
 publishdate: 2019-03-19T09:40:59+01:00
 author: "Sébastien Lamy"
 date: 2019-05-05
-lieu: "Départ au crayon du Leclerc, av. Louis Sallenave, Pau"
+lieu: "Départ à l'entrée ouest de l'université, av. du Doyen Poplawski"
 horaire: 10h
 tag:
   - balade
@@ -23,11 +23,10 @@ La ville à quelques secrets à vous révéler ...
 
 ### Révélation #3 : Le train fantôme
 
-**Attention !** Le lieu de départ n'est pas habituel. Le rendez-vous est au
-crayon en face du centre commercial Leclerc, le long de l'avenue Louis Sallenave.
+**Attention !** Le lieu de départ n'est pas habituel. Le rendez-vous est à l'entrée
+ouest de l'université, avenue du Doyen Poplawski.
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_320387?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_320387">Voir en plein écran</a></p>
-
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/entree-ouest-de-luniversite-de-pau-france_320800?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&measureControl=false&editinosmControl=false&locateControl=true"></iframe>
 
 
 [Destination Patrimoine]: http://destinationpatrimoine.fr
