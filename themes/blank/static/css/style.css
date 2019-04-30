@@ -876,7 +876,13 @@ article .related .suggestions .card h2{
 }
 article img{
   max-width: 100%;
+  max-height: 680px;
 }
+article p>img, .content>iframe{
+  margin: 0 auto;
+  display: block; 
+}
+
 article figcaption{
   margin-top: 1.5em;
   font-weight: bold;
