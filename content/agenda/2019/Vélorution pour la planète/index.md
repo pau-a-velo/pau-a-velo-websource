@@ -19,7 +19,7 @@ spatial Terre devient inhospitalier, nous n'aurons pas de refuge !
 
 {{< image src="affiche.jpg" >}}
 
-* [Télécharger l'affiche haute résolution pour impression](affiche_hr.jpg)
+* [Télécharger l'affiche haute résolution pour impression](affiche-hr.jpg)
 * Partager <a href="https://www.facebook.com/events/843026369376497/" target="blank">l'évènement facebook</a> avec vos amis
 * Réclamez nous des étiquettes spéciales pour cet évènement à poser sur tous les
 vélos de l'agglo! (nos contacts en [bas de page](#footer))
