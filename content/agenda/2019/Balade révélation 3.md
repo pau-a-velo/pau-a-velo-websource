@@ -5,7 +5,7 @@ author: "Sébastien Lamy"
 date: 2019-05-05
 lieu: "Départ à l'entrée ouest de l'université, av. du Doyen Poplawski"
 horaire: 10h
-tag:
+tags:
   - balade
 header: "balade.png"
 ---
