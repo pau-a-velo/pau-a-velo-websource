@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Vélorution pour la planète à Pau"
 date: 2019-05-06T22:29:57+02:00
 author: "Sébastien Lamy"
@@ -14,6 +13,7 @@ tags:
   - Mazères-Lezons
   - vélorution
   - 14 juillet
+imageGroupClass: "group"
 ---
 
 Une  vélorution, c'est une manifestation revendicative et festive, au cours de 
@@ -49,14 +49,14 @@ quelques pancartes !
 Plus chauds que le climat, les vélorutionnaires ont filé en direction de la 
 place Gramont, lieu de perdition où le cycliste se retrouve à monter 
 péniblement dans une voie étroite sans espace pour le protéger. De l'espace il 
-n'en manque pourtant pas sur cette grande place rénovée : stationnement, 
+y en a pourtant beaucoup sur cette grande place rénovée : stationnement, 
 massifs fleuris, mobilier urbain, station vélo, on a pensé à tout sauf à la 
 sécurité vélo. Le temps de quelques tours, les vélorutionnaires en ont refait 
 un lieu ou il fait bon pédaler.
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/d74fd1b6-329c-40f0-aef9-cd075591c13a" frameborder="0" allowfullscreen></iframe>
 
-Et ils ne sont pas parti sans afficher leur verdict !
+Et ils ne sont pas partis sans afficher leur verdict !
 
 ![image des banderoles "ici tout nouveau tout faux" et "protégez mieux les vélos"](banderoles-gramont.jpg)
 
@@ -81,8 +81,8 @@ trop étroit qui mène à la toute nouvelle passerelle du soust.
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/9232faaa-d5b1-42b8-8651-99ef4f2a96e4" frameborder="0" allowfullscreen></iframe>
 
-Puis un instant de bonheur avant l'épreuve des marches entre Bizanos et 
-Mazères-Lezons.
+Puis un instant de bonheur avant l'épreuve des marches entre Mazères-Lezons et
+Bizanos.
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/6c4219ed-7b96-491f-9dff-dc4201937e1d" frameborder="0" allowfullscreen></iframe>
 
@@ -96,11 +96,11 @@ faibles, mais aussi les usagers de vélo lourd].
 
 Là encore, un verdict sans appel !
 
-![image des banderoles "ici tout nouveau tout faux", "une si belle arche et tant de marches", et "changeons le système pas le climat"](banderoles-franqueville.jpg)
-
-![](banderoles-marches-franqueville.jpg)
-
-![](maman-interdite.jpg)
+<div class="group">
+<p>{{< image src="banderoles-franqueville.jpg" >}}</p>
+<p>{{< image src="banderoles-marches-franqueville.jpg" >}}</p>
+<p>{{< image src="maman-interdite.jpg" >}}</p>
+</div>
 
 Ensuite, retour en ville. Après une montée au son de "Motivés", direction cours 
 Bosquet. 
@@ -115,8 +115,9 @@ chaleureusement tous ceux qui avaient déjà opté pour la solution vélo.
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/9f5f03e1-9558-4cbc-acfb-58802a8e752d" frameborder="0" allowfullscreen></iframe>
 
 Pour l'apéro final et [les cacahuètes], il n'y avait pas plus indiqué que [le 
-carrefour Alsace-Lorraine] ! Refait à neuf en proposant aux vélos de s'insérer
-dans un rond point double voie, ce carrefour valait bien quelques tours. 
+carrefour Alsace-Lorraine] ! Rénovation "de façade à façade" proposant aux vélos 
+de s'insérer dans un rond point double voies, ce carrefour valait bien quelques 
+tours. 
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/dbbe4056-238f-4735-9454-f4ebed41dcfe" frameborder="0" allowfullscreen></iframe>
 
