@@ -1,9 +1,8 @@
 ---
-draft: true
 title: "Balade révélation #4"
 publishdate: 2019-03-19T09:41:10+01:00
 author: "Sébastien Lamy"
-date: 2019-06-02
+date: 2019-06-16
 lieu: "Départ au crayon du centre Leclerc de Pau"
 horaire: 10h
 tags:
