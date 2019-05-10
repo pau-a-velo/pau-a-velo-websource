@@ -2,7 +2,7 @@
 title: "Pot à vélo"
 publishdate: {{ .Date }}
 author: "Sébastien Lamy"
-date: {{ strings.TrimPrefix "Pot à Vélo " .File.BaseFileName }}
+date: {{ strings.TrimPrefix "Pot à Vélo " .File.BaseFileName }}T18:00:00+02:00
 lieu: "Coulée Douce (bar de la cité des Pyrénées), 29 bis rue Berlioz"
 horaire: 18h
 header: pot-atelier.jpg
