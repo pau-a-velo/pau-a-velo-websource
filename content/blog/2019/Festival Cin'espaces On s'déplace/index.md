@@ -43,7 +43,7 @@ constat très documenté sur l'histoire passée et présente des déplacements.
 Vous pouvez [consulter la présentation au format pdf]. Ci-dessous le film de
 la conférence dans son intégralité, que vous pouvez aussi [télécharger en version hd](http://fubicy.org/pau/evenements/cinespaces2019/conference-herran-2019-hd-1080.mp4).
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/cc119d6b-1650-4979-b4eb-63fa5de78997" frameborder="0" allowfullscreen></iframe>
+{{< tubee cc119d6b-1650-4979-b4eb-63fa5de78997 >}}
 
 ### La balade dominicale
 

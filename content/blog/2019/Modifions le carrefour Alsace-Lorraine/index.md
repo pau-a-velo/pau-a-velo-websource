@@ -47,7 +47,7 @@ La force est dans les mollets!
 
 France 3 et [la république] étaient présents pour couvrir le dernier vendredi.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/4eb0d2df-04a0-484e-8384-f90459efc352" frameborder="0" allowfullscreen></iframe>
+{{< tubee 4eb0d2df-04a0-484e-8384-f90459efc352 >}}
 
 Résultats : 1893 véhicules/heure accèdent au rond point avec
 toutes les voies disponibles, et 1806 véhicules/heure en supprimant les
