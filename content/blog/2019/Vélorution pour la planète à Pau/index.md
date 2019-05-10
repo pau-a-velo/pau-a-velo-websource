@@ -1,6 +1,6 @@
 ---
 title: "Vélorution pour la planète à Pau"
-date: 2019-05-06T22:29:57+02:00
+date: 2019-05-04T22:29:57+02:00
 author: "Sébastien Lamy"
 tags:
   - action
@@ -13,6 +13,9 @@ tags:
   - Mazères-Lezons
   - vélorution
   - 14 juillet
+  - Alsace-Lorraine
+  - BHNS
+  - aménagements
 imageGroupClass: "group"
 ---
 
@@ -54,7 +57,7 @@ massifs fleuris, mobilier urbain, station vélo, on a pensé à tout sauf à la
 sécurité vélo. Le temps de quelques tours, les vélorutionnaires en ont refait 
 un lieu ou il fait bon pédaler.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/d74fd1b6-329c-40f0-aef9-cd075591c13a" frameborder="0" allowfullscreen></iframe>
+{{< tubee d74fd1b6-329c-40f0-aef9-cd075591c13a >}}
 
 Et ils ne sont pas partis sans afficher leur verdict !
 
@@ -79,12 +82,12 @@ zone piétonne avec 2 voies vélos et une voie bus, non ?
 Après le pont, direction [la V81], en passant par le petit passage
 trop étroit qui mène à la toute nouvelle passerelle du soust.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/9232faaa-d5b1-42b8-8651-99ef4f2a96e4" frameborder="0" allowfullscreen></iframe>
+{{< tubee 9232faaa-d5b1-42b8-8651-99ef4f2a96e4 >}}
 
 Puis un instant de bonheur avant l'épreuve des marches entre Mazères-Lezons et
 Bizanos.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/6c4219ed-7b96-491f-9dff-dc4201937e1d" frameborder="0" allowfullscreen></iframe>
+{{< tubee 6c4219ed-7b96-491f-9dff-dc4201937e1d >}}
 
 ![](marches-franqueville.jpg)
 
@@ -92,7 +95,7 @@ Sur les marches, ce n'est que le nombre de cyclistes et leur solidarité qui
 ont permi à tous de pouvoir franchir [cette passerelle qui exclue les plus 
 faibles, mais aussi les usagers de vélo lourd].
 
-{{<gallery "marches" >}}
+{{< gallery "marches" >}}
 
 Là encore, un verdict sans appel !
 
@@ -112,14 +115,14 @@ Avant d'aborder la place d'Espagne, où [la voirie a été refaite à neuf en
 oubliant les vélos], les vélorutionnaires ont pris le temps d'encourager
 chaleureusement tous ceux qui avaient déjà opté pour la solution vélo.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/9f5f03e1-9558-4cbc-acfb-58802a8e752d" frameborder="0" allowfullscreen></iframe>
+{{< tubee 9f5f03e1-9558-4cbc-acfb-58802a8e752d >}}
 
 Pour l'apéro final et [les cacahuètes], il n'y avait pas plus indiqué que [le 
 carrefour Alsace-Lorraine] ! Rénovation "de façade à façade" proposant aux vélos 
 de s'insérer dans un rond point double voies, ce carrefour valait bien quelques 
 tours. 
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tubee.fr/videos/embed/dbbe4056-238f-4735-9454-f4ebed41dcfe" frameborder="0" allowfullscreen></iframe>
+{{< tubee dbbe4056-238f-4735-9454-f4ebed41dcfe >}}
 
 ![image des banderoles "ici tout nouveau tout faux", "protégez mieux les vélos", et "changeons le système pas le climat"](banderoles-alsace-lorraine.jpg)
 

@@ -7,6 +7,7 @@ tags:
   - balade
   - place d'Espagne
   - Gramont
+  - vélorution
 aliases:
   - /blog/velorution-estivale-et-fleurie-a-pau/
 ---
