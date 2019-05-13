@@ -16,10 +16,11 @@ jusqu'à Billère, le long de la Paris-Madrid. Cet itinéraire cyclable correspo
 Ceux qui souhaitaient continuer à pédaler ont pu prolonger le plaisir en longeant
 le gave jusqu'au stade d'eaux-vive de Pau.
 Une soixantaine de participants étaient présent pour profiter du soleil, du
-vent dans les cheuveux, et des commentaires de Nathalie Torrejon, de l'association
-[Destination Patrimoine], partenaire de Pau à Vélo pour ce cycle de Balade.
-Chacune est l'occasion de découvrir notre agglomération par l'angle de 
-l'urbanisme et du paysage. Rendez-vous pour [la prochaine le 16 juin](/agenda/2019/balade-revelation-4).
+vent dans les cheuveux, et des commentaires de Nathalie Torrejon. Notre guide
+représentait l'association [Destination Patrimoine], partenaire de Pau à Vélo 
+pour ce cycle de quatre balades. Rendez-vous pour [la prochaine le 16 juin](/agenda/2019/balade-revelation-4),
+dernière occasion de découvrir notre agglomération à vélo par l'angle de 
+l'urbanisme et du paysage
 
 {{< gallery "photos" >}}
 
