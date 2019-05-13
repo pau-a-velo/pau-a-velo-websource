@@ -1,4 +1,9 @@
-{{ $related := .Site.RegularPages.Related . | first 4 }}
+{{ $blog_pages := where .Site.RegularPages "Type" "blog" -}}
+{{ $agenda_pages := where .Site.RegularPages "Type" "agenda" -}}
+{{ $not_started := where $agenda_pages ".Date" "ge" (now.AddDate 0 0 -1) -}}
+{{ $not_ended := where $agenda_pages "Params.datefin" "ge" (now.Format "2006-01-02") -}}
+{{ $agenda_pages := union $not_started $not_ended -}}
+{{ $related := (union $agenda_pages $blog_pages).Related . | first 4 -}}
 {{ if (or $related .Params.tag) }}
   <div class="related">
     <h1>En rapport</h1>
