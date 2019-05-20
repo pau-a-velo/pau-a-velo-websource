@@ -8,10 +8,10 @@ tags:
   - Gelos
 ---
 
-Ce dimanche 19 mai, c'était l'occasion de découvrire la V81 dans les environs
-de Gelos. Malgré un temps maussade, une trentaine de participants étaient
+Ce dimanche 19 mai, c'était l'occasion de découvrir la V81 dans les environs
+de Gélos. Malgré un temps maussade, une trentaine de participants étaient
 présents pour l'aventure jusqu'à Rontignon. Sur le chemin, un magnifique
-champs de coquelicots en fleur. Au bout, un petit parcours de cross, auquel 
+champs de coqueliquots en fleur. Au bout, un petit parcours de cross, auquel 
 plusieurs enfants et adultes se sont essayés.
 
 {{< gallery photos >}}
