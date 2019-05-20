@@ -46,8 +46,7 @@ de recopier ce que vous avez écrit. <br/>
 Cependant il y a aussi un <a href="a-propos/adhesion-pau-a-velo.pdf">formulaire
 d'adhésion papier</a>.
 </div>
-
-{{% toggle_on_click title="Afficher les tarifs annuels" icon="fas fa-euro-sign" %}}
+{{< toggle_on_click title="Afficher les tarifs annuels" icon="fas fa-euro-sign" >}}
 ### Tarifs annuels
 
 * Adhésion individuelle: 15€
@@ -58,11 +57,9 @@ d'adhésion papier</a>.
 Une **réduction permanente de 2€** est appliquée sur votre tarif si vous choisissez le
 **prélèvement annuel automatique**. Ce moyen de paiement pérennise votre
 soutien et allège le travail administratif une fois en place.
-{{% /toggle_on_click %}}
-
-
-{{% toggle_on_click title="Afficher les moyen de paiement acceptés" icon="fas fa-paperclip" %}}
-### Paiements acceptés:
+{{< /toggle_on_click >}}
+{{< toggle_on_click title="Afficher les moyen de paiement acceptés" icon="fas fa-paperclip" >}}
+### Paiements acceptés
 
 * **Prélèvement annuel automatique** en nous fournisssant un RIB. Le
   prélèvement pérennise votre soutien et allège le travail administratif une
@@ -74,13 +71,12 @@ soutien et allège le travail administratif une fois en place.
   Titulaire: `ASS PAU A VELO`<br/>
   N'oubliez pas de <u>mettre votre nom d'adhérent dans l'objet du virement</u>.
 * **Carte bancaire** uniquement via le
-  <a href="https://www.cotizasso.com/participation/adhesion/2118" target="_blank">formulaire en ligne</a>
+  <a href="https://www.cotizasso.com/participation/adhesion/2265" target="_blank">formulaire en ligne</a>
 * **Chèque** libellé à « Association Pau à Vélo ».
 * **Espèce** en main propre à un des membre du conseil d'administration.
 
 Pour nous faire parvenir des documents, notre adresse se trouve [en bas de page](#footer).
-{{% /toggle_on_click %}}
-
+{{< /toggle_on_click >}}
 <div>
 <i class="fas fa-file-pdf"></i>
 <a href="a-propos/2017-06-03-pau-a-velo-satuts-et-reglement-interieur.pdf">
