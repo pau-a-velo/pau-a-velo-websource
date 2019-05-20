@@ -1,13 +1,15 @@
 ---
-draft: true
 title: "Consultation de Pau à Vélo par les services techniques municipaux"
 date: 2019-02-11
 publishdate: 2019-02-04
 ---
 
-Notre suggestion d'ordre du jour. Bien conscients qu'il sera compliqué de 
-s'attarder sur tous les sujets. Il faudra certainement programmer une nouvelle 
-réunion assez rapidement.
+Cette réunion avec les services techniques a été annulée au dernier moment par
+l'exécutif, suite à [notre procédure juridique au sujet de la loi LAURE sur
+le trajet du BHNS](/blog/2018/bhns-recours-juridique-pour-lhypercentre/). Pour information nous affichons ici la suggestion d'ordre 
+du jour que nous avions fournie, suffisament conséquent pour plusieurs réunions. 
+Ces sujets attendront, ou seront traité sans volonté de collaboration de la part 
+de la mairie.
 
 1. Compte-rendu de nos réunions 
 2. Explication sur le recours contentieux concernant les rues du centre-ville rénovées à l'occasion des travaux du BHNS (dossier n°1802898 au TA). Et notamment le nouveau "cul-de-sac" de Foirail/Carnot empêchant toute continuité vers la piste cyclable du Cours Lyautey.
