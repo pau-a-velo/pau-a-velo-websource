@@ -12,7 +12,8 @@ connaître.
 
 Pau à Vélo vous propose de rédiger un mail et de l'adresser à la mairie,
 aux services techniques, avec copie à notre association. Ainsi tous ceux qui peuvent
-traiter ou relayer votre demande seront au courant.
+traiter ou relayer votre demande seront au courant. Si possible, joignez des
+photos (pas trop volumineuse) !
 
 ####  Pour
 
@@ -29,5 +30,5 @@ ici pour ouvrir un mail avec les adresses pré-remplies](mailto:"Direction des m
 
 Selon le type de problème, il peut être aussi utile d'appeler 
 
-* **Police municipale** : 05&nbsp;59&nbsp;82&nbsp;82&nbsp;92
-* **Alerte voirie** : 0&nbsp;800&nbsp;0&nbsp;800&nbsp;64
+* **Police municipale** : 05&nbsp;59&nbsp;82&nbsp;82&nbsp;92 <a href="tel:+33559828292"><span aria-hidden class="fas fa-phone-square" title="Appeler" style="font-size: 1.5em;"></span><span class="sr-only">Appeler</span></a>
+* **Alerte voirie** : 0&nbsp;800&nbsp;0&nbsp;800&nbsp;64 <a href="tel:+33800080064"><span aria-hidden class="fas fa-phone-square" title="Appeler" style="font-size:1.5em"></span><span class="sr-only">Appeler</span></a>
