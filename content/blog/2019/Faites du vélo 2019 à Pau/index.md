@@ -14,8 +14,8 @@ tags:
 Ce week end, c'était la _«faites du vélo»_ organisée par la ville de Pau. Aux côtés
 de nombreuses autres associations, Pau à Vélo a contribué à cet évènement.
 
-Samedi 1 et dimanche 2 juin, nous avons invité [la compagnie catalane Katakrak] à 
-présenté leur série de jeux _cyclophone_, fabriquée à partir d'objets 
+Samedi 1er et dimanche 2 juin, nous avons invité [la compagnie catalane Katakrak] à 
+présenté leur série de jeux _Recicloperats_, fabriquée à partir d'objets 
 recyclés, dont de nombreuses pièces de vélo.
 
 {{< gallery "katakrak" >}}
