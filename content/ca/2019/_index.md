@@ -43,6 +43,6 @@ membres:
   - nom: "Sébastien Lamy"
     role: secrétaire
   - nom: "Sylvain Thibeau"
-    role: administrateur - référent animation
+    role: administrateur - référent animations
 ---
 
