@@ -1,7 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Pau a Velo//reunion calendar//FR
+PRODID:-//Pau a Velo//event calendar//FR
 CALSCALE:GREGORIAN
+X-WR-CALNAME:Evènements Pau à Vélo
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:L'Agenda des évènements organisée par l'association Pau à Vélo
 METHOD:PUBLISH
 {{range .Pages -}}
 BEGIN:VEVENT
