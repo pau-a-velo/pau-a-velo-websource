@@ -97,7 +97,8 @@ Tous nos groupes agissent en faveur des déplacements à vélo ou à pied...
 Rejoignez celui ou ceux qui vous intéressent&nbsp;! La porte est toujours ouverte, 
 il suffit vous signaler à l'association (nos contacts en [bas de page](#footer)).
 Au sein d'un groupe chacun peut participer ou devenir référent sur les sujets 
-qui lui tiennent à coeur.
+qui lui tiennent à coeur. Les groupes fonctionnent par réunions physiques et
+par échanges de messages.
 
 * **Actions de terrain** : porter nos revendications par des actions concrêtes 
   sur le terrain, là où ça pose problème.
