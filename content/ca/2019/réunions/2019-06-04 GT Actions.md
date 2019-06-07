@@ -9,3 +9,4 @@ Ordre du jour
 * Rue andré Mitton
 * Sondage rue Tran
 * Inauguration Alsace-Lorraine
+* Arceaux de stationnement à écrous
