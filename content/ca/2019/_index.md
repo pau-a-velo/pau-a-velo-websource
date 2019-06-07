@@ -27,15 +27,15 @@ trombi: "portraits"
 #     role: "secrétaire"
 membres:
   - nom: "Aurélie Erb"
-    role: administratrice
+    role: administratrice - référente actions
   - nom: "Christophe Nussbaumer"
     role: référent adhérents
   - nom: "Hervé Laurent"
-    role: secrétaire 
+    role: secrétaire - référent aménagements
   - nom: Jean-Pierre Gspann
     role: trésorier adjoint
   - nom: Julie Champagne
-    role: trésorière
+    role: trésorière - référente communication
   - nom: Pierrick Hospital
     role: administrateur
   - nom: "Roland Harper"
@@ -43,6 +43,6 @@ membres:
   - nom: "Sébastien Lamy"
     role: secrétaire
   - nom: "Sylvain Thibeau"
-    role: administrateur
+    role: administrateur - référent animation
 ---
 

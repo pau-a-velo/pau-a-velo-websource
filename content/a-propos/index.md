@@ -47,6 +47,7 @@ Cependant il y a aussi un <a href="a-propos/adhesion-pau-a-velo.pdf">formulaire
 d'adhésion papier</a>.
 </div>
 {{< toggle_on_click title="Afficher les tarifs annuels" icon="fas fa-euro-sign" >}}
+
 ### Tarifs annuels
 
 * Adhésion individuelle: 15€
@@ -59,6 +60,7 @@ Une **réduction permanente de 2€** est appliquée sur votre tarif si vous cho
 soutien et allège le travail administratif une fois en place.
 {{< /toggle_on_click >}}
 {{< toggle_on_click title="Afficher les moyen de paiement acceptés" icon="fas fa-paperclip" >}}
+
 ### Paiements acceptés
 
 * **Prélèvement annuel automatique** en nous fournisssant un RIB. Le
@@ -85,15 +87,41 @@ intérieur</a>
 </div>
 
 
+<h2 id="gdt">Rejoindre un groupe de travail</h2>
+
+Tous nos groupes agissent en faveur des déplacements à vélo ou à pied... 
+Rejoignez celui ou ceux qui vous intéressent&nbsp;! La porte est toujours ouverte, 
+il suffit vous signaler à l'association (nos contacts en [bas de page](#footer)).
+Au sein d'un groupe chacun peut participer ou devenir référent sur les sujets 
+qui lui tiennent à coeur.
+
+* **Actions de terrain** : porter nos revendications par des actions concrêtes 
+  sur le terrain, là où ça pose problème.
+* **Aménagements** : réflexion sur les aménagements urbains et les plans de 
+  circulation, dialogue avec les collectivités, actions juridiques.
+* **Animations** : organisation d'évènements qui parlent et donnent envie de 
+  vélo, ou qui aident à sa pratique.
+* **Communication** : diffusion des messages de l'association auprès du public.
 
 
-## Au service
+<div class="pure-button-group" role="group">
+  <a  class="pure-button pure-button-primary"
+      href="/ca/2019/#reunions">
+      Voir les dates et les<br/>
+      sujets des réunions
+  </a>
+</div>
+
+
+## Conseil d'administration
+
 Les administrateurs de Pau à Vélo sont des bénévoles au service des ambitions de
-l'association, et au service de ceux qui portent ces ambitions. Les adhérents
-qui le souhaitent peuvent aussi épauler et devenir référents sur les sujets qui
-leur tiennent à coeur.
+l'association, et au service de ceux qui portent ces ambitions. 
 
 Les mails adressés à l'association sont reçus par tous les administrateurs
 *(l'adresse mail de l'asso se trouve [en bas de page](#footer))*.
 Le conseil d'administration se réunit en général une fois par mois.
-Vous pouvez consulter les points abordés [ici](/ca/2019/#reunions).
+Vous pouvez [consulter les points abordés][réunions].
+
+
+[réunions]: /ca/2019/#reunions
