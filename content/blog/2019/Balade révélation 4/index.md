@@ -5,10 +5,11 @@ author: "Sébastien Lamy"
 tags:
   - balade
   - Ousse des Dois
+summary: "Ce dimanche 16 juin, c'était la quatrième et dernière balade du cycle 'Révélation', en  partenariat avec l'association Destination Patrimoine. Cette promenade nous a emmené le long de la rivière Ousse des Bois, et comme toute les sorties du cycle, elle nous a permis de découvrir  notre agglomération par l'angle de l'urbanisme et du paysage."
 ---
 
-{{< tubee 790ae744-0c4a-4715-a942-c4516f6265fd >}}
 
+{{< tubee 790ae744-0c4a-4715-a942-c4516f6265fd >}}
 
 Ce dimanche, c'était la quatrième et dernière balade du cycle "Révélation", en 
 partenariat avec l'association [Destination Patrimoine]. Cette promenade nous a 
@@ -34,6 +35,8 @@ qui nous ont emmenés jusqu'au lac des Carolins avant de revenir le long du
 Laü. On ne quitte plus les ruisseaux !
 
 {{< gallery "photos2" >}}
+
+vous pouvez [télécharger la trace GPS](balade-revelation-4.gpx)
 
 [Destination Patrimoine]: http://destinationpatrimoine.fr
 [Anim'Ousse-ère]: http://animousseere.fr
