@@ -6,7 +6,7 @@ tags:
 ---
 
 Vous avez un signalement ou une suggestion à faire concernant les déplacements
-à vélo dans l'agglomération paloise ?
+à vélo ou à pied dans l'agglomération paloise ?
 Pour faire évoluer notre ville, c'est important d'en parler et de le faire
 connaître.
 
