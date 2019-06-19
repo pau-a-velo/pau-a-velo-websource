@@ -148,6 +148,7 @@ var openPhotoSwipe = function(index, galleryElement, disableAnimation) {
 
     // define options (if needed)
     options = {
+        loop: 'once',
         index: index,
 
         // define gallery index (for URL)
