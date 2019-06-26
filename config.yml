@@ -21,7 +21,7 @@ menu:
 # le nombre d'article par page quand on liste tous les articles
 # (donc pas sur la page d'accueil)
 paginate: 12
-theme : blank
+# theme : pauavelo
 
 # La langue dans lequel sont rédigé les articles du site
 defaultContentLanguage: fr
