@@ -1,16 +1,16 @@
-{{ if .Params.header }}
-  {{ .Scratch.Set "image" ((.Site.GetPage "media").Resources.GetMatch .Params.header) -}}
-{{ else if .Resources }}
-  {{ .Scratch.Set "image" ((.Resources.ByType "image").GetMatch "header.*") -}}
+{{ if .page.Params.header }}
+  {{ .page.Scratch.Set "image" ((.page.Site.GetPage "media").Resources.GetMatch .page.Params.header) -}}
+{{ else if .page.Resources }}
+  {{ .page.Scratch.Set "image" ((.page.Resources.ByType "image").GetMatch "header.*") -}}
 {{ end}}
-{{ .Scratch.Set "hasImage" (cond (not (.Scratch.Get "image")) false true) -}}
-<div class="card {{ cond (.Scratch.Get "hasImage") " with-image" "" }}">
-	{{ partialCached "cards/image.html" . .Permalink }}
+{{ .page.Scratch.Set "hasImage" (cond (not (.page.Scratch.Get "image")) false true) -}}
+<div class="card {{ cond (.page.Scratch.Get "hasImage") " with-image" "" }}">
+	{{ partialCached "cards/image.html" .page .page.Permalink }}
 	<div class="card-text">
-		{{ partial "cards/title.html" . }}
+		{{ partial "cards/title.html" .page }}
 		{{/* On ne met pas le résumé si on est dans les suggestions d'un autre article  */}}
-		{{ if (.Scratch.Get "card_display_summary") }}
-			{{ partial "cards/summary.html" . .Permalink }}
+		{{ if .display_summary }}
+			{{ partialCached "cards/summary.html" .page .page.Permalink }}
 		{{ end }}
 	</div>
 </div>

@@ -1,5 +1,5 @@
 {{ define "main" -}}
-	{{ partial "nav.html" . }}
+	{{ partialCached "nav.html" . }}
   {{ $header := "nil" -}}
   {{ $header_src:= "nil" -}}
   {{ with .Scratch.Get "header-img" -}}
@@ -24,7 +24,6 @@
 			{{ partial "single/related.html" . }}
 		</article>
 	</main>
-	{{ partial "footer.html" . }}
-
+	{{ partialCached "footer.html" . }}
 	{{ partial "single/gallery_script.html" . }}
 {{ end }}

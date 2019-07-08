@@ -13,8 +13,7 @@
         <div class="pure-g">        
           {{ range . }}
           <div class="pure-u-1 pure-u-sm-1-2">
-            {{ .Scratch.Set "card_display_summary" false }}
-            {{ partialCached "cards/generic.html" . .Permalink "false" }}
+            {{ partialCached "cards/generic.html" (dict "display_summary" false "page" .) .Permalink "false" }}
           </div>
           {{ end }}
         </div>

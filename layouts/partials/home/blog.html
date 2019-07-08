@@ -11,8 +11,7 @@
 			{{/* Les vignettes d'article */}}
 			{{ range $posts }}
 				<div class="card-container pure-u-1 pure-u-md-1-2 pure-u-xl-1-3">
-					{{ .Scratch.Set "card_display_summary" true }}
-					{{ partialCached "cards/generic.html" . .Permalink "true" }}
+					{{ partialCached "cards/generic.html" (dict "display_summary" true "page" .) .Permalink "true" }}
 				</div>
 			{{ end }}
 				{{/* Les mots clés */}}
