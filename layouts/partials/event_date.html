@@ -5,12 +5,14 @@
     <span class="year">{{ .Date.Year }}</span>
   </p>
   {{- with .Params.datefin }}
-  <p class="event-to">au</p>
   {{ $datefin:= time . }}
+  {{- if (or (ne $datefin.Day $.Date.Day) (ne $datefin.Month $.Date.Month)) -}}
+  <p class="event-to">au</p>
   <p class="event-end">
     <span class="day">{{- $datefin.Day }}</span>
     <span class="month">{{ index $.Site.Data.mois.short (printf "%d" $datefin.Month) -}}</span>
     <span class="year">{{ $datefin.Year }}</span>
   </p>
+  {{- end -}}
   {{- end }}
 </div>
