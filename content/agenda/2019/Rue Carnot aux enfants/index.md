@@ -5,7 +5,7 @@ author: "Sébastien Lamy"
 date: 2019-09-21T10:00:00+02:00
 datefin: 2019-09-21T18:00:00+02:00
 lieu: "Rue Carnot à Pau"
-horaire: 10h-18h00
+horaire: 10h-17h00
 tags:
   - animation
 ---
