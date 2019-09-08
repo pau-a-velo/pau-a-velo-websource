@@ -2,15 +2,15 @@
 title: "Rue Carnot aux enfants, rue pour tous"
 publishdate: 2019-09-08T12:28:42+02:00
 author: "Sébastien Lamy"
-date: 2019-09-15T10:00:00+02:00
-datefin: 2019-09-15T18:00:00+02:00
+date: 2019-09-21T10:00:00+02:00
+datefin: 2019-09-21T18:00:00+02:00
 lieu: "Rue Carnot à Pau"
 horaire: 10h-18h00
 tags:
   - animation
 ---
 
-Le samedi 21 septembre, de 10h à 18h; la rue Carnot sera fermée à la  
+Le samedi 21 septembre, de 10h à 18h, la rue Carnot sera fermée à la  
 circulation  et au stationnement entre le foirail et les Halles, et remplie 
 d'animations pour les enfants. 
 
@@ -40,12 +40,11 @@ rue aux enfants est aussi une rue pour tous.
 
 ![](rue-pour-tous.jpg)
 
-Le 21 septembre est une date importante pour questionner nos mobilités.
-Située dans la semaine de la mobilité, mais aussi dans la quinzaine du
-développement durable à Pau, [cette date a été choisie par de nombreuses
-organisations écologiques au niveau national et international][climat], pour manifester 
-et agir au sujet de l'urgence climatique. Nos modes de vie énergivores doivent 
-changer, notre mobilité fait partie du lot.
+Le 21 septembre est une date importante. Située dans la semaine de la mobilité,
+ [cette date a été choisie par de nombreuses organisations écologiques au 
+niveau national et international][climat], pour manifester et agir au sujet de 
+l'urgence climatique. Nos modes de vie énergivores doivent changer, notre 
+mobilité fait partie du lot.
 
 ![](mobilite.jpg)
 
@@ -63,8 +62,12 @@ Carnot.
 Temporaire, [régulière], ou définitive, la piétonisation de la rue Carnot 
 contribuerait certainement à favoriser les mobilités actives à Pau.
 
+
 ![](strategie.jpg)
 
+Cet évènement s'inscrit dans le cadre de la [quinzaine du développement durable à Pau].
+
+[quinzaine du développement durable à Pau]: /agenda/2019/rue-carnot-aux-enfants/qdd19-prog.pdf
 [climat]: https://www.francetvinfo.fr/meteo/climat/climat-des-organisations-ecologistes-appellent-a-une-mobilisation-les-20-et-21-septembre_3547849.html
 [rue aux enfants]: https://www.ruesauxenfants.com/
 [idée des enfants d'Amsterdam]: https://www.youtube.com/watch?v=dojy78ThWK4

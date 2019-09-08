@@ -15,16 +15,17 @@ dans la politique urbaine.
 
 <!--more--> 
 
-Le jour de la [grève mondiale pour le climat], et alors que vont démarrer les
+Le jour de la [grève mondiale pour le climat], alors que vont démarrer les
 campagnes pour les élection municipales, cette vélorution tombe à point 
 nommé pour rappeler que le déplacement à vélo est un des outils indispensable
 pour relever le grand défi de la transition énergétique.
 
-Cette vélorution du 20 septembre à Pau se veut **accessible au plus grand
-nombre**. Avec un itinéraire court, un rythme très tranquille, un bon encadrement,
-elle offrira un cadre idéal pour les moins agueris, pour tous ceux qui aspirent
-à se déplacer en vélo mais ont besoin d'itinéraires sécurisés pour franchir le
-pas.
+Cette vélorution du 20 septembre à Pau se veut **accessible au plus grand 
+nombre**. Avec un itinéraire court, un rythme très tranquille, un bon 
+encadrement, elle offrira un cadre idéal pour les moins agueris, pour tous ceux
+ qui aspirent à se déplacer en vélo mais ont besoin d'itinéraires sécurisés 
+pour franchir le pas. Elle a lieu dans le cadre de la [quinzaine du 
+développement durable à Pau], et de la semaine de la mobilité.
 
 Au delà des enjeux climatique, le vélo est aussi une réponse pertinente aux 
 problèmes de sédentarité (manque d'activité physique), de pollution, de bruit, 
@@ -46,3 +47,4 @@ déplacements quotidiens, dans la bonne humeur et la convivialité. Soyons nombr
 [grève mondiale pour le climat]: https://www.francetvinfo.fr/meteo/climat/climat-des-organisations-ecologistes-appellent-a-une-mobilisation-les-20-et-21-septembre_3547849.html
 
 [copenhague]: https://copenhagenizeindex.eu/cities/copenhagen
+[quinzaine du développement durable à Pau]: /agenda/2019/rue-carnot-aux-enfants/qdd19-prog.pdf
