@@ -10,7 +10,7 @@ tags:
   - animation
 ---
 
-Le samedi 21 septembre, de 10h à 18h, la rue Carnot sera fermée à la  
+Le samedi 21 septembre, de 10h à 17h, la rue Carnot sera fermée à la  
 circulation  et au stationnement entre le foirail et les Halles, et remplie 
 d'animations pour les enfants. 
 
