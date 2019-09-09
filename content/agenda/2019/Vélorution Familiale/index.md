@@ -26,13 +26,13 @@ suggère d'emmener de quoi pique-niquer et partager un moment convivial en fin d
 parcours.**
 
 Le jour de la [grève mondiale pour le climat], alors que vont démarrer les
-campagnes pour les élection municipales, cette vélorution tombe à point 
-nommé pour rappeler que le déplacement à vélo est un des outils indispensable
+campagnes pour les élections municipales, cette vélorution tombe à point 
+nommé pour rappeler que le déplacement à vélo est un des outils indispensables
 pour relever le grand défi de la transition énergétique.
 
-Au delà des enjeux climatique, le vélo est aussi une réponse pertinente aux 
+Au delà des enjeux climatiques, le vélo est aussi une réponse pertinente aux 
 problèmes de sédentarité (manque d'activité physique), de pollution, de bruit, 
-d'encombrement de l'espace public (circulation et parking), de cout de la mobilité, 
+d'encombrement de l'espace public (circulation et parking), de coût de la mobilité, 
 d'insécurité routière, et d'autonomie des plus jeunes dans leurs déplacements. 
 C'est une solution réaliste, bon marché et rapidement applicable pour réduire
 les nuisances des déplacements urbains motorisés.
