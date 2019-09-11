@@ -24,7 +24,7 @@ en  amenant aussi leurs propres jeux  s'ils le souhaitent** (ballons,
 trotinettes, vélos...). Attention cependant à s'assurer que les enfants restent
  accompagnés d'un adulte.
 
-<a href="affiche.pdf"><img src="affiche.jpg" alt="télécharger l'affiche" /></a>
+<a href="affiche.jpg"><img src="affiche-small.jpg" alt="télécharger l'affiche" style="display:block;margin:0 auto;"/></a>
 
 La rue Carnot a été récemment rénovée pour y apaiser la vitesse, y apporter de 
 la végétation, des terrasses, et de la place pour la mobilité vélo. Pau à 

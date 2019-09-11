@@ -25,6 +25,8 @@ développement durable à Pau], et de la semaine de la mobilité. **Pau à vélo
 suggère d'emmener de quoi pique-niquer et partager un moment convivial en fin de 
 parcours.**
 
+<a href="affiche.pdf"><img src="affiche.jpg" alt="télécharger l'affiche" style="display:block;margin:0 auto;"/></a>
+
 Le jour de la [grève mondiale pour le climat], alors que vont démarrer les
 campagnes pour les élections municipales, cette vélorution tombe à point 
 nommé pour rappeler que le déplacement à vélo est un des outils indispensables
