@@ -22,8 +22,8 @@ encadrement, elle offrira un cadre idéal pour les moins agueris, pour tous ceux
  qui aspirent à se déplacer en vélo mais ont besoin d'itinéraires sécurisés 
 pour franchir le pas. Elle a lieu dans le cadre de la [quinzaine du 
 développement durable à Pau], et de la semaine de la mobilité. **Pau à vélo vous 
-suggère d'emmener de quoi pique-niquer et partager un moment convivial en fin de 
-parcours.**
+suggère d'accrocher vos slogans sur vos vélos, et d'emmener de quoi pique-niquer
+et partager un moment convivial en fin de parcours.**
 
 <a href="affiche.pdf"><img src="affiche.jpg" alt="télécharger l'affiche" style="display:block;margin:0 auto;"/></a>
 
