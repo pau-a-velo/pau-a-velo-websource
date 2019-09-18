@@ -19,7 +19,11 @@ d'animations pour les enfants.
 Mur d'escalade, Kayaks virtuels, jeux en bois, piste de vélo, pétanque  assise,
  contes, maquillage, trotinettes, et de nombreux autres jeux attendent les 
 petits et les grands. Cette rue emblématique  du centre ville affichera 
-provisoirement un autre visage. **Nous invitons toutes  les familles à y venir, 
+provisoirement un autre visage. 
+
+[Le programme est ici](programme.pdf)
+
+**Nous invitons toutes  les familles à y venir, 
 en  amenant aussi leurs propres jeux  s'ils le souhaitent** (ballons, 
 trotinettes, vélos...). Attention cependant à s'assurer que les enfants restent
  accompagnés d'un adulte.
