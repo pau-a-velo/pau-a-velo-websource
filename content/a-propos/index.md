@@ -1,5 +1,9 @@
 ---
+# outputs:
 headless: true
+# title: "À propos"
+# date: 2002-12-12T20:00:00+02:00
+# author: "Pau à Vélo"
 ---
 
 ## Parti pris
@@ -11,7 +15,7 @@ Pau à Vélo est une association qui met son énergie pour :
 * Revendiquer de la place, de la sécurité et de l'accessibilité pour les
   cyclistes, les piétons et les personnes à mobilité réduite dans
   l'agglomération paloise. *(revendications guidées par
-  [sa charte proposée aux municipalités](a-propos/charte-deplacements-actifs-2019.pdf))*
+  [sa charte proposée aux municipalités](/a-propos/charte-deplacements-actifs-2019.pdf))*
 * Initier à la pratique du vélo en proposant gratuitement des cours hebdomadaires
   d’apprentissage et des balades familiales mensuelles ouvertes à tous.
 
@@ -35,7 +39,7 @@ pour "vélorutionner" les déplacements en ville.
 
 <div style="text-align:center;padding:1em 0;">
 <a  class="pure-button pure-button-primary"
-    href="https://www.cotizasso.com/participation/adhesion/2265"
+    href="https://www.cotizasso.com/participation/adhesion/2736"
     target="_blank">
     Accéder au formulaire<br/>
     d'adhésion en ligne
@@ -43,7 +47,7 @@ pour "vélorutionner" les déplacements en ville.
 <p style="font-size:smaller">Le formulaire d'adhésion en ligne est géré par
 <a href="https://cotizasso.com/" target="_blank">cotizasso</a>. Il nous évite
 de recopier ce que vous avez écrit. <br/>
-Cependant il y a aussi un <a href="a-propos/adhesion-pau-a-velo.pdf">formulaire
+Cependant il y a aussi un <a href="/a-propos/adhesion-pau-a-velo.pdf">formulaire
 d'adhésion papier</a>.
 </div>
 {{< toggle_on_click title="Afficher les tarifs annuels" icon="fas fa-euro-sign" >}}
@@ -77,7 +81,7 @@ de l'adhésion).
   Titulaire: `ASS PAU A VELO`<br/>
   N'oubliez pas de <u>mettre votre nom d'adhérent dans l'objet du virement</u>.
 * **Carte bancaire** uniquement via le
-  <a href="https://www.cotizasso.com/participation/adhesion/2265" target="_blank">formulaire en ligne</a>
+  <a href="https://www.cotizasso.com/participation/adhesion/2736" target="_blank">formulaire en ligne</a>
 * **Chèque** libellé à « Association Pau à Vélo ».
 * **Espèce** en main propre à un des membre du conseil d'administration.
 
@@ -85,7 +89,7 @@ Pour nous faire parvenir des documents, notre adresse se trouve [en bas de page]
 {{< /toggle_on_click >}}
 <div>
 <i class="fas fa-file-pdf"></i>
-<a href="a-propos/2017-06-03-pau-a-velo-satuts-et-reglement-interieur.pdf">
+<a href="/a-propos/2017-06-03-pau-a-velo-satuts-et-reglement-interieur.pdf">
 Consulter nos statuts et notre règlement
 intérieur</a>
 </div>
