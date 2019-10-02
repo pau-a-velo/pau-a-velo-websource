@@ -30,17 +30,16 @@ emblématique  du centre ville a affiché provisoirement un autre visage.
 <video width="640" height="360" controls>
  <source src="VID_20190923_213628.webm" type="video/webm">
  <source src="VID_20190923_213628.mp4" type="video/mp4">
-Your browser does not support the video tag.
+Votre navigateur ne peut pas afficher cette vidéo.
 </video> 
 </p>
 
 Ce jour, une place privilégiée a été accordée aux enfants, pour qui la 
-circulation motorisée représente un danger et une privation d'espace public. 
-L'espace et la sécurité leur ont été redonnés. La rue a été un lieu
-de rencontre, de promenade, de jeux, d'échanges, de commerce : une rue pour tous. 
-La grande surprise a été l'environnement sonore très inhabituel. Les enfants 
-enthousiastes étaient beaucoup moins bruyants que les moteurs, l'ambiance était 
-à la fois très apaisée et très joyeuse.
+circulation motorisée représente un danger et une privation d'espace public.
+La rue a été un lieu de rencontre, de promenade, de jeux, d'échanges, de 
+commerce : une rue pour tous ! La grande surprise a été l'environnement sonore 
+très inhabituel : Les enfants enthousiastes étaient beaucoup moins bruyants que
+les moteurs, l'ambiance était à la fois apaisée et joyeuse...
 
 {{< gallery "photos" >}}
 
@@ -48,8 +47,8 @@ enthousiastes étaient beaucoup moins bruyants que les moteurs, l'ambiance étai
 ### Piétoniser ?
 
 La rue Carnot a été récemment rénovée pour y apaiser la vitesse, y apporter de 
-la végétation, des terrasses, et de la place pour la mobilité vélo. Pau à 
-Vélo salue cette évolution et propose de pousser les ambitions encore plus loin 
+la végétation, des terrasses, et de la place pour la mobilité vélo. "Pau à 
+Vélo" salue cette évolution et propose de pousser les ambitions encore plus loin 
 pour cette rue très fréquentée par les piétons, et qui accueillera prochainement 
 l'entrée de l'école primaire Henri IV.  **La question que nous posons est donc la 
 piétonisation de cette portion de la rue Carnot** : temporaire, [régulière], 
@@ -58,9 +57,9 @@ actives à Pau.
 
 M. le Maire est passé vers midi visiter la rue. Séduit, il a parlé de 
 renouveller l'expérience. Un rendez-vous a été donné à notre association pour 
-étudier le sujet. Le journal "Sud ouest" a consacré un article papier et un 
+étudier l'idée. Le journal "Sud ouest" a consacré un article papier et un 
 [reportage Web][sudouest] au sujet. Le journal "La République" a quand à lui très
-bien convert l'évènement: [un reportage][republique1], [un article][republique2],
+bien couvert l'évènement: [un reportage][republique1], [un article][republique2],
 mais  également [un sondage selon lequel 70% des répondants 
 souhaitent pérenniser l'opération]. Affaire à suivre !
 
