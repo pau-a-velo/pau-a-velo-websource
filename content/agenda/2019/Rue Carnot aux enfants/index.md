@@ -7,7 +7,6 @@ datefin: 2019-09-21T18:00:00+02:00
 lieu: "Rue Carnot à Pau"
 horaire: 10h-17h00
 tags:
-  - animation
 ---
 
 Le samedi 21 septembre, de 10h à 17h, la rue Carnot sera fermée à la  

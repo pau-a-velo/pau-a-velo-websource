@@ -4,6 +4,7 @@ date: 2019-09-20T18:30:45+02:00
 author: "Sébastien Lamy"
 tags:
   - vélorution
+  - Castetnau
 ---
 
 Ce vendredi 20 septembre 2019, c'était la vélorution familiale à Pau. Sur 
@@ -15,10 +16,11 @@ Accessible aux enfants_.
 
 Tout est dit !
 
-Pour les familles, Pau à Vélo a fait simple et facile : un circuit court, de la
+Pour les familles, _"Pau à Vélo"_ a fait simple et facile : un circuit court, de la
  musique, de la bonne humeur, un pot à l'arrivée, et un slogan en passant : _"Rue 
-Castetnau, de la place pour les vélos !"_. Mais aussi bien sûr : pleins de  
-cyclistes, pour que la rue s'appaise et que tout le monde soit en sécurité[^1]. 
+Castetnau, de la place pour les vélos !"_. Il y avait aussi l'ingrédient
+indispensable : beaucoup de cyclistes, pour que la rue s'appaise et que tout le 
+monde soit en sécurité[^1]. 
 
 
 <p style="text-align:center">
