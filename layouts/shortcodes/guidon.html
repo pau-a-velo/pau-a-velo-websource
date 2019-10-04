@@ -2,7 +2,6 @@
 <h3>{{ .Get "title" }}</h3>
 {{ with .Get "subtitle" }}<div class="subtitle">{{ . }}</div>{{ end }}
 {{ with .Get "author" }}<div class="author">({{ . }})</div>{{end}}
-
 <a href="pau-velo-guidon-dor-dossier-{{ .Get "id" }}.pdf"><img src="{{ .Get "id" }}.png" alt="voir le dossier" /></a><br/>
-<i>{{ .Get "score" }} vote{{ cond ((int (.Get "score")) | lt 1) "s" "" }}</i>
+{{ with .Get "score" }}<i>{{ . }} vote{{ cond ((int .) | lt 1) "s" "" }}</i>{{end}}
 </div>
