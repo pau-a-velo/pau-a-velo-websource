@@ -14,3 +14,6 @@ d'analyse et de proposition pour cette ville. Ordre du jour proposé
 3. Etudes des solutions "typiques" adoptées dans des villes volontaristes pour 
    augmenter la pratique du vélo: Aménagements choisis et budget.
 4. Présentation de la charte de notre association.
+
+Lors de cette réunion, nous avons pu projeter un diaporama que vous pouvez
+[consulter ici](/blog/2019/propositions-pour-jurancon/2019-02-25-mairie-jurancon-diapo.pdf)

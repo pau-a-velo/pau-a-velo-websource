@@ -7,7 +7,22 @@ lieu: "Plusieurs départs"
 horaire: horaire selon point de départ
 tags:
   - balade
-  - véloroute
+  - véloroute v81
+  - véloroute Ossau
+  - vélotaf
+  - Gan
+  - Gelos
+  - Laroin
+  - Tarsacq
+  - Nay
+  - Baudreix
+  - Artiguelouve
+  - Narcastet
+  - Rontignon
+  - Mazères-Lezons
+  - Pardies-Pietat
+  - Jurançon
+  - Billère
 ---
 
 L'association « Pau à vélo » invite les élus et les habitants des communes traversées par les véloroutes et voies vertes de la région paloise à découvrir ou redécouvrir ces aménagements en les envisageant comme des voies de circulation alternatives dans les déplacements quotidiens.

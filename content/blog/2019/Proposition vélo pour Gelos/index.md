@@ -6,6 +6,7 @@ tags:
   - Gelos
   - proposition
   - plan vélo
+  - dialogue mairie
 ---
 
 M. Mora, le maire de Gelos, a récemment accepté deux rencontres avec notre association:
