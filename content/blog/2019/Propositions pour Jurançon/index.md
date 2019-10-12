@@ -16,7 +16,7 @@ parler de nos constats à Jurançon, et proposer des solutions qui amélioreraie
 la pratique des mobilités actives dans cette commune. 
 
 Un dossier conséquent avait été préparé par des habitants de Jurançon pour 
-cette deuxième réunion. Ce dossier rempli bien le rôle de "chargé de rêvé" de 
+cette deuxième réunion. Ce dossier rempli bien le rôle de "chargé de rêver" de 
 notre association, en posant des ambitions très hautes pour changer les 
 mobilités, et en proposant des pistes concrêtes et réalisables. Il est 
 maintenant entre les mains de la municipalité.
