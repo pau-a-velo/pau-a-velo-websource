@@ -9,10 +9,10 @@ tags:
   - LAURE
 ---
 
-Une habitante de Lescar nous a récemment fait part de sa déception suite à la
+Une habitante de Lescar nous a récemment fait part de sa déception suite à la 
 rénovation de la rue du Hiaa à Lescar. Le courrier de cette habitante nous 
-apprend qu'on y trouvait un double sens cyclable avec bande avant les travaux, 
-et que la ville a **supprimé cet aménagement au profit du stationnement automobile**. 
+apprend qu'on y trouvait un double sens cyclable avant les travaux, et que la 
+ville a **supprimé cet aménagement au profit du stationnement automobile**. 
 Il faut dire que la demande était forte, comme le suggèrent toutes ces places 
 qui restent disponibles tant le dimanche après-midi que très tôt le matin. :unamused:
 
