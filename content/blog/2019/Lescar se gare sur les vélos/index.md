@@ -26,10 +26,8 @@ LAURE pour les NULS] !
 Nous retranscrivons ci-dessous les échanges de courrier que nous
 a transmis l'habitante.
 
-Le courrier reçu par notre association :
- 
-> De : 	katia narbona soroste  
-> Pour : 	Pau à vélo  
+Le courrier qu'elle a adressé notre association :
+
 > Sujet : 	Déplacement vélo sur Lescar  
 > Date : 	27 juin
 > 
@@ -48,12 +46,10 @@ Le courrier reçu par notre association :
 >
 > Bonne journée,  
 > Bien cordialement,
->
-> Katia Soroste
 
-Le courrier adressé au maire adjoint :
 
-> De : katia narbona soroste   
+Le mail qu'elle avait adressé au maire adjoint :
+
 > Envoyé : mardi 4 juin 2019 16:04:45   
 > À : Chauvelier Francis   
 > Objet : Déplacement vélo sur Lescar 
@@ -83,7 +79,7 @@ Le courrier adressé au maire adjoint :
 > politique de la ville de Lescar : piste cyclable enlevée, peinture des pistes 
 > non entretenue, grande piste cyclable rue Marguerite de Navarre qui ne débouche
 > sur rien (même pas un affichage pour prévenir les automobilistes du partage de
-> la route dans le virage de la côte des vignes).
+> la route dans le virage de la côte du vigné).
 >
 > C'est un sujet qui mérite d'être vraiment défendu et qui devient urgentissime !
 >  car en plus de ne pas ou moins pollué (dans le cas des vélos électriques), le 
@@ -96,35 +92,10 @@ Le courrier adressé au maire adjoint :
 > En vous remerciant par avance de l'intérêt que vous porterez à mon courrier, je
 > vous prie de croire, Monsieur le Maire-adjoint, en l'expression de mes 
 > sincères salutations.
->
-> Katia Soroste
 
-Réponse du maire adjoint: 
 
-> De : Chauvelier Francis   
-> Envoyé : mercredi 5 juin 2019 08:43   
-> À : katia narbona soroste   
-> Objet : RE: Déplacement vélo sur Lescar
-> 
-> Bonjour Madame,
->
-> Cycliste moi-même, je souscris totalement au constat que vous faites et à la 
-> nécessité (l'urgence !) de penser (et de réaliser !) dans notre commune et 
-> l'agglo à un véritable plan vélo !
-> 
-> Je me renseigne à propos de la rue du Hiaà et des autres points durs que vous 
-> évoquez auprès des services techniques compétents et de l'élu de référence 
-> concernant les travaux de voirie (le 1 er adjoint, J. Gratacos), mais sachez 
-> qu'à aucun moment je n'ai été consulté ! Je souhaite que nous puissions encore
-> agir... Peux-t-on créer un espace partagé par exemple ?
-> 
-> Je vous tiens informée.
-> 
-> Avec toute ma cordialité,
->
-> Francis CHAUVELIER
-
-Et enfin [la réponse de M. Laine], dans laquelle on peut lire 
+Et enfin [la réponse qu'elle a reçue de M. Laine (maire de Lescar)], dans 
+laquelle on peut lire 
 
 > Votre investissement au niveau personnel pour favoriser les déplacements non
 > polluants est tout à votre honneur, sachez qu'au niveau de la commune, nous
@@ -132,8 +103,6 @@ Et enfin [la réponse de M. Laine], dans laquelle on peut lire
 
 Mais, mais, mais,... la priorité absolue est quand même le confort du 
 tout-voiture, surtout dans les rues étroites ! :disappointed:
-
-
 
 Le maire profite également de sa lettre pour glisser : 
 
@@ -150,12 +119,11 @@ il a réalisé [un reportage] sur les rues de Lons et Lescar aménagées en zone
 mais manquant cruellement de double sens cyclable.
 
 
-Comme le souligne M. Chauvelier, l'urgence de penser et réaliser un plan vélo à
-Lescar reste entière. Nous signalons donc que Pau à Vélo est à la disposition
-de la mairie pour l'aider dans cet objectif. En attendant, 
-Lescar dispose d'un plan de stationnement apparemment très ambitieux et adapté 
-aux défis à venir (manque d'activité physique, pollution, changement 
-climatique,...) :confused:
+L'urgence de penser et réaliser un plan vélo à Lescar reste entière. Nous 
+signalons donc que Pau à Vélo est à la disposition de la mairie pour l'aider 
+dans cet objectif. En attendant, Lescar dispose d'un plan de stationnement 
+apparemment très ambitieux et adapté aux défis à venir (manque d'activité 
+physique, pollution, changement climatique,...) :confused:
 
 [un reportage]: /blog/2019/zone-30-sauf-velo/
 [un article précédent de notre blog]: /blog/2018/visite-de-lescar/
