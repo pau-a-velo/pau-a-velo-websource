@@ -17,7 +17,7 @@ Il faut dire que la demande était forte, comme le suggèrent toutes ces places
 qui restent disponibles tant le dimanche après-midi que très tôt le matin. :unamused:
 
 <p style="text-align:center">
-<video width="400" height="220" controls muted="muted" src="https://video-cdg2-1.xx.fbcdn.net/v/t42.9040-2/65003473_448030145974134_4470233546866294784_n.mp4?_nc_cat=102&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&amp;_nc_oc=AQkXlSt0qxseme6LCOkora1ODkNHO8pdd9m9J30dmvRhV-IUHmRnxBAA0xh2UpIRucPGypEQdPpz1L7ILuHBfkmU&amp;_nc_ht=video-cdg2-1.xx&amp;oh=2779b589cc7efd0134078f769650b448&amp;oe=5DA12694"></video>
+<video width="400" height="220" controls muted="muted" src="lescar-rue-du-hiaa.mp4"></video>
 </p>
 
 Le cadeau de Noël pour la mairie de Lescar est déjà tout trouvé, c'est [La loi
@@ -94,7 +94,7 @@ Le mail qu'elle avait adressé au maire adjoint :
 > sincères salutations.
 
 
-Et enfin [la réponse qu'elle a reçue de M. Laine (maire de Lescar)], dans 
+Et enfin [la réponse qu'elle a reçue de M. Laine (maire de Lescar)][reponse], dans 
 laquelle on peut lire 
 
 > Votre investissement au niveau personnel pour favoriser les déplacements non
@@ -129,5 +129,5 @@ physique, pollution, changement climatique,...) :confused:
 [un article précédent de notre blog]: /blog/2018/visite-de-lescar/
 [notre courrier à la ville de Lescar]: /blog/2018/visite-de-lescar/courrier-pav-lescar-25nov2018.pdf
 [la loi LAURE pour les nuls]: https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006833430&dateTexte=20090518
-[la réponse de M. Laine]: reponse-du-maire-de-lescar.pdf
+[reponse]: reponse-du-maire-de-lescar.pdf
 [constat de la FUB]: https://www.fub.fr/sites/fub/files/fub/Amenagements/depliant_doubles_sens_cyclables_2013_web.pdf
