@@ -9,7 +9,7 @@ tags:
   - aménagements
 ---
 
-À la moindre pluie, la v81 à Mazères-Lezons se retrouve envahie de flaque 
+À la moindre pluie, la v81 à Mazères-Lezons se retrouve envahie de flaques 
 immenses. Un de nos administrateur a envoyé un courriel à ce sujet, dont nous 
 retranscrivons ici le contenu.
 

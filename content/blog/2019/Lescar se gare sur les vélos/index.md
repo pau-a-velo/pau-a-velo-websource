@@ -26,7 +26,7 @@ LAURE pour les NULS] !
 Nous retranscrivons ci-dessous les échanges de courrier que nous
 a transmis l'habitante.
 
-Le courrier qu'elle a adressé notre association :
+Le courrier qu'elle a adressé à notre association :
 
 > Sujet : 	Déplacement vélo sur Lescar  
 > Date : 	27 juin

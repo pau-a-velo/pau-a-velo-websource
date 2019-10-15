@@ -9,7 +9,7 @@ tags:
 ---
 
 Un de nos adhérents s'est inquiété du stationnement à la future halle bio de
-Billère, et à écrit un courrier au service d'urbanisme. La réponse a fini
+Billère, et a écrit un courrier au service d'urbanisme. La réponse a fini
 par nous parvenir : il y aura bien des arceaux vélos, dont certains couverts ! 
 Nous retranscrivons ici les mails échangés.
 

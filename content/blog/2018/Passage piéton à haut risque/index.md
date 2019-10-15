@@ -9,6 +9,7 @@ tags:
   - total
   - terega
   - aménagements
+  - courrier
 ---
 
 Nous avons reçu [un courrier au sujet d'un passage piéton problématique], à

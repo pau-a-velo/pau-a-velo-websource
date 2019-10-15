@@ -9,7 +9,7 @@ tags:
 
 Nous avons reçu un mail d'une cycladine nous relatant les incidents qu'elle
 a subit lors de sa traversée du pont du 14 juillet, itinéraire qu'elle prend
-très frequemment. Nous retranscrivont ici sa lettre :
+très frequemment. Nous retranscrivons ici sa lettre :
 
 > Incidents rue du XIV juillet.
 > 
@@ -33,7 +33,7 @@ très frequemment. Nous retranscrivont ici sa lettre :
 
 
 Comme rappelé lors de notre [vélorution pour la planète], le pont du 14 juillet 
-et ses alentours ressemblent à un Mordor Cyclable. Aussi hostile que le suggère
+et ses alentours ressemblent à un Mordor cyclable. Aussi hostile que le suggère
 l'image d'en-tête de cet article. Ce pont et ses abords représentent pourtant 
 une connexion cruciale entre de nombreux itinéraires cyclables. 
 

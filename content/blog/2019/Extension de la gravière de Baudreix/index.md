@@ -12,7 +12,7 @@ Le groupe Daniel envisage l'extension de sa gravière sur le site de Beaudreix.
 Notre association a répondu à [l'enquête publique] sur ce sujet, en s'inquiétant
 de l'impact sur la véloroute v81, dont le tracé actuel est directement sur
 la zone d'extension prévue. La logique de l'extraction à outrance ne nous convient
-pas, et nous nous demandons quels seront les impacts de ce projet sur le cadre offert aux
+pas, et nous nous demandons quels seront les impacts de ce projet sur le cadre offert
 aux utilisateurs quotidiens ou occasionnels de cette portion de
 la véloroute.
 
@@ -25,7 +25,7 @@ emprunté par de nombreux véhicules de chantiers.
 
 Vous pouvez consulter ici [notre contribution à l'enquête publique](pau-a-velo-enquete-graviere-baudreix.pdf),
 que nous avons envoyée au préfet des Pyrénées-Atlantiques Eric SPITZ, au 
-Président de Département Jean-Jacques LASSERRE, et au commissaire enquêteur
+Président de Département Jean-Jacques LASSERRE, et au commissaire enquêteur.
 
 {{< youtube "cpEk-hpS4fM" >}}
 
