@@ -31,6 +31,8 @@ très frequemment. Nous retranscrivons ici sa lettre :
 > pied à ma droite, tout près de moi. Je hurle, le conducteur pile. Mon
 > fils a dit : "j'ai senti le pneu sur mon pied mais ça ne m'a pas fait mal".
 
+Edit du 15 octobre: Ce post facebook de notre asso fait écho sur le sujet
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpauaveloo%2Fvideos%2F253107245577008%2F&show_text=1&width=560" width="560" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 Comme rappelé lors de notre [vélorution pour la planète], le pont du 14 juillet 
 et ses alentours ressemblent à un Mordor cyclable. Aussi hostile que le suggère
