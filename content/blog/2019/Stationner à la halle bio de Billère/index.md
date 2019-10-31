@@ -50,7 +50,7 @@ techniques, car resté sans réponse.
 > Nicolas Argaud, pour Pau à Vélo.
 
 
-Réponse reçue le 30 août de Aude Lautier, des services techniques de la ville de 
+Réponse reçue le 30 août des services techniques de la ville de 
 Billère :
 
 > Bonsoir Monsieur Argaud,
