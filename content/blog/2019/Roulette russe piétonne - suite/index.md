@@ -28,4 +28,8 @@ courrier :
 
 > Vous avez déjà été alertés à plusieurs reprises par des usagers qui vous ont adressé des courriers, depuis 2015 déjà.  Aucune action n’ayant été entreprise pour sécuriser ce passage, nous vous relançons aujourd’hui pour enfin progresser sur ce dossier avant l’accident mortel qui a toute probabilité de survenir en un endroit tellement insécurisé.
 
+Edit du 8 août: nous avons reçu [une réponse du préfet], qui nous promet d'instruire
+notre demande.
+
 [un article de décembre 2018]: /blog/2018/passage-pieton-a-haut-risque/
+[une réponse du préfet]: reponse-prefet.pdf
