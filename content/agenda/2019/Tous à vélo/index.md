@@ -42,6 +42,8 @@ routière... L'heure des [papillons et des ouragans] ?
 
 <a href="affiche.png"><img src="affiche-small.jpg" alt="télécharger l'affiche" style="display:block;margin:0 auto;"/></a>
 
+Retrouvez aussi [cet évènement sur notre facebook][fb], pour le partager.
 
 [montpellier]: https://www.midilibre.fr/2018/11/10/montpellier-ils-netaient-pas-2-mais-1200-a-manifester-a-velo,4830666.php
 [papillons et des ouragans]: https://www.youtube.com/watch?v=YDsLKEado_o
+[fb]: https://www.facebook.com/events/2523480014404761
