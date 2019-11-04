@@ -1,5 +1,5 @@
 ---
-title: "collectif FASILAVELO Billère"
+title: "Collectif FASILAVELO Billère"
 date: 2019-10-07T18:30:00+02:00
 publishdate: 2019-11-04T23:46:31+01:00
 ---
