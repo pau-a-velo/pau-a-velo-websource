@@ -13,7 +13,7 @@ connaître.
 Pau à Vélo vous propose de rédiger un mail et de l'adresser à la mairie,
 aux services techniques, avec copie à notre association. Ainsi tous ceux qui peuvent
 traiter ou relayer votre demande seront au courant. Si possible, joignez des
-photos (pas trop volumineuse) !
+photos (pas trop volumineuses) !
 
 ####  Pour
 
@@ -23,10 +23,9 @@ photos (pas trop volumineuse) !
 #### Copie à
 
 * Pau à Vélo &lt;pau@fubicy.org&gt;
-* Forum mail de Pau à Vélo &lt;velo.forum.pau@framalistes.org&gt;
 
 Si votre logiciel de mail est bien configuré, vous pouvez [cliquer
-ici pour ouvrir un mail avec les adresses pré-remplies](mailto:"Direction des mobilités"<circulation-pau@pau.fr,"Mairie de Pau"<contact@ville-pau.fr>?cc="Pau à Vélo"<pau@fubicy.org>,"Forum mail Pau à Vélo"<velo.forum.pau@framalistes.org>)
+ici pour ouvrir un mail avec les adresses pré-remplies](mailto:"Direction des mobilités"<circulation-pau@pau.fr,"Mairie de Pau"<contact@ville-pau.fr>?cc="Pau à Vélo"<pau@fubicy.org>)
 
 Selon le type de problème, il peut être aussi utile d'appeler 
 
