@@ -972,3 +972,7 @@ main.ca .trombi .portrait .role{
 .content .trombi .author{
   font-style: italic;
 }
+
+.content .trombi .portrait h3{
+  max-width: 300px;
+}
