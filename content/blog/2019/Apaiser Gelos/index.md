@@ -28,8 +28,7 @@ Mail de Patrick Duchaine le 14 juin 2019
 > Bonjour M. Mora, 
 > 
 > Je vous écris pour partager quelques réflexions/propositions discutées au sein 
-> de 
-> Pau à Vélo. Je veux bien en discuter à l'occasion pour échanger sur ce sujet.
+> de Pau à Vélo. Je veux bien en discuter à l'occasion pour échanger sur ce sujet.
 > 
 > 
 > J'ai lu [l'article de la Republique des Pyrénées en date du 5 juin] et le 
@@ -81,7 +80,7 @@ Réponse de Pascal Mora le 20 juin 2019
 > usagers.
 > 
 > Nous devons revoir les services de la Ville de Pau dans 10 jours pour 
-> évaluation de ce nouveau test. Je t'avoue que je ne sais pas dutout ce qui va 
+> évaluation de ce nouveau test. Je vous avoue que je ne sais pas dutout ce qui va 
 > en ressortir. [...]
 > 
 > En tout cas, je vous remercie pour votre message et vos propositions que je 
