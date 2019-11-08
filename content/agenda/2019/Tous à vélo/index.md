@@ -23,7 +23,7 @@ les temps qui courent !
 
 **Départ Square Aragon à Pau, toutes les demi-heure entre 15h00 et 18h00, pour une 
 boucle d'environ 20 mn.** Vous pouvez accompagnez une ou plusieurs boucles 
-selon votre envie et votre disponibilité !
+selon votre envie et votre disponibilité ! 
 
 ![](velo.gif)
 
@@ -43,6 +43,8 @@ routière... L'heure des [papillons et des ouragans] ?
 <a href="affiche.png"><img src="affiche-small.jpg" alt="télécharger l'affiche" style="display:block;margin:0 auto;"/></a>
 
 Retrouvez aussi [cet évènement sur notre facebook][fb], pour le partager.
+
+En cas de pluie persistante, l'évènement est annulé.
 
 [montpellier]: https://www.midilibre.fr/2018/11/10/montpellier-ils-netaient-pas-2-mais-1200-a-manifester-a-velo,4830666.php
 [papillons et des ouragans]: https://www.youtube.com/watch?v=YDsLKEado_o
