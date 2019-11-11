@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Du nouveau sur Copernic"
 date: 2019-09-17T22:36:33+01:00
 author: "Sébastien Lamy"
@@ -27,8 +26,9 @@ mobilités urbaines !
 Pour l'avenue Copernic, qui dispose de deux parallèles toutes proches (Cami 
 Salié et la Rocade), on pourrait par exemple imaginer décourager le transit par
  quelques obstacles ou quelques sens uniques bien pensés, comme cela se fait 
-[ailleurs dans le monde]. On obtiendrait une véritable rue de quartier apaisée 
-et agréable à circuler à vélo ou à pied, contribuant à relier l'hopital au 
+<a href="https://www.youtube.com/watch?v=PJhGSxDb5wQ" target="blank">ailleurs dans le monde</a>.
+On obtiendrait une véritable rue de quartier apaisée 
+et agréable à circuler à vélo ou à pied, contribuant à relier l'hôpital au 
 centre Total.
 
 
@@ -85,6 +85,5 @@ le 29 août:
 > 
 > Cordialement
 
-[ailleurs dans le monde]: https://www.youtube.com/watch?v=PJhGSxDb5wQ
 [interpeller]: /interpeller/
-[^1]: Ce qu'il est convenu d'appeler la « controverse ptoléméo-copernicienne » est restée gravée dans la mémoire collective comme un exemple type de résistance mentale de la part des tenants d'une ancienne représentation du monde par rapport à l'émergence d'une nouvelle vision qui s'épanouit (*[Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9volution_copernicienne)*)
+[^1]: Ce qu'il est convenu d'appeler la «&nbsp;controverse ptoléméo-copernicienne&nbsp;» est restée gravée dans la mémoire collective comme un exemple type de résistance mentale de la part des tenants d'une ancienne représentation du monde par rapport à l'émergence d'une nouvelle vision qui s'épanouit (*[Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9volution_copernicienne)*)
