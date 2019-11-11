@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Baromètre 2019 des villes cyclables : Participez !"
 date: 2019-11-08T16:31:04+01:00
 author: "Sébastien Lamy"
