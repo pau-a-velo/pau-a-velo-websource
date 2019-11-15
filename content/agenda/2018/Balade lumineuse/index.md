@@ -9,6 +9,7 @@ tags:
   - balade
 aliases:
   - /agenda/balade-lumineuse/
+header: "balade-illuminee.jpg"
 ---
 
 Parez vos vélos de belles guirlandes et autres lampions, et venez illuminer la 
