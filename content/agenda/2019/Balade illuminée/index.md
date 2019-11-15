@@ -18,7 +18,7 @@ de déplacement bienfaisant qu'est le vélo!
 
 <!--more-->
 
-**Venez si possible avec des éclairages, lampions et guirlandes sur vos vélos**
-. La balade se terminera sur les pistes cyclables de l'université. Nous y 
+**Venez si possible avec des éclairages, lampions et guirlandes sur vos vélos.** 
+La balade se terminera sur les pistes cyclables de l'université. Nous y 
 ferons une photo mise en scène pour appuyer notre revendication d'un meilleur 
 éclairage des passages les plus obscurs de cet itinéraire.
