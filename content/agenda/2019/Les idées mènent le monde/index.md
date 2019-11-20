@@ -1,14 +1,14 @@
 ---
 title: "Les idées mènent le monde"
 publishdate: 2019-11-15T14:11:18+01:00
-author: ""
-date: 2019-11-23T11:30:00+01:00
+author: "Sébastien Lamy"
+date: 2019-11-24T11:30:00+01:00
 lieu: "Rassemblement au kiosque du parc beaumont"
 horaire: 11h30
 tags:
 ---
 
-**Samedi 23 novembre à 11h30, votre présence à vélo est souhaitée au kiosque du parc Beaumont! Tenue correcte exigée.**
+**Samedi 23 novembre à 11h30, votre présence à vélo est souhaitée au kiosque du parc Beaumont ! Tenue correcte exigée.**
 
 <!--more-->
 
