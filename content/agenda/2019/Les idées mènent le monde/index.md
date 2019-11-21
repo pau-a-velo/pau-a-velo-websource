@@ -8,7 +8,7 @@ horaire: 11h30
 tags:
 ---
 
-**Samedi 23 novembre à 11h30, votre présence à vélo est souhaitée au kiosque du parc Beaumont ! Tenue correcte exigée.**
+**Dimanche 24 novembre à 11h30, votre présence à vélo est souhaitée au kiosque du parc Beaumont ! Tenue correcte exigée.**
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Comme l'an dernier, c'est le palais Beaumont qui accueille cet événement. La q
 
 Cette affirmation sur un parvis habituellement piéton interpelle tous ceux qui, comme nous, rêvent d'apaiser la ville et de changer les mobilités, et tous ceux qui veulent répondre aux défis que nous posent la pollution, le changement climatique, le manque d'activité physique, le bruit et l'insécurité routière.
 
-Sur ce parvis d'accueil, nous avons envie de voir une autre réponse. Une réponse en laquelle "nous pouvons croire encore", une réponse qui offre "un autre monde pour demain". Alors **nous vous donnons rendez-vous samedi 23 novembre pour une photo sur ce parvis !** Le temps d'un instant, venez poser la question de l'année 
+Sur ce parvis d'accueil, nous avons envie de voir une autre réponse. Une réponse en laquelle "nous pouvons croire encore", une réponse qui offre "un autre monde pour demain". Alors **nous vous donnons rendez-vous dimanche 24 novembre pour une photo sur ce parvis !** Le temps d'un instant, venez poser la question de l'année 
 
 ![En quoi croire encore ?](croire-encore.jpg)
 
