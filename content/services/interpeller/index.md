@@ -2,7 +2,8 @@
 title: "Interpeller"
 date: 2019-04-05T16:33:50+02:00
 author: "Pau à Vélo"
-tags:
+aliases:
+  - /interpeller/
 ---
 
 Vous avez un signalement ou une suggestion à faire concernant les déplacements
