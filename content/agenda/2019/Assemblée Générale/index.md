@@ -1,8 +1,8 @@
 ---
 title: "Assemblée Générale"
-publishdate: 2019-12-11T19:00:00+01:00
+publishdate: 2019-12-02T21:35:00+01:00
 author: "Julie Champagne"
-date: 2019-12-11
+date: 2019-12-11T19:00:00+01:00
 lieu: "La Grange de la MJC Berlioz, 84 av. de Buros, Pau"
 horaire: 20h
 tags:
