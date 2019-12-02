@@ -6,7 +6,7 @@ date: 2018-12-12
 lieu: "Centre Joyeux Béarn, 1 Avenue de Saragosse, 64000 Pau"
 horaire: 20h
 aliases:
-  - /agenda/essais-de-balisage-de-piste-cyclable/
+  - /agenda/assemblee-generale/
 ---
 
 L'assemblée Générale de l'association, c'est l'occasion pour les adhérents 

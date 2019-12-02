@@ -1,9 +1,10 @@
 ---
-draft: true
 title: "Premiers résultats du Baromètre Villes Cyclables 2019"
 date: 2019-12-02T18:10:06+01:00
-author: ""
+author: "Hervé Laurent"
 tags:
+  - analyse
+  - statistiques
 ---
 
 Début octobre, la Fédération des Usagers de la Bicyclette (FUB) lançait la deuxième édition du Baromètre des Villes Cyclables. Alors que la consultation s'achevait ce samedi 30 novembre, en avant-première, la FUB a déjà partagé la cartographie des "points noirs" du déplacement à vélo retenus par les répondants, ainsi que les voies de circulation que les cyclistes aimeraient voir rénovées.
