@@ -19,7 +19,7 @@ du stationnement automobile et fait apparaitre une trajectoire pour les vélos.
 On ne peut qu'applaudir cette sortie d'une vision de l'espace public
 centrée sur le déplacement automobile !
 
-L'essai est cependant un peu brouillon, la connection au reste de l'univers
+L'essai est cependant un peu brouillon, la connexion au reste de l'univers
 cyclable reste à effectuer. Et on est loin de la révolution copernicienne[^1] des 
 mobilités urbaines !
 
