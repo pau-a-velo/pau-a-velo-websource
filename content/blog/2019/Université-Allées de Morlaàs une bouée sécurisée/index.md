@@ -6,6 +6,7 @@ tags:
   - université
   - Allées de Morlaàs
   - coulée verte
+  - flaques
 ---
 
 ![](situation.jpg)
