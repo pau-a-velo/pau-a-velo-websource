@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Vélo école"
 date: 2019-11-26T12:08:21+01:00
 author: "Pau à Vélo"
