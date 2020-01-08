@@ -23,10 +23,10 @@ photos (pas trop volumineuses) !
 
 #### Copie à
 
-* Pau à Vélo &lt;pau@fubicy.org&gt;
+* Pau à Vélo &lt;pau@fub.fr&gt;
 
 Si votre logiciel de mail est bien configuré, vous pouvez [cliquer
-ici pour ouvrir un mail avec les adresses pré-remplies](mailto:"Direction des mobilités"<circulation-pau@pau.fr,"Mairie de Pau"<contact@ville-pau.fr>?cc="Pau à Vélo"<pau@fubicy.org>)
+ici pour ouvrir un mail avec les adresses pré-remplies](mailto:"Direction des mobilités"<circulation-pau@pau.fr,"Mairie de Pau"<contact@ville-pau.fr>?cc="Pau à Vélo"<pau@fub.fr>)
 
 Selon le type de problème, il peut être aussi utile d'appeler 
 
