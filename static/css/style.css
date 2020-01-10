@@ -636,8 +636,9 @@ section.a-propos .presentation{
 }
 .trombi .portrait img{
   /* display:block; */
+  max-width: 240px;
   border-radius: 10px;
-  box-shadow: 2px 2px 4px 1px #0008
+  box-shadow: 2px 2px 4px 1px #0008;
 }
 .trombi .portrait h3, .trombi ul.membres .nom{
   color: #333;

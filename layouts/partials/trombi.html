@@ -6,7 +6,7 @@
     {{- $portrait := $portraits.GetMatch (.nom | urlize | printf "%s.*") }}
     {{- with $portrait }}
       {{/* - $src := ($portrait.Fill "240x320").Permalink */}}
-      {{- $src := ($portrait.Resize "240x").Permalink }}      
+      {{- $src := ($portrait.Resize "480x").Permalink }}      
       <img src="{{ $src }}" />
     {{- end }}
     <h3>{{ .nom }}</h3>
