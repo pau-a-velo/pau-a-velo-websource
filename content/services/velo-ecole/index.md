@@ -5,14 +5,6 @@ author: "Pau à Vélo"
 header: "velo-ecole.jpg"
 tags:
 ---
-<!--
-<span aria-hidden="true" title="Lieu" class="fas fa-map-marker-alt" style="font-size:1.5em; width:1.3em;"></span>
-<span class="sr-only">Lieu&nbsp;: </span>**MJC Berlioz, 84 av. de Buros, Pau.**
-
-<span aria-hidden="true" title="Horaire" class="fas fa-clock" style="font-size:1.5em; width:1.3em;"></span>
-<span class="sr-only">Horaire&nbsp;: </span>**10h tous les mardis scolaire sans pluie.**
--->
- 
 
 En partenariat avec [l'Atelier Vélo Participatif et solidaire][atelier], « Pau à Vélo » vous propose des cours pour apprendre à pédaler, mais aussi pour apprendre à circuler en ville.
 
@@ -28,7 +20,7 @@ de pluie persistante.
 
 * **Le mardi 10h-12h à la MJC Berlioz, 84 av. de Buros, à Pau**.
   Inscription auprès de Pau à Vélo (coordonnées [en bas de cette page]( #footer))
-* **Le mercredi 10h-12h derrière le Bel Ordinnaire, allée Montesquieu, à  Billère**.
+* **Le mercredi 10h-12h derrière le Bel Ordinnaire, allée Montesquieu, à Billère**.
   Incription auprès de [l'Atelier Vélo participatif et Solidaire][atelier]. <a href="tel:+33615502115" class="fas fa-phone-square">&nbsp;06 15 50 21 14 </a>&nbsp;&nbsp;&nbsp; <span class="fas fa-at"> ateliervelopau@gmail.com</span>
 
 
