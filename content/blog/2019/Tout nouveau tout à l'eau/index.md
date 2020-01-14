@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Tout nouveau tout à l'eau"
 date: 2019-10-24T12:29:22+01:00
 author: "Sébastien Lamy"
@@ -39,4 +38,4 @@ Nous retranscrivons ici son courrier agacé, ainsi que ses photos.
 A son message fait echo un message d'une cycladine que nous avons reçu sur facebook au sujet de
 l'avenue Dufau.
 
-> J'ai roulé après une pluie ds le sens univ>centre, des immenses flaques d'eau, notamment vers le carrefour avec l'Alsace Lorraine. C'est vraiment dangereux, l'aquaplanning a été impressionnant et il y avait un vélo à coté, aussi surpris que moi, roulant dans une grosse flaque 
+> J'ai roulé après une pluie ds le sens univ>centre, des immenses flaques d'eau, notamment vers le carrefour avec l'Alsace Lorraine. C'est vraiment dangereux, l'aquaplaning a été impressionnant et il y avait un vélo à coté, aussi surpris que moi, roulant dans une grosse flaque 

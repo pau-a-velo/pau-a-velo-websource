@@ -6,7 +6,7 @@ tags:
   - action
 ---
 
-"Les idées mènent le monde" est un événement de rencontre littéraires organisé par la communauté d'agglomération. Après «&nbsp;Demain, un autre monde?&nbsp;» à l’édition 2018, le thème cette année est «&nbsp;En quoi croire encore&nbsp;?»
+"Les idées mènent le monde" est un événement de rencontres littéraires organisé par la communauté d'agglomération. Après «&nbsp;Demain, un autre monde?&nbsp;» pour l’édition 2018, le thème cette année est «&nbsp;En quoi croire encore&nbsp;?»
 
 Comme l'an dernier, c'est le palais Beaumont qui accueille cet événement. La question change, mais celui qui y répond sur le parvis d'accueil, avant même d'entrer dans le palais, est toujours le même : c'est un constructeur automobile partenaire. Il y expose ses "voitures de rêve" aux couleurs de l’événement. Des voitures qui "mènent le monde" aux côtés de la communauté d'agglomération, des voitures "de l'autre monde de demain", des voitures en lesquelles "on peut croire encore" ...
 

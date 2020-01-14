@@ -12,8 +12,8 @@ tags:
 
 Un de nos correspondant sur Jurançon nous a fait parvenir le courrier qu'il a
 adressé au maire de cette ville, au sujet des bandes cyclables et trottoirs
-aux abord du collège Gabard, qui disparaissent régulièrement sous les roues
-de conducteurs peu délicats. Y'a des prunes[^1] qui se perdent ! Notre correspondant
+aux abords du collège Gabard, qui disparaissent régulièrement sous les roues
+de conducteurs peu délicats. « Y'a des prunes[^1] qui se perdent ! » Notre correspondant
 demande à ce que les mauvais élèves de l'espace public puissent être sanctionnés, 
 ce en quoi nous le soutenons pleinement ! (135 euros le stationnement très gênant)
 

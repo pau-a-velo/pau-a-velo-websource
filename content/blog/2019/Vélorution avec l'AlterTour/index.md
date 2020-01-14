@@ -11,7 +11,7 @@ tags:
 
 > Le vélo plus qu'un sport un moyen de transport !
 
-Une cinquantaine participants de l'Altertour mettaient ce slogan de Pau à Vélo 
+Une cinquantaine participants de l'Altertour mettaient ce slogan de «Pau à Vélo» 
 en pratique, depuis quelques jours ou 6 semaines, venus de Tarbes, du Gers, ou 
 d'Angers...
 
@@ -38,7 +38,7 @@ Ci dessous le témoignage de Caroline Gauthier, membre de l'AlterTour:
 
 > Vendredi 23 août. C'est notre dernière grande étape avant la fin de 
 > l'AlterTour. 60 km... Départ de Juillan au petit matin, avant de rejoindre le 
-> Verger pédagogique AKARID à Limendous pour le déjeuner, et finir en beauté par 
+> verger pédagogique AKARID à Limendous pour le déjeuner, et finir en beauté par 
 > une Vélorution à Pau ! Rendez-vous est donné à 17h30 au rond-point des allées 
 > de Morlaàs à Pau. 
 > 
