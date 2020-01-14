@@ -111,6 +111,7 @@ par échanges de messages.
 * **Animations** : organisation d'évènements qui parlent et donnent envie de 
   vélo, ou qui aident à sa pratique.
 * **Communication** : diffusion des messages de l'association auprès du public.
+* **Voyage** : retours d'expérience, bons plans et organisation de voyage à vélo.
 
 
 <div class="pure-button-group" role="group">
@@ -133,4 +134,4 @@ Le conseil d'administration se réunit en général une fois par mois.
 Vous pouvez [consulter les points abordés][réunions].
 
 
-[réunions]: /ca/2019/#reunions
+[réunions]: /ca/2020/#reunions
