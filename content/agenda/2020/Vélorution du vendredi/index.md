@@ -11,10 +11,16 @@ tags:
 ---
 
 Tous les vendredis, rejoignez une déambulation festive et revendicative à vélo,
- dans les rues de Pau et les communes périphériques. **Rendez-vous à partir de 
-18h au bar le Taylor, pour un départ à 18h30 au milieu de la rue Serviez.** En 
-cette période d'élections municipales, donnons du poids à l'alternative vélo, 
+ dans les rues de Pau et les communes périphériques.
+
+<!--more-->
+
+ **Rendez-vous à partir de 18h au bar le Taylor, pour un départ à 18h30 au milieu de la rue Serviez.** 
+ **Durée prévue: entre 40mn et 1h.**
+ 
+En cette période d'élections municipales, donnons du poids à l'alternative vélo, 
 tout en  partageant un moment agréable pour cloturer la semaine.
+
 
 L'opération aura lieu toutes les semaines à partir du 7 février jusqu'aux 
 élections, et pourquoi pas au delà ?
