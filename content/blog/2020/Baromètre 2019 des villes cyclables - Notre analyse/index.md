@@ -14,7 +14,7 @@ Néanmoins les municipales 2020 sont porteuses d’espoir et il ne parait pas co
 
 {{< image src="resultats.png" caption="Résultats du baromètre des villes cyclables" >}}
 
-[Accèdez aux détails des résultats sur parlons-velo.fr](https://palmares.parlons-velo.fr/?c=64445).
+_Les notes sont sur 6_. [Accèdez aux détails des résultats sur parlons-velo.fr](https://palmares.parlons-velo.fr/?c=64445).
 
 Si la note globale a légèrement progressé, notamment grâce aux offres de services, l’écart avec des villes situées en tête de classement est toujours marqué. Comme le montre la comparaison avec La Rochelle, ville de dimensions comparables, la marge de progrès pour la ville de Pau reste importante.
 
@@ -38,7 +38,7 @@ Par ailleurs les rénovations de nombreuses rues de la ville auraient été l’
 
 ## La sécurisation
 
-Parmi les six critères de notation du baromètre, la sécurité, notée 2.54/6, apparait comme la faiblesse majeure du réseau cyclable palois.
+Parmi les six critères de notation du baromètre, la sécurité, notée 2.54 sur 6, apparait comme la faiblesse majeure du réseau cyclable palois.
 
 {{< image src="resultats_securite.jpg" >}}
 
@@ -50,7 +50,7 @@ Une nouvelle fois, comme le montre la cartographie des points noirs de l’enqu�
 Parce que l’action de Pau à vélo s’inscrit dans le temps, il parait indispensable d’apporter un point de vigilance particulier aux aménagements aux abords des établissements scolaires afin que les élèves venant à vélo se déplacent en sécurité, pour que ceux qui ne le font pas puissent un jour franchir le pas sans avoir peur de risquer leur vie et que chacun de ces adultes en devenir considère le vélo comme un moyen de déplacement aussi évident que l’est aujourd’hui la voiture.
 Dans ce contexte, nous sommes particulièrement déçus de l’état actuel du boulevard Barbanègre (Lycées L. Barthou et St Cricq, collège M. de Navarre et école Bosquet) alors qu’en 2014 M. Bayrou avait pris l’engagement suivant : « Les abords des établissements scolaires doivent être apaisés voire sécurisés en donnant la priorité aux piétons, vélos et personnes à mobilité réduite. Je serai intransigeant sur cet aspect pour nos concitoyens et en particulier pour nos enfants ».
 
-{{< image src="points-noirs.png" caption="L’ensemble des points noirs, dans le centre-ville de Pau, identifiés par les répondants au baromètre 2010  des villes cyclables" >}}
+{{< image src="points-noirs.png" caption="L’ensemble des points noirs, dans le centre-ville de Pau, identifiés par les répondants au baromètre 2019  des villes cyclables" >}}
 
 [Retrouvez la cartographie interactive des points noirs sur parlons-velo.fr](https://carto.parlons-velo.fr/?c=64445)
 
@@ -75,6 +75,6 @@ La volonté de changement est là, et la nouvelle équipe municipale se doit d�
 * Les communes de l’agglomération ont toute rédigé le PLUI, approuvé le 19 décembre dernier, dans lequel la promotion des mobilités actives ainsi que la diminution de la place de la voiture en ville sont de nombreuses fois citées comme des évolutions souhaitables de la société.
 * Les bénéfices du vélo ne sont plus à démontrer, tant du point de vue personnel (économies réalisées, santé préservée…) que du point de vue de la société (réduction de la pollution et du bruit, apaisement de la circulation, sauvegarde des infrastructures…). Pourquoi continuer à entraver l’essor d’une pratique qui apporte tant ?
 
-Pau à vélo souhaite jouer un rôle moteur dans le développement des mobilités actives, et a [rédigé des manifestes et des questionnaire](/blog/2020/municipales-2020-nos-manifestes/) à l'attention des électeurs et des candidats qui participeront aux prochaines élections municipales, dans plusieurs villes du coeur d'agglomération.
+Pau à vélo souhaite jouer un rôle moteur dans le développement des mobilités actives, et a [rédigé des manifestes et des questionnaires](/blog/2020/municipales-2020-nos-manifestes/) à l'attention des électeurs et des candidats qui participeront aux prochaines élections municipales, dans plusieurs villes du coeur d'agglomération.
 
 [^1]: FUB : Fédération des Usagers de la bicylette. La FUB fédère toutes les associations locales qui, comme Pau à Vélo, oeuvrent pour favoriser les déplacements à vélo. La FUB porte cette cause à l'échelon national.

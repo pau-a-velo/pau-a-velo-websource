@@ -16,7 +16,7 @@ tags:
 
 La marche à pied et le vélo, c’est bon pour le cœur et pour l’humeur, bon pour rester en forme, bon pour se déplacer à tout âge sans permis, sans fumée sans bruit, bon pour être moins dangereux en se déplaçant, bon pour redonner de l’espace public au lien social et aux arbres, bon pour le climat, bon pour le budget.
 
-Nous espérons une volonté politique forte pour favoriser ces modes de déplacements
+Nous espérons une volonté politique forte pour favoriser ces modes de déplacement
 au quotidien. Cette volonté, nous voulons l'insuffler aux candidats et aux citoyens
 de l'agglomération. Dans nos manifestes, nous partageons nos rêves d'avenir. Nos
 propositions phares : 

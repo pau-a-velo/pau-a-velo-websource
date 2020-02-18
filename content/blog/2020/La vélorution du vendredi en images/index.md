@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "La vélorution du vendredi en images"
 date: 2020-02-17T15:13:38+01:00
 author: ""
