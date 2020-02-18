@@ -2,8 +2,10 @@
 draft: true
 title: "Baromètre 2019 des villes cyclables - Notre analyse"
 date: 2020-02-18T10:56:34+01:00
-author: ""
+author: "Julien Garnier"
 tags:
+  - analyse
+  - statistiques
 ---
 
 Les résultats de l’enquête de la FUB [^1], dévoilés en début de mois, ont permis d’évaluer la qualité du système vélo des villes française. Le palmarès est [disponible en ligne](https://palmares.parlons-velo.fr/). Sans surprise, la ville de Pau est jugée comme « plutôt défavorable » à la pratique du vélo par les 625 répondants pour cette seule ville. Ceux-ci ont pointé du doigt le manque d’aménagements dédiés et l’insécurité sur plusieurs grands axes de fort transit. Pour Pau à Vélo, ces résultats sont cohérents avec les relations que l’association entretient avec les élus et les services techniques depuis des années.

@@ -5,6 +5,7 @@ author: "Nicolas Savary"
 tags:
   - accident
   - cartographie
+  - statistiques
 ---
 
 A tout hasard, si vous en avez l'utilité, voici la carte des accidents de la 
