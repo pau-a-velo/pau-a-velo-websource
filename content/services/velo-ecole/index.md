@@ -15,8 +15,8 @@ horaire que vous choisirez. **Tarif annuel 15  euros** pour une association,
 ### Apprendre à pédaler
 
 Pour les personnes qui ne savent pas encore faire du vélo, deux créneaux sont 
-disponibles, sur inscription préalable. Les cours n'ont pas lieu pendant les 
-vacances scolaires, et sont annulés en cas de pluie persistante.
+disponibles, sur inscription préalable. Les cours sont annulés en cas de pluie 
+persistante. Il n'y a pas d'interruption spécifique aux vacances scolaires.
 
 * **Le mardi 10h-12h à la MJC Berlioz, 84 av. de Buros, à Pau**.
   Inscription auprès de Pau à Vélo (coordonnées [en bas de cette page]( #footer))
