@@ -8,7 +8,7 @@ tags:
 
 Tous les vendredis, l'association Pau à Vélo invite à une Vélorution[^1]. C'est la vélorution du vendredi !
 
-Une balade revendicative et festive, pour rappeler dans la bonne humeur notre attente d'une politique forte en faveur des mobilités actives. En cette période d'élection municipales, Nous invitons tout le monde à rejoindre ce défilé, et nous partageons ici nos photos et vidéos (les vélorutions les plus récentes sont en haut.)
+Une balade revendicative et festive, pour rappeler dans la bonne humeur notre attente d'une politique forte en faveur des mobilités actives. En cette période d'élections municipales, nous invitons tout le monde à rejoindre ce défilé, et nous partageons ici nos photos et vidéos (les vélorutions les plus récentes sont en haut.)
 
 **Infos pratiques**
 
