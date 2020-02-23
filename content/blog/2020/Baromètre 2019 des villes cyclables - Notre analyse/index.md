@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Baromètre 2019 des villes cyclables - Notre analyse"
 date: 2020-02-18T10:56:34+01:00
 author: "Julien Garnier"
