@@ -1,12 +1,15 @@
 ---
+outputs: 
+  - html
 title: "Charte des déplacements actifs 2019"
 date: 2018-12-12T01:28:24+01:00
-author: "PAu à Vélo"
+author: "Pau à Vélo"
+url: /a-propos/charte-des-deplacements-actifs-2019
 tags:
 ---
-Favoriser les déplacements actifs
 
-Charte à destination des communes de l'agglomération de Pau
+Charte à destination des communes de l'agglomération de Pau, pour favoriser
+les déplacements actifs.
 
 Quelles sont les priorités ?
 
@@ -30,57 +33,56 @@ METTRE EN COHÉRENCE LES AMÉNAGEMENTS
 L'objectif à atteindre est un maillage cohérent d'itinéraires cyclables
 continus.
 
-a)  Créer un plan de circulation définissant une hiérarchisation de la
+1.  Créer un plan de circulation définissant une hiérarchisation de la
     voirie :
+    
+    TRANSIT INTER-QUARTIERS
+      * Itinéraires cyclables aménagés (pistes en site propre) sur axes de
+      transit motorisés (50km/h et/ou trafic fort).
+      * Lorsque possible, réserver certaines chaussées uniquement aux
+      déplacement actifs et aux riverains.
+      * Décourager les trajets motorisés entre quartiers voisins en les
+      reportant sur un axe dédié en périphérie, et en les rendant plus longs
+      en distance et en temps que le même trajet effectué en déplacement
+      actif.
 
-TRANSIT INTER-QUARTIERS
+    TRANSIT INTRA-QUARTIER
 
-* Itinéraires cyclables aménagés (pistes en site propre) sur axes de
-transit motorisés (50km/h et/ou trafic fort).
-* Lorsque possible, réserver certaines chaussées uniquement aux
-déplacement actifs et aux riverains.
-* Décourager les trajets motorisés entre quartiers voisins en les
-reportant sur un axe dédié en périphérie, et en les rendant plus longs
-en distance et en temps que le même trajet effectué en déplacement
-actif.
+    * Limiter la vitesse partout (zone 30 ou zone de rencontre), efficacement
+    par marquage très visible au sol, chicanes, signalisation verticale,
+    double sens cyclable systématique.
+    * Interdire le transit motorisé inter-quartier par des sens uniques et
+    des poteaux assurant le report ce de trafic sur un axe dédié en
+    périphérie du quartier.
+    * Développer la cohésion et la valorisation du quartier.
 
-TRANSIT INTRA-QUARTIER
+    RÉSIDENTIEL INTRA-QUARTIER
 
-* Limiter la vitesse partout (zone 30 ou zone de rencontre), efficacement
-par marquage très visible au sol, chicanes, signalisation verticale,
-double sens cyclable systématique.
-* Interdire le transit motorisé inter-quartier par des sens uniques et
-des poteaux assurant le report ce de trafic sur un axe dédié en
-périphérie du quartier.
-* Développer la cohésion et la valorisation du quartier.
+    * Zone apaisée partout (zone 30, zone de rencontre).
+    * Généraliser la priorité à droite, supprimer les passages piétons.
 
-RÉSIDENTIEL INTRA-QUARTIER
+    JALONNEMENT
 
-* Zone apaisée partout (zone 30, zone de rencontre).
-* Généraliser la priorité à droite, supprimer les passages piétons.
+    * Prévoir une signalisation fléchée spécifique aux itinéraires cyclables.
+    * Panneaux à espacements courts indiquant les destinations et les temps
+    de parcours.
 
-JALONNEMENT
-
-* Prévoir une signalisation fléchée spécifique aux itinéraires cyclables.
-* Panneaux à espacements courts indiquant les destinations et les temps
-de parcours.
-
-b)  Systématiser les zones piétonnes ou zones de rencontre en cœur de
+2.  Systématiser les zones piétonnes ou zones de rencontre en cœur de
     ville et matérialiser avec évidence ces zones apaisées, par des
     marquages au sol, des chicanes, des panneaux.
-c)  Assurer du stationnement vélo dans les espaces publics fréquentés
+3.  Assurer du stationnement vélo dans les espaces publics fréquentés
     (arceaux permettant de fixer le cadre du vélo), et protéger ce
     stationnement des intempéries si le stationnement a vocation à durer
-    toute la journée (gare, collèges-lycées, lieux de travail, \...).
+    toute la journée (gare, collèges-lycées, lieux de travail, ...).
 d)  Respecter les exigences du Schéma National des VVV pour la
-    réalisation de la véloroute V81 traversant l\'agglomération, y
+    réalisation de la véloroute V81 traversant l'agglomération, y
     compris sécuriser la traversée des grands axes de transit, aménager
-    des accès en différents points de l\'agglomération, et positionner
+    des accès en différents points de l'agglomération, et positionner
     les signalisations requises par le cahier des charges des VVV.
 e)  Lors de tous les travaux de voirie, réaliser les aménagements
     cyclables en cohérence avec le plan de circulation et en conformité
-    avec la loi LAURE (Loi sur l\'Air et l\'Utilisation Rationnelle de
-    l\'Énergie du 30 décembre 1996).
+    avec la loi LAURE (Loi sur l'Air et l'Utilisation Rationnelle de
+    l'Énergie du 30 décembre 1996).
 
 
     
@@ -109,7 +111,7 @@ b)  Le long des axes ayant un trafic motorisé dense et/ou rapide :
 c)  Sur les chaussées à vitesse apaisée (30km/h ou moins) et à faible
     trafic, sans emplacement spécifique vélo, interdire tout dépassement
     des vélos par les véhicules motorisés et marquer l'emplacement vélo
-    au milieu de sa voie (concept de la \"vélorue\").
+    au milieu de sa voie (concept de la "vélorue").
 d)  Généraliser les aménagements spécifiques du Code de la Route :
     -   Cédez-le-passage cycliste aux feux,
     -   Doubles Sens Cyclables,
@@ -120,13 +122,13 @@ e)  Communiquer clairement aux usagers de la voirie les comportements à
     Aménager la voirie en ce sens, et mener des campagnes de
     communication à destination de tous les usagers de la voirie :
     (panneaux d\'affichage public, publications diverses, articles de
-    presse, \...).
+    presse, ...).
 f)  Mettre en place des aménagements spécifiques devant les
     établissements scolaires :
     -   Création de zones de rencontre (ou zones piétonnes),
     -   Suppression du stationnement motorisé devant chaque
         établissement,
-    -   Fermeture (temporaire - aux heures d\'entrée ou de sortie - ou
+    -   Fermeture (temporaire - aux heures d'entrée ou de sortie - ou
         définitive ) des abords des établissements scolaires aux
         véhicules motorisés (sauf transport en commun),
     -   Assurer des stationnements sécurisés dédiés au vélos (pour les
@@ -183,10 +185,10 @@ c)  Engager une campagne pédagogique de grande ampleur et récurrente
     -   fermeture de secteurs aux véhicules motorisés (sauf transport en
         commun) de manière définitive ou temporaire (à certaines heures,
         entrées/sorties des établissements scolaires, certains jours,
-        jours de marché, dimanche, à l\'occasion d\'évènements, matchs
+        jours de marché, dimanche, à l'occasion d'évènements, matchs
         de rugby,...).
 d)  Encourager financièrement l'achat de Vélo à Assistance Electrique
-    (\"prime VAE\") et de vélo sans assistance. Aider également à
+    ("prime VAE") et de vélo sans assistance. Aider également à
     l'entretien du vélo (par exemple en contribuant à l'existence d'un
     atelier vélo public).
 e)  Inciter les entreprises à prendre en charge le forfait mobilité
@@ -199,7 +201,7 @@ DIALOGUER
 
 a)  Nommer un.e délégué.e vélo au sein de chaque municipalité,
     supervisant la création du Schéma Directeur puis sa mise en œuvre et
-    servant d\'interlocuteur auprès du public. Ce.tte délégué.e pratique
+    servant d'interlocuteur auprès du public. Ce.tte délégué.e pratique
     de préférence le vélo quotidiennement et a un poids politique
     important.
 b)  Consulter « Pau à Vélo » en amont de tous les aménagements urbains.
