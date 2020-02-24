@@ -21,6 +21,7 @@ Tous les vendredis, rejoignez une déambulation festive et revendicative à vél
 En cette période d'élections municipales, donnons du poids à l'alternative vélo, 
 tout en  partageant un moment agréable pour cloturer la semaine.
 
+Retrouvez [toutes les images et vidéos des vélorutions du vendredi sur notre blog](/blog/2020/la-velorution-du-vendredi-en-images/).
 
 L'opération aura lieu toutes les semaines à partir du 7 février jusqu'aux 
 élections, et pourquoi pas au delà ?

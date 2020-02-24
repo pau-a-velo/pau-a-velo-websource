@@ -17,6 +17,16 @@ Une balade revendicative et festive, pour rappeler dans la bonne humeur notre at
 * Durée : entre 40mn et 1h.
 
 
+## Vélorution du 21 février
+
+<video width="100%" controls style="max-width=640px" poster="2020-02-21-video-poster.jpg">
+ <source src="2020-02-21-velorution_640p.webm" type="video/webm">
+ <source src="2020-02-21-velorution_640p.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+{{< gallery "2020-02-21" >}}
+
 ## Vélorution du 14 février
 
 ![](2020-02-14-depart.jpg)
