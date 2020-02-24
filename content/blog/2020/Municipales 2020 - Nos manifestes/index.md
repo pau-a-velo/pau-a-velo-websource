@@ -25,8 +25,8 @@ propositions phares :
   * Pont du 14 juillet réservé aux piétons, vélos, et bus.
   * Réseau Express vélo
 * A Pau : Extension de la zone piétonne.
-* A Lescar, Billère, Gelos : création de zones piétonne dans les centres. Pour Lescar et Gelos, ces centres deviennent des impasses débouchantes.
-* A Jurançon: Place du Junqué en impasse débouchante avec une zone de rencontre à ses abords.
+* A Lescar, Billère, Gelos : création de zones piétonnes dans les centres. Pour Lescar et Gelos, ces centres deviennent des impasses débouchantes.
+* A Jurançon: Place du Junqué transformée en impasse débouchante avec une zone de rencontre à ses abords.
 * A Bizanos: création de vélorues parallèles à la départementale traversant le centre.
 
 On regarde tout ça de plus près ?
@@ -76,7 +76,7 @@ On regarde tout ça de plus près ?
 </svg>
 
 
-Pour la suite, nous invitons les candidats à repondre à nos questionnaires sur [la plate-forme nationale "parlons vélo !"](https://municipales2020.parlons-velo.fr/). Nous voulons savoir les engagements qu'ils sont prêts à prendre !
+Pour la suite, nous invitons les candidats à répondre à nos questionnaires sur [la plate-forme nationale "parlons vélo !"](https://municipales2020.parlons-velo.fr/). Nous voulons savoir les engagements qu'ils sont prêts à prendre !
 
 <hr/>
 
