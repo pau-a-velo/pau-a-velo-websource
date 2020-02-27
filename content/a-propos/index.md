@@ -85,7 +85,7 @@ Pour nous faire parvenir des documents, notre adresse se trouve [en bas de page]
 {{< /toggle_on_click >}}
 <div>
 <i class="fas fa-file-pdf"></i>
-<a href="/a-propos/2017-06-03-pau-a-velo-satuts-et-reglement-interieur.pdf">
+<a href="/a-propos/2019-12-11-pau-a-velo-satuts-et-reglement-interieur.pdf">
 Consulter nos statuts et notre règlement
 intérieur</a>
 </div>
