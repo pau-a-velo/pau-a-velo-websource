@@ -62,7 +62,6 @@ d'adhésion papier</a>.
 Une **réduction permanente de 2€** est appliquée sur votre tarif si vous choisissez le
 **prélèvement annuel automatique**. Ce moyen de paiement pérennise votre
 soutien et allège le travail administratif une fois en place.
-
 {{< /toggle_on_click >}}
 {{< toggle_on_click title="Afficher les moyen de paiement acceptés" icon="fas fa-paperclip" >}}
 
