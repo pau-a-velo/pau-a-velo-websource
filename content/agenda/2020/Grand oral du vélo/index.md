@@ -8,7 +8,7 @@ horaire: 19h
 tags:
 ---
 
-A quelques jours du premier tour des élections municipales, nous proposons aux candidats à la Mairie de Pau de s'exprimer publiquement sur le sujet des mobilités actives. Les 7 candidats en lice sont invités à y participer en personne, ou à se faire représenter.
+A quelques jours du premier tour des élections municipales, nous proposons aux candidats à la Mairie de Pau de s'exprimer publiquement sur le sujet des mobilités actives et des personnes à mobilité réduite. Les 7 candidats en lice sont invités à y participer en personne, ou à se faire représenter.
 
 <!--more-->
 

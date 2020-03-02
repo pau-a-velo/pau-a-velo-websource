@@ -11,6 +11,7 @@ tags:
   - Lescar
   - Lons
   - Bizanos
+  - Mazères-Lezons
 ---
 
 La marche à pied et le vélo, c’est bon pour le cœur et pour l’humeur, bon pour rester en forme, bon pour se déplacer à tout âge sans permis, sans fumée sans bruit, bon pour être moins dangereux en se déplaçant, bon pour redonner de l’espace public au lien social et aux arbres, bon pour le climat, bon pour le budget.
@@ -68,10 +69,10 @@ On regarde tout ça de plus près ?
   <path id="64348 LONS" d="m241.3 570.69-56.523-30.969-25.66-43.784 125.79-102.78 61.702-137.65 15.712-0.10819 0.32461 43.249 4.3441 146.78-16.176-4.9392-84.802 84.257-24.721 45.919z"/>
   <text y="446.27066" x="258.59906">Lons</text>
   </a>
-  <!--
+  <a href="https://municipales2020.parlons-velo.fr/manifeste/download/Mazeres-Lezons">
   <path id="64373 MAZERES-LEZONS" d="m416.35 799.68 11.358-72.777-10.199-55.103 17.107-52.86 79.782 35.24-0.0543 21.358-39.727 28.299-12.838 49.657-45.428 46.453z"/>
   <text style="font-size:20px" y="665.2077" x="425.07986"><tspan y="665.2077" x="425.07986">Mazères-</tspan><tspan y="690.2077" x="425.07986">Lezons</tspan></text>
-  -->
+  </a>
  </g>
 </svg>
 
@@ -89,3 +90,4 @@ Pour la suite, nous invitons les candidats à répondre à nos questionnaires su
 * [Jurançon](https://municipales2020.parlons-velo.fr/manifeste/download/Jurancon)
 * [Lescar](https://municipales2020.parlons-velo.fr/manifeste/download/Lescar)
 * [Lons](https://municipales2020.parlons-velo.fr/manifeste/download/Lons)
+* [Masères-Lezons](https://municipales2020.parlons-velo.fr/manifeste/download/Mazeres-Lezons)

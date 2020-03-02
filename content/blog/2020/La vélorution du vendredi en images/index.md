@@ -16,6 +16,11 @@ Une balade revendicative et festive, pour rappeler dans la bonne humeur notre at
 * Départ à 18h30
 * Durée : entre 40mn et 1h.
 
+## Vélorution du 28 février
+
+![](2020-02-28-resistance.jpg)
+
+{{< gallery "2020-02-28" >}}
 
 ## Vélorution du 21 février
 
