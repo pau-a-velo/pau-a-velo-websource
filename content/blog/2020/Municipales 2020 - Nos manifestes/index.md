@@ -90,4 +90,4 @@ Pour la suite, nous invitons les candidats à répondre à nos questionnaires su
 * [Jurançon](https://municipales2020.parlons-velo.fr/manifeste/download/Jurancon)
 * [Lescar](https://municipales2020.parlons-velo.fr/manifeste/download/Lescar)
 * [Lons](https://municipales2020.parlons-velo.fr/manifeste/download/Lons)
-* [Masères-Lezons](https://municipales2020.parlons-velo.fr/manifeste/download/Mazeres-Lezons)
+* [Mazères-Lezons](https://municipales2020.parlons-velo.fr/manifeste/download/Mazeres-Lezons)

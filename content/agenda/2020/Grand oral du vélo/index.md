@@ -4,7 +4,7 @@ publishdate: 2020-03-02T01:57:00+01:00
 author: "Hervé Laurent"
 date: 2020-03-09T20:00:00+01:00
 lieu: "Amphithéâtre du Piano, 26 Avenue des Lilas, Pau"
-horaire: 19h
+horaire: 20h
 tags:
 ---
 
