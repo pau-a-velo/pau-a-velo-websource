@@ -16,6 +16,15 @@ Une balade revendicative et festive, pour rappeler dans la bonne humeur notre at
 * Départ à 18h30
 * Durée : entre 40mn et 1h.
 
+## Vélorution du 06 mars
+
+Ouh là là il ne faisait vraiment pas beau ce jour là ! Ça n'a pas empêché les
+vélorutionnaires invincibles de passer un bon moment "quizz" devant la 
+mairie et de mettre l'ambiance jusqu'à Gélos où soupe, tapas et concert les 
+attendaient au bistrot du Pradeau...
+
+{{< gallery "2020-03-06" >}}
+
 ## Vélorution du 28 février
 
 ![](2020-02-28-resistance.jpg)
