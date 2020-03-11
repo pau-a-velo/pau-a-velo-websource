@@ -3,6 +3,8 @@ title: "Municipales à Mazères-Lezons - Analyse des réponses des candidats"
 date: 2020-03-11T22:47:04+01:00
 author: "Hervé Laurent"
 tags:
+  - municipales 2020
+  - Mazères-Lezons
 ---
 
 Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à [notre questionnaire](https://municipales2020.parlons-velo.fr/q/24880). Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Mazères-Lezons sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25243).

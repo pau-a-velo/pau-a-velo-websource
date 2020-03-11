@@ -3,6 +3,8 @@ title: "Municipales à Gan - Analyse des réponses des candidats"
 date: 2020-03-11T22:51:34+01:00
 author: "Hervé Laurent"
 tags:
+  - municipales 2020
+  - Gan
 ---
 
 Nous traitons ici les sujets qui font la différence entre les candidats. Vous pouvez consulter les réponses partagées publiquement en bas de la page dédiée à Gan sur le site “Parlons Vélo”.

@@ -3,6 +3,8 @@ title: "Municipales à Jurançon - Analyse des réponses des candidats"
 date: 2020-03-11T22:19:52+01:00
 author: "Julien Garnier"
 tags:
+  - municipales 2020
+  - Jurançon
 ---
 
 Sur la commune de Jurancon, 2 listes sont en lice pour les municipales : « vivre bien Jurançon » mené par M. Bernos et « Jurancon avec vous » mené par J. Dufau.
