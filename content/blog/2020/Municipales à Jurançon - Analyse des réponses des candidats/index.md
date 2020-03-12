@@ -19,3 +19,34 @@ Par ailleurs une attention particulière est portée à la sécurisation des voi
 Enfin le stationnement vélo est aussi largement pris en compte avec la création de 50 arceaux vélos sur la commune, de parking vélo sécurisé dans chaque école ainsi que la suppression du stationnement auto en amont des passages piétons (anticipation de l’interdiction en 2026) au profit d’arceaux vélos.
 
 **De son coté, malgré plusieurs relances, la liste de M. Bernos n’a visiblement pas estimé utile de se positionner vis-à-vis des propositions de l’association Pau à vélo** et de faire connaitre ses engagements détaillés en termes de mobilités actives pour le prochain mandat municipal. Cependant, comme le montre le tableau ci-dessous (éléments issus des manifestes des candidats), les engagements relatifs aux mobilités douces restent peu ambitieux et ne remettent pas en cause la place de la voiture.
+
+<table>
+<tr>
+<th>![Jurançon avec vous - Janine Dufau](jurancon-avec-vous.jpg)</td>
+<th>![Bien vivre Jurançon - Michel Bernos](bien-vivre-jurancon.jpg)</td>
+</tr>
+<tr>
+  <td>
+    <ul>
+      <li> Favoriser les mobilités douces (marche, vélo et transports en commun).</li>
+      <li>Apaiser la circulation automobile de gransit dans le bour et les quartiers résidentiels</li>
+      <li>Inciter les déplacements actifs vers les commerces du coeur de ville.</li>
+      <li>Etre acteur du plan vélo de l'agglomération paloise: finaliser la liaison cyclable V81.</li>
+      <li>Sécuriser l'axe rues Daran - Leclerc - Massenet</li>
+      <li>Engager avec l'Etat la requalification de la RN134 en boulevard urbain avec voie de bus dédiées.</li>
+      <li>Travailler avec la Région pour augmenter la fréquence des trains entre Gan et Pau</li>
+      <li> Désenclaver les quartiers non desservis (Soubacq, Dumoulou, coteaux...) : navette communale en particulier le vendredi, jour de marché, utilisation du bus scolaire pour les habitants des coteaux.</li>
+      <li>Créer et aménager les aires de covoiturage du Plan Local d'Urbanisme Intercommunal PLUI (Fromagerie des Chaumes et Pont d'Oly)</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Nous encouragerons les **déplacements doux** par l'extension des pistes cyclables, voies piétonnes sécurisées (Corps Franc Pommiès, Coeur de ville, futur écoquartier...). Création de zones 30 et chemins de randonnées</li>
+      <li>Nous favoriserons **une politique d'éco-mobilité active** (installation d'un garage à vélos sur le parking de la médiathèque, sur la place de l'Eglise, sécurisation et facilitation de la circulation des piétons...).</li>
+      <li>Un programme de **rénovation des trottoirs** est prévu pour la sécurisation des piétons. Quels que soient les modes de déplacements, tous les habitants-tes doivent se sentir en sécurité (avenue de Guindalos, avenue Bernadotte, rue d'Ossau, rue Daran, rue du Gave, rue Alfred de Vigny. Quartier Herman, rue Paul Mirat).</li>
+      <li>En matière d'aménagement des voies communautaires: Nous encouragerons et nous développerons l'aménagement et la sécurisation des voies communautaires en piste cyclables, en particulier l'avenue du Corps Franc Pommiès, tout en restant attentifs aux doubles objectifs de sécurité publique et d'amélioration du cadre de vie.</li>
+    </ul>
+  </td>
+</tr>
+</table>
+-------
