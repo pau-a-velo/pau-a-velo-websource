@@ -10,8 +10,9 @@ tags:
 Nous traitons ici les sujets qui font la différence entre les candidats. Vous pouvez consulter les réponses partagées publiquement en bas de la page dédiée à Gan sur le site “Parlons Vélo”.
 
 Deux listes sont inscrites pour la « grande » commune (+ de 5000 habitants) du sud de l’agglomération paloise :
-    • La liste du Maire sortant Francis Pées : « Gan, l’Avenir avec vous »
-    • La liste d’opposition menée par Valérie Cambon : « Gan, tissons un lien durable »
+
+- La liste du Maire sortant Francis Pées : « Gan, l’Avenir avec vous »
+- La liste d’opposition menée par Valérie Cambon : « Gan, tissons un lien durable »
 
 Le délai était relativement cours entre la diffusion de notre manifeste et la clôture des participations. Seule la liste de Valérie Cambon en a profité en faisant la démarche de nous rencontrer avant de partager ses engagements sur la plateforme Parlons-Vélo.
 

@@ -20,7 +20,7 @@ Enfin le stationnement vélo est aussi largement pris en compte avec la créatio
 
 **De son coté, malgré plusieurs relances, la liste de M. Bernos n’a visiblement pas estimé utile de se positionner vis-à-vis des propositions de l’association Pau à vélo** et de faire connaitre ses engagements détaillés en termes de mobilités actives pour le prochain mandat municipal. Cependant, comme le montre le tableau ci-dessous (éléments issus des manifestes des candidats), les engagements relatifs aux mobilités douces restent peu ambitieux et ne remettent pas en cause la place de la voiture.
 
-<table>
+<table style="font-size:smaller">
 <tr>
 <th>![Jurançon avec vous - Janine Dufau](jurancon-avec-vous.jpg)</td>
 <th>![Bien vivre Jurançon - Michel Bernos](bien-vivre-jurancon.jpg)</td>
