@@ -52,8 +52,8 @@ assureront effectivement la  sécurité.
 
 Aider à l'achat de vélo, valoriser le vélo par des compteurs publics, offrir une indemnité
 aux employés municipaux qui viennent au travail à vélo, autant de sujet
-ou M. Ribette se montre moins frileux que M. Lalanne. Pour ce dernier, l'obsession du budget poussé
+ou M. Ribette se montre moins frileux que M. Lalanne. Pour le maire sortant, l'obsession du budget poussé
 jusqu'au compteur public de passage vélo et le rejet des responsabilités sur 
 le gouvernement pour le forfait mobilité durable nous questionne, quand de l'autre
-côté M. Lalane renonce (comme son concurrent) à la ressource que pourrait 
+côté M. Lalanne renonce (comme son concurrent) à la ressource que pourrait 
 représenter l'instauration de parking payant pour les voitures.
