@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Municipales à Pau - Analyse des réponses des candidats"
 date: 2020-03-10T18:38:56+01:00
 author: "Sébastien Lamy"
