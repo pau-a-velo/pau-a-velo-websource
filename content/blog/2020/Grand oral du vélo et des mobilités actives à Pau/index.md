@@ -15,6 +15,8 @@ Une semaine avant le 1er tour des municipale, Pau à Vélo a souhaité entendre 
 - M. Marbot pour Pau rassemblé
 - M. Bertonnazzi, représentant M. Bayrou, pour Nous aimons Pau !
 
+M. Bouzon, Pour "Choisir Pau, RN" ne pouvait être présent ni se faire représenter, mais nous a fait parvenir [un texte que nous avons lu au public](texte-denis-bouzon.pdf) après les différentes interventions.
+
 L’introduction de la soirée, réalisée par une de nos adhérentes, a permis de rappeler l’urgence de développer les mobilités actives et l’importance de réduire la place de la voiture en ville et que le prochain mandat était l’occasion de mettre en œuvre, enfin, une politique ambitieuse.
 
 Après une présentation rapide de l’association, [le manifeste de Pau à vélo dans la campagne Parlons vélo ! Municipales 2020][manifeste], a été balayé de manière à rappeler les souhaits et préconisations de Pau à Vélo pour le développement des mobilités douces à Pau.
@@ -89,5 +91,8 @@ M. Bertonazzi reconnait qu’une ville apaisée est nécessaire et que celle-ci 
 Il est regrettable que M Bertonazzi achève son intervention en reconnaissant que Pau a besoin de plus d’infrastructures avec une « identification forte », comme c’est le cas pour le double sens cyclable de la rue Carnot, et précise que la création d’autres infrastructures de ce type viendrait dans le futur.
 
 Pourquoi alors ne pas avoir profité des 6 ans qui viennent de s’écouler pour réaliser ces travaux de création d'itinéraires cyclables sécurisés, notamment sur les rues refaites à neuf ?
+
+
+_crédit photo_ : journal "la république des pyrénées", sur [cet article](https://www.larepubliquedespyrenees.fr/2020/03/10/ces-associations-qui-interpellent-les-candidats-aux-municipales,2673622.php)
 
 [manifeste]: https://municipales2020.parlons-velo.fr/manifeste/download/Pau
