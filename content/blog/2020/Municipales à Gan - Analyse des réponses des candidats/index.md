@@ -20,6 +20,7 @@ La seule contribution de la liste de M. Pées a été de nous rappeler laconique
 
 L’équipe en place a brillamment œuvré pour faire avancer l’aménagement de la Voie Verte de la Vallée d’Ossau sur son territoire communal, mais de nombreux signaux nous indiquent que la connexion avec les communes voisines au Nord et au Sud rencontre des difficultés. Et cette dernière question posée à un simple acteur associatif ne fait que le confirmer. La liste Cambon exploite cette lacune et indique vouloir « entretenir avec les communes voisines des réunions de travail pour relier les réseaux cyclables, notamment avec Jurançon avec lequel nous avons le flux le plus fort ».
 
+![](jalonnage.jpg)
 
 La liste Valérie Cambon, représentée par Nicolas Desilles, s’engage à la mise en place d’un plan vélo sur la durée du mandat, avec un budget pouvant atteindre 12 à 15 €/an/habitant et visant à doubler la part modale du vélo. Objectif ambitieux, ou pas, vu le volume actuel de déplacement à vélo dans Gan, mais il faut bien se lancer.
 
@@ -28,6 +29,8 @@ L’engagement de Mme Cambon est fort pour poursuivre le projet d’aménagement
 De plus, la généralisation des double-sens cyclables, des sas vélo et des cédez-le-passage cycliste aux feux semble faire partie de la palette d’outils envisagée par la liste Cambon pour encourager à l’usage du vélo dans les déplacements. L’ambition s’arrête en revanche dès qu’il s’agit d’investir dans des boxs pour vélos, dans l’aide à l’achat de matériel ou l’installation de compteurs de passage. Le budget serré d’une petite commune comme Gan oblige à des restrictions.
 
 Comme il a été relevé lors de notre rencontre, par ses réponses, l’équipe de Valérie Cambon montre sa volonté d’œuvrer d’avantage en coopération avec les collectivités voisines, en s’engageant notamment dans la connexion de la voie verte existante au Réseau Express Vélo intercommunal. Et l’extension du projet de Maison du Vélo à l’ensemble de l’agglomération ouvre de nouvelles opportunités pour développer l’usage de la pratique.
+
+![](REV.jpg)
 
 Autre point fort : la liste Cambon souhaite participer à la « Journée mondiale sans voiture » en limitant le trafic motorisé dans le centre-ville.
 
