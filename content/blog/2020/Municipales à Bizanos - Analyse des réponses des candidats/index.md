@@ -20,6 +20,8 @@ Nous ne reviendrons pas sur l’inaccessibilité de la passerelle reliant les de
 
 Il est vraiment regrettable de ne pas connaître la position de M. Calderoni sur les propositions phares faites par notre association. A-t-il pris connaissance de l’option « vélorue » formulée dans notre manifeste ? S’engagerait-il dans la création d’un grand Réseau Express Vélo (REV) à l’échelle de l’agglomération, dans laquelle sa commune occupe une position centrale ? Des actions toutes simples mais particulièrement favorables au développement de la pratique font-elles partie de ses projets ? Comme la généralisation des Double-Sens Cyclables, des sas vélo et des « cédez-le-passage cyclistes » ?
 
+![](Velorue Bizanos Fietser)
+
 Dommage de ne pas profiter de l’outil proposé par Pau à Vélo pour en faire part aux électeurs de sa commune.
 
 Espérons en tout cas que l’équipe qui prendra les manettes à Bizanos fera bien plus pour bouleverser nos modes de déplacement que ça n’a été le cas pendant la précédente mandature. Notre association sera à disposition des décideurs et des citoyens prêts à faire bouger les lignes dans ce domaine.
