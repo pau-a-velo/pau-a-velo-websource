@@ -18,7 +18,9 @@ Par ailleurs une attention particulière est portée à la sécurisation des voi
 
 Enfin le stationnement vélo est aussi largement pris en compte avec la création de 50 arceaux vélos sur la commune, de parking vélo sécurisé dans chaque école ainsi que la suppression du stationnement auto en amont des passages piétons (anticipation de l’interdiction en 2026) au profit d’arceaux vélos.
 
-**De son coté, malgré plusieurs relances, la liste de M. Bernos n’a visiblement pas estimé utile de se positionner vis-à-vis des propositions de l’association Pau à vélo** et de faire connaitre ses engagements détaillés en termes de mobilités actives pour le prochain mandat municipal. Cependant, comme le montre le tableau ci-dessous (éléments issus des manifestes des candidats), les engagements relatifs aux mobilités douces restent peu ambitieux et ne remettent pas en cause la place de la voiture.
+**La liste vivre bien Jurançon ayant fourni une réponse tardivement au questionnaire de Pau à Vélo, il ne nous est plus possible de fournir une analyse détaillée des propositions avant le silence électoral imposé à partir du 14 mars.** 
+Néanmoins il est possible de connaitre le positionnement de cette liste sur sa page facebook : 
+Pau à vélo réalisera tout de même une analyse des réponses au questionnaire de la liste de M. Bernos après le premier tour afin d'apporter un éclairage sur sa position.
 
 <table style="font-size:smaller">
 <tr>
