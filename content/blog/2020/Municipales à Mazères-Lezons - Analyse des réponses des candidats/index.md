@@ -21,6 +21,8 @@ Mme Sémavoine rappelle à juste titre qu’elle est à l’initiative des premi
 
 La réponse de M. Glorieux est assez loquace sur les propositions de sécurisation de l’avenue du Général de Gaulle (point majeur relevé dans notre manifeste), avec une option de mise en sens unique pour les voitures ainsi que sur la nécessité de limiter le trafic motorisé dans la rue Jules Ferry qui accueille de nombreux services liés à l’enfance.
 
+![](degaulle.jpg)
+
 Aucun candidat n’envisage l’option radicale proposée par Pau à Vélo de supprimer tout trafic de transit sur l’axe historique de la commune (Charles de Gaulle). Ce n’est donc pas demain que nous verrons des enfants jouer en liberté dans cette rue qui mériterait d’être d’avantage mise en valeur, comme nous le soulignions dans notre manifeste.
 
 M. Glorieux et Mme Sémavoine s’engagent sur la création de zones 30, mais la liste Glorieux insiste sur la nécessité de « séparer autant que possible les flux motorisés et non-motorisés ». La liste Glorieux s’engage sans condition à généraliser les double-sens cyclables, sas vélo et cédez-le-passage cycliste aux feux, des aménagements simples et peu couteux qui facilitent grandement les déplacements à vélo.
