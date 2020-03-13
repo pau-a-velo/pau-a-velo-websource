@@ -7,7 +7,7 @@ tags:
   - Lons
 ---
 
-Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à [notre questionnaire en ligne](https://municipales2020.parlons-velo.fr/q/24880). Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Lons sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25218).
+Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à [notre questionnaire en ligne](https://municipales2020.parlons-velo.fr/q/25218). Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Lons sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25218).
 
 Seul le candidat Eric Bourdet a répondu à notre enquête en ne rejetant que 3 de nos 36 propositions. Nicolas Patriarche, Maire sortant, n’a pas répondu à nos sollicitations malgré plusieurs relances.
 Nous ne nous baserons donc pour cette analyse que sur les engagements de M. Bourdet et les actions menées par l’élu sortant pendant le mandat écoulé, voire le précédent, vu qu’il était déjà adjoint au Maire.

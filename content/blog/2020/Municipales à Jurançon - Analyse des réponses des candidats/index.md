@@ -9,7 +9,7 @@ tags:
 
 Sur la commune de Jurancon, 2 listes sont en lice pour les municipales : « vivre bien Jurançon » mené par M. Bernos et « Jurancon avec vous » mené par J. Dufau.
 
-**La liste de Janine Dufau a répondu au questionnaire de la FUB et montre visiblement une volonté de redonner une place importante aux mobilités actives dans le centre de Jurançon.**
+**La liste de Janine Dufau a répondu à [notre questionnaire en ligne]() et montre visiblement une volonté de redonner une place importante aux mobilités actives dans le centre de Jurançon.**  Vous pouvez consulter sa réponses intégrale en suivant le lien en bas de [la page dédiée à Jurançon sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/jurancon).
 
 Si les propositions radicales portées par Pau à Vélo, articulées autour d’une modification profonde du plan de circulation autour de la place du Junqué, ne sont pas directement suivies par « Jurançon avec vous », les propositions de cette liste restent néanmoins ambitieuses avec une réelle volonté de réduire le traffic de transit et d’apaiser la circulation sur tout le pourtour de la place.   
 Concernant la création d’impasses débouchantes dans les quartiers résidentiels, il n’y pas d’engagement direct mais une volonté d’engager le débat et d’inclure les habitants de Jurancon dans cette démarche de modification du plan de circulation dans le centre ville.
@@ -19,8 +19,7 @@ Par ailleurs une attention particulière est portée à la sécurisation des voi
 Enfin le stationnement vélo est aussi largement pris en compte avec la création de 50 arceaux vélos sur la commune, de parking vélo sécurisé dans chaque école ainsi que la suppression du stationnement auto en amont des passages piétons (anticipation de l’interdiction en 2026) au profit d’arceaux vélos.
 
 **La liste vivre bien Jurançon ayant fourni une réponse tardivement au questionnaire de Pau à Vélo, il ne nous est plus possible de fournir une analyse détaillée des propositions avant le silence électoral imposé à partir du 14 mars.** 
-Néanmoins il est possible de connaitre le positionnement de cette liste sur [sa page facebook](https://www.facebook.com/vivrebienjurancon/photos/?tab=album&album_id=139911270890085).
-Pau à vélo réalisera tout de même une analyse des réponses au questionnaire de la liste de M. Bernos après le premier tour afin d'apporter un éclairage sur sa position.
+Néanmoins il est possible de consulter [la réponse écrite qu'ils nous ont fournit](vivre-bien-jurancon-reponse-a-pau-a-velo.pdf) mais qu'ils n'ont pas pu effectuer en ligne à temps. Pau à vélo réalisera tout de même une analyse des réponses au questionnaire de la liste de M. Bernos après le premier tour afin d'apporter un éclairage sur sa position.
 
 <table style="font-size:smaller">
 <tr>
