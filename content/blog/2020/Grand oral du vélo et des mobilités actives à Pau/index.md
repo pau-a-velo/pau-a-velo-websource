@@ -54,6 +54,19 @@ Les questions tirées au sort ont permis à M. Blanco de préciser 3 points :
 - Les bus seront aménagés de manière à pouvoir y transporter des vélos. Le Fébus est à ce titre, pour la tête de liste Pau arc en ciel, un échec alors que c’est un équipement neuf.
 
 
+### M. Bertonazzi (représentant M. Bayrou)
+
+{{< vimeo "397188389" >}}
+
+M. Bertonazzi a survolé les enjeux et les engagements pour les mobilités actives dans les grandes lignes, en donnant peu de détails sur chacun des projets (réseau cyclable et plan de circulation envisagé...), précisant que le travail municipal est un travail d'équipe où le sujet vélo n'est pas isolé.
+
+M. Bertonazzi reconnait qu’une ville apaisée est nécessaire et que celle-ci doit se construire sur un système de mobilité associant les vélos, les piétons et le covoiturage. Pau à vélo ne saisit pas très bien ce que le covoiturage peut apporter comme solution au centre ville, lieu où la voiture, sous quelque forme que ce soit ne doit plus avoir sa place !
+
+Il est regrettable que M Bertonazzi achève son intervention en reconnaissant que Pau a besoin de plus d’infrastructures avec une « identification forte », comme c’est le cas pour le double sens cyclable de la rue Carnot, et précise que la création d’autres infrastructures de ce type viendrait dans le futur.
+
+Pourquoi alors ne pas avoir profité des 6 ans qui viennent de s’écouler pour réaliser ces travaux de création d'itinéraires cyclables sécurisés, notamment sur les rues refaites à neuf ?
+
+
 ### M. Marbot
 
 {{< vimeo "397227822" >}}
@@ -80,17 +93,6 @@ Suite aux questions du public, M. Marbot a apporté les précisions suivantes :
 - Le cours Bosquet sera la porte d’entrée du centre-ville
 
 
-### M. Bertonazzi (représentant M. Bayrou)
-
-{{< vimeo "397188389" >}}
-
-M. Bertonazzi a survolé les enjeux et les engagements pour les mobilités actives dans les grandes lignes, en donnant peu de détails sur chacun des projets (réseau cyclable et plan de circulation envisagé...), précisant que le travail municipal est un travail d'équipe où le sujet vélo n'est pas isolé.
-
-M. Bertonazzi reconnait qu’une ville apaisée est nécessaire et que celle-ci doit se construire sur un système de mobilité associant les vélos, les piétons et le covoiturage. Pau à vélo ne saisit pas très bien ce que le covoiturage peut apporter comme solution au centre ville, lieu où la voiture, sous quelque forme que ce soit ne doit plus avoir sa place !
-
-Il est regrettable que M Bertonazzi achève son intervention en reconnaissant que Pau a besoin de plus d’infrastructures avec une « identification forte », comme c’est le cas pour le double sens cyclable de la rue Carnot, et précise que la création d’autres infrastructures de ce type viendrait dans le futur.
-
-Pourquoi alors ne pas avoir profité des 6 ans qui viennent de s’écouler pour réaliser ces travaux de création d'itinéraires cyclables sécurisés, notamment sur les rues refaites à neuf ?
 
 
 _crédit photo_ : journal "la république des pyrénées", sur [cet article](https://www.larepubliquedespyrenees.fr/2020/03/10/ces-associations-qui-interpellent-les-candidats-aux-municipales,2673622.php)

@@ -16,6 +16,14 @@ Une balade revendicative et festive, pour rappeler dans la bonne humeur notre at
 * Départ à 18h30
 * Durée : entre 40mn et 1h.
 
+## Vélorution du 13 mars
+
+Nous sommes partis répandre le virus du vélo jusqu'à Jurançon
+
+![](2020-03-13-depart.jpg)
+
+{{< vimeo "397553854" >}}
+
 ## Vélorution du 06 mars
 
 Ouh là là il ne faisait vraiment pas beau ce jour là ! Ça n'a pas empêché les
