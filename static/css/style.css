@@ -912,6 +912,10 @@ article figcaption{
   font-weight: bold;
 }
 
+article .gallery figcaption{
+  display:none;
+}
+
 article blockquote{
   padding: .1em .5em;
   border-left: 4px solid #0078e7;
