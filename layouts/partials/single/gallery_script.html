@@ -1,6 +1,6 @@
 {{ if or (.HasShortcode "gallery") (.HasShortcode "image") }}
   {{ partialCached "single/photoswipe.html" . }}
-  {{ if or (.HasShortcode "gallery") (.Params.thumbnailGallery) }}    
+  {{ if or (.HasShortcode "gallery") (.Params.imageGroupClass) }}    
     <!-- script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script -->
     <script src='/plugins/jquery-2.1.3.min.js'></script>
     <script src="/plugins/justifiedGallery/jquery.justifiedGallery.min.js"></script>

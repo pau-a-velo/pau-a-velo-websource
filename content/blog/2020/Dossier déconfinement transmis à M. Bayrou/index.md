@@ -3,7 +3,7 @@ weight: 1
 title: "Dossier déconfinement transmis à M. Bayrou"
 date: 2020-05-14T23:32:42+02:00
 author: "Hervé Laurent"
-thumbnailGallery: true
+imageGroupClass: "lonely"
 tags:
   - analyses
   - proposition
@@ -26,7 +26,7 @@ Une copie de ce dossier a également été transmise à la presse locale, aux vi
 
 ### Proposition de priorisation des rues à aménager temporairement
 
-<div class="test">
+<div class="lonely">
 {{< image src="priorites-amenagements-velo-pau-sortie-COVID-2020-04-29.png" >}}
 </div>
 
