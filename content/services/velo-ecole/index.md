@@ -33,7 +33,8 @@ Pour tous ceux qui souhaitent être plus à l'aise dans la circulation en ville,
 des sorties sur routes sont organisées toutes les semaines, sous réserve d'un
 nombre d'inscrits suffisant. Le matériel (vélo et casque) peut être fourni.
 
-**Le mardi de 14h à 16h à la MJC Berlioz, 84 av. de Buros, à Pau**.
+* **Le mardi de 14h à 16h à la MJC Berlioz, 84 av. de Buros, à Pau**.
+* **Des séances exceptionnelles sont prévues le samedi 27 juin et le samedi 11 juillet 2020, de 14h30 à 16h30** dans le cadre du "coup de pouce vélo" impulsé par l'état.
 
 Il est nécessaire de s'inscrire pour participer à ces sessions, contactez-nous
 aux coordonnées indiquées en [bas de page].
