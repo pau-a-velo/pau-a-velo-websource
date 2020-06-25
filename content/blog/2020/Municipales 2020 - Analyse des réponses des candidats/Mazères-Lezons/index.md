@@ -1,13 +1,15 @@
 ---
 title: "Municipales à Mazères-Lezons - Analyse des réponses des candidats"
-date: 2020-03-11T22:47:04+01:00
+date: 2020-03-11T17:47:04+01:00
 author: "Hervé Laurent"
 tags:
   - municipales 2020
   - Mazères-Lezons
+aliases:
+  - /blog/2020/municipales-a-mazeres-lezons-analyse-des-reponses-des-candidats/
 ---
 
-Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à [notre questionnaire](https://municipales2020.parlons-velo.fr/q/25243). Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Mazères-Lezons sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25243).
+Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à notre questionnaire. Vous pouvez consulter les réponses intégrales des candidats, ainsi que notre manifeste pour cette ville sur [la page dédiée à Mazères-Lezons sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25243).
 
 La représentante du candidat Philippe Glorieux (Julie Champagne) a copieusement répondu au questionnaire en ligne en se montrant plutôt volontaire pour favoriser les modes actifs dans les déplacements à Mazères-Lezons.
 

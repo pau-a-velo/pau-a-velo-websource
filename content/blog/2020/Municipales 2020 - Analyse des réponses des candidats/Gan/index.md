@@ -1,13 +1,15 @@
 ---
 title: "Municipales à Gan - Analyse des réponses des candidats"
-date: 2020-03-11T22:51:34+01:00
+date: 2020-03-11T21:51:34+01:00
 author: "Hervé Laurent"
 tags:
   - municipales 2020
   - Gan
+aliases:
+  - /blog/2020/municipales-a-gan-analyse-des-reponses-des-candidats/
 ---
 
-Nous traitons ici les sujets qui font la différence entre les candidats. Vous pouvez consulter les réponses partagées publiquement en bas de la page dédiée à Gan sur le site “Parlons Vélo”.
+Nous traitons ici les sujets qui font la différence entre les candidats. Vous pouvez consulter les réponses intégrales des candidats, ainsi que notre manifestes pour cette ville sur [la page dédiée à Gan sur le site “Parlons Vélo”.](https://municipales2020.parlons-velo.fr/e/25103)
 
 Deux listes sont inscrites pour la « grande » commune (+ de 5000 habitants) du sud de l’agglomération paloise :
 

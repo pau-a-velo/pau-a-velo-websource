@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "Opération réanimation du 14 juillet"
 date: 2020-06-24T22:31:56+02:00
 author: "Sébastien Lamy, Julien Garnier"
@@ -11,7 +10,7 @@ tags:
   - médias
 ---
 
-Ce mercredi 24 juin, Pau à Vélo a investit une des trois voies voitures du pont du 14 juillet pour y mettre en place une piste cyclable temporaire, accompagnée d'une ambiance de promenade touristique. Couple de Marié avec leur photographe et leurs invités, pêcheur, transats, peintre, joueurs de Molky, et même une école de danse profitant de la rambarde pour faire ses exercices. Pour encadrer le tout dans un contexte de sortie de crise sanitaire, des médecins affichaient des slogans en lien avec notre santé et celle du quartier.
+Ce mercredi 24 juin, Pau à Vélo a investi une des trois voies voitures du pont du 14 juillet pour y mettre en place une piste cyclable temporaire, accompagnée d'une ambiance de promenade touristique. Couple de mariés avec leur photographe et leurs invités, pêcheur, transats, peintre, joueurs de Molky, et même une école de danse profitant de la rambarde pour faire ses exercices. Pour encadrer le tout dans un contexte de sortie de crise sanitaire, des médecins affichaient des slogans en lien avec notre santé et celle du quartier.
 
 {{< gallery "photos" >}}
 

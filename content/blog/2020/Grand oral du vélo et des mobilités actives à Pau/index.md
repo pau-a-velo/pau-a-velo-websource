@@ -4,6 +4,7 @@ date: 2020-03-13T00:28:28+01:00
 author: "Julien Garnier"
 tags:
   - conférence
+  - municipales 2020
 ---
 
 Une semaine avant le 1er tour des municipale, Pau à Vélo a souhaité entendre l’ensemble des candidats à la mairie de Pau sur le sujet du systéme vélo. Comme cela s’est fait dans plusieurs agglomérations, les tetes de liste ont été invité à partager leur vision de la ville de Pau pour le prochain mandat à l’auditorium du Piano devant une centaine de spectateurs. Il était aussi possible de [suivre ce grand oral en live via la page facebook de l’association](https://www.facebook.com/pauaveloo/videos/201454514504711/).

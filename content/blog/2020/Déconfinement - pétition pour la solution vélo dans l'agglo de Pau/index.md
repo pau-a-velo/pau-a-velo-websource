@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "Déconfinement - pétition pour la solution vélo dans l'agglo de Pau"
 date: 2020-05-04T23:06:56+02:00
 author: "Hervé Laurent"

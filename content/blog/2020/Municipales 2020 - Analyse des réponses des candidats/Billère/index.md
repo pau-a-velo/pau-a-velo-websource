@@ -3,9 +3,13 @@ title: "Municipales à Billère - Analyse des réponses des candidats"
 date: 2020-03-11T23:04:29+01:00
 author: "Sébastien Lamy"
 tags:
+  - municipales 2020
+  - Billère
+aliases:
+    - /blog/2020/municipales-a-billere-analyse-des-reponses-des-candidats/
 ---
 
-Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à [notre questionnaire](https://municipales2020.parlons-velo.fr/q/25006). Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Mazères-Lezons sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25006).
+Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à notre questionnaire. Vous pouvez consulter les réponses intégrales des candidats, ainsi que notre manifeste pour cette ville sur [la page dédiée à Billère sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25006).
 
 ### Rencontre préalable et rédaction des réponses
 Les deux candidats ont pris le temps de nous recevoir pour écouter notre projet, et de répondre avec sérieux à notre questionnaire, nous les en remercions.

@@ -5,6 +5,8 @@ author: "Hervé Laurent"
 tags:
   - municipales 2020
   - Bizanos
+aliases:
+  - /blog/2020/municipales-a-bizanos-analyse-des-reponses-des-candidats/
 ---
 
 La liste de Jean-Louis Caldéroni, seule en lice, n’a pas daigné fournir une réponse dans les temps au questionnaire proposé par l’association Pau à Vélo.

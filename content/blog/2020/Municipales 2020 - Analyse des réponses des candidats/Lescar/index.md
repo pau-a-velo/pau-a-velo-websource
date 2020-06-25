@@ -1,13 +1,15 @@
 ---
 title: "Municipales à Lescar - Analyse des réponses des candidats"
-date: 2020-03-11T22:38:46+01:00
+date: 2020-03-11T19:38:46+01:00
 author: "Hervé Laurent"
 tags:
   - municipales 2020
   - Lescar
+aliases:
+  - /blog/2020/municipales-a-lescar-analyse-des-reponses-des-candidats/
 ---
 
-Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à notre questionnaire en ligne. Vous pouvez consulter notre manifeste et les réponses intégrales des candidats en bas de [la page dédiée à Lescar sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25205).
+Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à notre questionnaire. Vous pouvez consulter les réponses intégrales des candidats, ainsi que notre manifeste pour cette ville sur [la page dédiée à Lescar sur le site “Parlons Vélo”](https://municipales2020.parlons-velo.fr/e/25205).
 
 Les trois candidats à la Mairie de Lescar (Jérôme Mange, Valérie Revel et au dernier moment, Frédéric Lavigne) ont joué le jeu en indiquant leurs engagements pour les modes de déplacement actifs, avec quelques commentaires brefs mais suffisants pour montrer leur sincérité.
 

@@ -6,14 +6,16 @@ author: "Sébastien Lamy"
 tags:
   - municipales 2020
   - Pau
+aliases:
+  - /blog/2020/municipales-a-pau-analyse-des-reponses-des-candidats/
 ---
 
 
-Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à [notre questionnaire en ligne], en présentant à chaque fois en premier les candidats ayant les actes les plus favorables aux mobilités actives. Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Pau sur le site "Parlons Vélo"]. Pour mieux comprendre nos ambitions, consultez aussi [notre manifeste pour Pau], les images de cet article en sont extraites.
+Nous traitons ici les sujets qui font la différence entre les candidats ayant répondu à notre questionnaire, en présentant à chaque fois en premier les candidats ayant les actes les plus favorables aux mobilités actives. Vous pouvez consulter les réponses intégrales des candidats en bas de [la page dédiée à Pau sur le site "Parlons Vélo"]. Pour mieux comprendre nos ambitions, consultez aussi [notre manifeste pour Pau], les images de cet article en sont extraites.
 
 <!--more--> 
 
-### Rédactin et argumentation des réponses
+### Rédaction et argumentation des réponses
 
 M. Blanco, M. Bayrou, M. Marbot, et M. Bouzon se démarquent par un vrai travail de réponse avec analyse et commentaire de nos propositions, les réponses de M. Bartoloméo et de M. Damour manquent de commentaires et d'argumentations pour les apprécier pleinement. M. Marconi n'a pas répondu au questionnaire, nous ne pouvons analyser sa position dans cet article.
 
