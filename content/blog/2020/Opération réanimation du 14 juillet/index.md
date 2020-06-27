@@ -28,12 +28,14 @@ A delà de cette urgence, Pau à vélo propose que le pont du 14 juillet soit r�
 
 L’engouement pour l’usage du vélo, chaque jour grandissant, montre qu’au-delà des revendications de Pau à Vélo, la population ressent le besoin d’adopter des modes de déplacements plus vertueux et adaptés à la ville, et que les élus doivent aujourd’hui y répondre.
 
-<!--Revue de presse sur l'action: 
+### Revue de presse sur l'action: 
 * [Journal la république](https://www.larepubliquedespyrenees.fr/2020/06/24/pau-a-velo-prend-possession-du-pont-du-14-juillet,2711129.php)
-* [Journal Sud Ouest]()
-* [Radio France Bleue]()
-* [FR3 Pau Sud Aquitaine]()
--->
+* [Journal Sud Ouest](https://www.sudouest.fr/2020/06/23/pau-a-velo-animera-le-pont-du-14-juillet-ce-mercredi-apres-midi-7589679-4344.php)
+* [Radio France Bleue](france-bleue-25-juin.mp3)
+* FR3 Pau Sud Aquitaine
+
+{{< youtube "Y5ICMtAMhgg" >}}
+
 
 [1]:https://www.pau.fr/article/les-pistes-cyclables-allongees-et-securisees
 [2]:/blog/2020/dossier-deconfinement-transmis-a-m.-bayrou/#proposition-de-priorisation-des-rues-%C3%A0-am%C3%A9nager-temporairement
