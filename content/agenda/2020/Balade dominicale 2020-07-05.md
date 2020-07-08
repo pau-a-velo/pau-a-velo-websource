@@ -4,7 +4,7 @@ publishdate: 2020-07-02T22:11:48+02:00
 author: "Sébastien Lamy"
 date: 2020-07-05T10:00:00+02:00
 lieu: "Départ Square Aragon"
-horaire: 1Oh
+horaire: 10h
 header: "balade.png"
 tags:
   - balade
