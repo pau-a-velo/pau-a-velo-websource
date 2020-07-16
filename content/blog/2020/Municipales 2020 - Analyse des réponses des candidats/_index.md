@@ -1,6 +1,6 @@
 ---
 title: "Municipales 2020 - Analyse des réponses des candidats de l'agglo paloise"
-date: 2020-03-11T23:04:29+01:00
+date: 2020-03-11T23:48:29+01:00
 author: "Pau à Vélo"
 tags:
   - municipales 2020
