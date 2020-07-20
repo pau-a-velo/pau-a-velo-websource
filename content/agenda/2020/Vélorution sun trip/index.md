@@ -9,7 +9,7 @@ tags:
   - vélorution
 ---
 
-Cet année, le COVID a modifié l'itinéraire du [Sun Trip], une course en vélo solaire à travers le monde. Du coup, il y a une étape à Pau ! Le 28 juillet, les participants et leurs vélo solaires seront présent toute l'après midi au square Georges V. Le soir, ils nous accompagneront pour une vélorution[^1] à travers la ville !
+Cet année, le COVID a modifié l'itinéraire du [Sun Trip], une course en vélo solaire à travers le monde. Du coup, il y a une étape à Pau ! Le 28 juillet, les participants et leurs vélos solaires seront présents toute l'après midi au square Georges V. Le soir, ils nous accompagneront pour une vélorution[^1] à travers la ville !
 
 <!-- more -->
 
