@@ -3,7 +3,7 @@ title: "Hommage à Fabrice"
 publishdate: 2020-09-09T21:48:25+02:00
 author: "Sébastien Lamy"
 date: 2020-09-13T11:00:00+02:00
-lieu: "Départ au milieu de la rue Serviez"
+lieu: "Départ au milieu de la rue Serviez, Pau"
 horaire: 11h
 tags:
 ---
