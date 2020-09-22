@@ -6,37 +6,28 @@ header: "velo-ecole.jpg"
 tags:
 ---
 
-En partenariat avec [l'Atelier Vélo Participatif et solidaire][atelier], « Pau à Vélo » vous propose des cours pour apprendre à pédaler, mais aussi pour apprendre à circuler en ville.
+« Pau à Vélo », en partenariat avec [l'Atelier Vélo Participatif et solidaire][atelier], propose des cours de vélo. Plusieurs formateurs sont disponibles pour répondre à la variété des besoins :
 
-Une adhésion vous sera demandée auprès de l'association responsable du créneau 
-horaire que vous choisirez. **Tarif annuel 15  euros** pour une association,
- possibilité d'adhérer aux deux associations pour 1 euro de plus.
+* **Apprendre à pédaler**, pour ceux qui ne savent pas encore faire du vélo.
+* **Apprendre ou ré-apprendre à circuler en ville**, pour ceux qui savent déjà faire du vélo, mais ne sont pas à l'aise pour l'utiliser comme moyen de déplacement quotidien.
 
-### Apprendre à pédaler
+Les cours ont lieu **à la MJC Berlioz, au 84 avenue de Buros, à Pau**. 
 
-Pour les personnes qui ne savent pas encore faire du vélo, deux créneaux sont 
-disponibles, sur inscription préalable. Les cours sont annulés en cas de pluie 
-persistante. Il n'y a pas d'interruption spécifique aux vacances scolaires.
+* **Tous les mardi matins de 10h à 12h**
+* **Environ un samedi sur deux, de 14h30 à 16h**.   
+_Détail des dates le samedi pour 2020-2021_
+    * 3 et 17 octobre 2020
+    * 7 et 21 novembre 2020
+    * 5 et 19 décembre 2020
+    * 9 et 23 janvier 2021
+    * 6 et 27 février 2021
+    * 13 et 27 mars 2021
+    * 10 et 24 avril 2021
+    * 8 et 29 mai 2021
+    * 12 et 26 juin 2021
+    
 
-* **Le mardi 10h-12h à la MJC Berlioz, 84 av. de Buros, à Pau**.
-  Inscription auprès de Pau à Vélo (coordonnées [en bas de cette page]( #footer))
-* **Le mercredi 10h-12h derrière le Bel Ordinnaire, allée Montesquieu, à Billère**.
-  Incription auprès de [l'Atelier Vélo participatif et Solidaire][atelier]. <a href="tel:+33615502115" class="fas fa-phone-square">&nbsp;06 15 50 21 14 </a>&nbsp;&nbsp;&nbsp; <span class="fas fa-at"> ateliervelopau@gmail.com</span>
-
-
-
-
-
-### Apprendre à circuler
-
-Pour tous ceux qui souhaitent être plus à l'aise dans la circulation en ville,
-des sorties sur routes sont organisées toutes les semaines, sous réserve d'un
-nombre d'inscrits suffisant. Le matériel (vélo et casque) peut être fourni.
-
-* **Le mardi de 14h à 16h à la MJC Berlioz, 84 av. de Buros, à Pau**.
-
-Il est nécessaire de s'inscrire pour participer à ces sessions, contactez-nous
-aux coordonnées indiquées en [bas de page].
+**Il est nécessaire de s'inscrire pour participer aux cours**, contactez-nous aux coordonnées indiquées en [bas de page]. Il vous sera également demandé d'adhérer à notre association (**tarif annuel 15 euros**).
 
 
 [bas de page]: #footer
