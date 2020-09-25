@@ -6,6 +6,7 @@ author: "Sébastien Lamy"
 tags:
   - accident
   - hommage
+  - pont d'Espagne
 ---
 
 Plusieurs membres de notre association avaient eu l'occasion de fréquenter Guillaume, qui était président du MIPS Lab et portait un projet de cyclobus, pour lequel il avait obtenu le prix de l'innovation sociale en 2019 de la part de la Communauté d'Agglomération. 

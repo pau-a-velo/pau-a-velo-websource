@@ -9,7 +9,7 @@ tags:
   - vélorution
 ---
 
-Samedi 26 septembre, rendez-vous pour une déambulation festive et revendicative à vélo.
+Samedi 26 septembre, rendez-vous pour une déambulation festive et revendicative à vélo. N'oubliez pas votre masque, obligatoire en centre-ville, et qu'il faudra mettre au début du rassemblement.
 
 <!--more-->
 

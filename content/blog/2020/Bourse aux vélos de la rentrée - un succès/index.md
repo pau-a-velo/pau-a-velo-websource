@@ -1,7 +1,7 @@
 ---
 title: "Bourse aux vélos de la rentrée : un succès"
 date: 2020-09-20T21:29:10+02:00
-author: ""
+author: "Sébastien Lamy"
 tags:
   - animation
   - médias
@@ -18,6 +18,8 @@ déposés le matin.
 Presque tous ont trouvé un acheteur dans l'après-midi. La file
 pour accéder à l'espace d'exposition des vélos étaient impressionnante pendant
 la première heure, et les vélos sont vites partis.
+
+![](queue.jpg)
 
 ![](vente.jpg)
 
