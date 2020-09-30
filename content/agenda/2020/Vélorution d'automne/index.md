@@ -23,7 +23,7 @@ Ce début de mandat municipal, c'est aussi le bon moment pour que nos élus
 prennent des mesures fortes en faveur du déplacement à vélo, et nous souhaitons
 les encourager à le faire !
 
-Quelques percussionistes de "l'étoile métisse" seront là pour nous accompagner en musique au départ.
+Quelques percussionnistes de "l'étoile métisse" seront là pour nous accompagner en musique au départ.
 
 Viva la vélorution[^1] !
 
