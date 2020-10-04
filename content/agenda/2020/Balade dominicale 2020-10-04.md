@@ -10,8 +10,6 @@ tags:
   - balade
 ---
 
-Vous pouvez déjà réserver votre dimanche matin pour un moment agréable en vélo.
-Alexis sera présent pour vous accompagner sur une balade, prévoyez un pique-nique.
+**Pour des raison de météo, cette sortie est annulée et reportée à un autre dimanche**
 
-Si la météo n'est pas clémente, la sortie sera reportée, consultez ce site
-avant de vous rendre au rendez-vous, ou [abonnez vous à la lettre d'info ](https://framalistes.org/sympa/info/velo.info.pau) !
+Pour être tenu au courant, [abonnez vous à la lettre d'info ](https://framalistes.org/sympa/info/velo.info.pau), ou revenez régulièrement sur ce site.
