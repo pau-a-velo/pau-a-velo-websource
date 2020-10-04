@@ -4,7 +4,7 @@ publishdate: {{ .Date }}
 author: "Sébastien Lamy"
 date: {{ strings.TrimPrefix "Balade dominicale " .File.BaseFileName }}T10:00:00+02:00
 lieu: "Départ Square Aragon"
-horaire: 1Oh
+horaire: 10h
 header: "balade.png"
 tags:
   - balade

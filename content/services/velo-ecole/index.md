@@ -16,7 +16,7 @@ Les cours ont lieu **à la MJC Berlioz, au 84 avenue de Buros, à Pau**.
 * **Tous les mardi matins de 10h à 12h**
 * **Environ un samedi sur deux, de 14h30 à 16h**.   
 _Détail des dates le samedi pour 2020-2021_
-    * 3 et 17 octobre 2020
+    * 10 et 17 octobre 2020
     * 7 et 21 novembre 2020
     * 5 et 19 décembre 2020
     * 9 et 23 janvier 2021
