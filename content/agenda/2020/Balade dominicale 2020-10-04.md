@@ -10,8 +10,6 @@ tags:
   - balade
 ---
 
-**Pour des raison de météo, cette sortie est annulée et reportée à un autre dimanche**.
-
-Pour être tenu au courant, [abonnez vous à la lettre d'info](https://framalistes.org/sympa/info/velo.info.pau), ou revenez régulièrement sur ce site.
+**Pour des raison de météo, cette sortie est annulée et reportée à un autre dimanche**. Pour être tenu au courant, [abonnez vous à la lettre d'info](https://framalistes.org/sympa/info/velo.info.pau), ou revenez régulièrement sur ce site.
 
 <!--more-->

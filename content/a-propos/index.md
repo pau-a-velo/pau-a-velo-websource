@@ -112,9 +112,15 @@ par échanges de messages.
 
 <div class="pure-button-group" role="group">
   <a  class="pure-button pure-button-primary"
-      href="/ca/2019/#reunions">
-      Voir les dates et les<br/>
-      sujets des réunions
+      target="_blank"
+      href="https://framagenda.org/apps/calendar/p/nNgApqtBz78Nt7bp-cjAKBNinz6BHTomA-yqwANFrAETCr9XZf-gRxZeWnrabCQSZcN/dayGridMonth/now">
+      Voir l'agenda<br/>
+      des réunions
+  </a>
+  <a  class="pure-button pure-button"
+      href="/ca/2020/#reunions">
+      Voir le listing<br/>
+      des réunions
   </a>
 </div>
 
