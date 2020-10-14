@@ -21,7 +21,7 @@ Parce que la plupart des cyclistes délaissent le vélo dès les premières plui
 
 ### Règles du concours
 
-- Envoi de la photo des nouveaux équipements par message mail, facebook, instagram ou twitter (voir nos coordonnées en [bas de page](#footer)). Sauf demande contraire de votre part, nous publierons les photos sur nos médias Web, essayez qu'elle donnent envie aux autres cycliste de s'équiper aussi !
+- Envoi de la photo des nouveaux équipements par message mail, facebook, instagram ou twitter (voir nos coordonnées en [bas de page](#footer)). Sauf demande contraire de votre part, nous publierons les photos sur nos médias Web, essayez qu'elle donnent envie aux autres cyclistes de s'équiper aussi !
 - Conserver le(s) tickets de caisse/factures pour preuve d'achat datant du 15 octobre au 30 novembre 2020.
 - Habiter l'agglomération paloise.
 - Peu après le 30 novembre, tirage au sort des 10 personnes gagnantes. Le tirage au sort aura lieu publiquement. Pour chaque gagnant, Pau à vélo remboursera la facture, à hauteur de 50 euros maximum.
