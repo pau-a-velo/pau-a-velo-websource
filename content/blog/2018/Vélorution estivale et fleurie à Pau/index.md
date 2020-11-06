@@ -60,7 +60,7 @@ maire sous sa fenêtre :
 
 ![](mairie.jpg)
 
-Pau a été très mal classée au [baromètre des villes cyclables][] sorti ce
+Pau a été très mal classée au [barometre des villes cyclables][] sorti ce
 printemps (classement E : plutôt défavorable au vélo). Contrairement aux
 [engagements de campagne de M. Bayrou][], les aménagements cyclables existants
 ne sont pas entretenus ([engagement 5][] et [engagement 11][]), l'accès au
@@ -124,18 +124,20 @@ Après tout, on sait qu'il n'y a pas de mauvais temps, mais seulement de mauvais
 
 ![place et sécurité pour les vélos: changeons de braquet!](place_securite.jpg)
 
+
+[^1]: _Merci à tous ceux qui ont bloqué les intersections le temps que passe la vélorution !_
+
 [journalistes de "la rép"]: http://www.larepubliquedespyrenees.fr/2018/07/14/pau-une-velorution-joyeuse-mais-determinee,2385538.php
 [système vélo complet]: http://fr.forumviesmobiles.org/reperes/systeme-velo-12437
-[engagements de campagne de M. Bayrou]: {{< relref "Promesses vélo de M. Bayrou" >}}
-[engagement 5]: {{< relref "Promesses vélo de M. Bayrou#5-sécurisation-des-itinéraires-existants" >}}
-[engagement 11]: {{< relref "Promesses vélo de M. Bayrou#11-réfléchir-et-entretenir-les-aménagements-cyclables" >}}
-[engagement 6]: {{< relref "Promesses vélo de M. Bayrou#6-un-maillage-sécurisé-3-axes-cyclables-principaux-des-parcours-agréables-entre-quartiers" >}}
-[engagement 4]: {{< relref "Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
-[baromètre des villes cyclables]: {{< relref "/blog/2018/Résultats du baromètre des villes cyclables" >}}
+[engagements de campagne de M. Bayrou]: /blog/2018/promesses-velo-de-m.-bayrou
+[engagement 5]: /blog/2018/promesses-velo-de-m.-bayrou#5-sécurisation-des-itinéraires-existants
+[engagement 11]: /blog/2018/promesses-velo-de-m.-bayrou#11-réfléchir-et-entretenir-les-aménagements-cyclables
+[engagement 6]: /blog/2018/promesses-velo-de-m.-bayrou#6-un-maillage-sécurisé-3-axes-cyclables-principaux-des-parcours-agréables-entre-quartiers
+[engagement 4]: /blog/2018/promesses-velo-de-m.-bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr
+[barometre des villes cyclables]: /blog/2018/resultats-du-barometre-des-villes-cyclables
 [bouchons]: http://www.larepubliquedespyrenees.fr/2018/05/15/pau-des-embouteillages-monstres-ce-lundi-apres-midi,2343167.php
 [beaucoup moins cher]: https://alternatives-pyrenees.com/2018/05/25/il-faut-sauver-les-grands-prix-de-pau/
 [bike salute]: http://carfree.fr/index.php/2015/01/23/soulevez-votre-velo/
 [protesté contre cet abandon]: http://www.villepartage.com/2017/12/ville-partagee-et-pau-velo-face-face.html
 
 
-[^1]: _Merci à tous ceux qui ont bloqué les intersections le temps que passe la vélorution !_

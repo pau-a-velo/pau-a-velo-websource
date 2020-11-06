@@ -68,6 +68,6 @@ panne!
 [4]: {{< relref "/blog/2018/Passerelle courrier avant iNOguration" >}}
 [un dossier de projet]: {{< relref "/blog/2018/Nous avons exigé une passerelle accessible à tous" >}}docs/livret-projet.pdf
 [pannonceaux que nous proposons]: pau-a-velo-exclus-passerelle.pdf
-[5]: {{< relref "/blog/2018/Promesses vélo de M. Bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr" >}}
+[5]: /blog/2018/promesses-velo-de-m.-bayrou#4-les-aménagements-nouveaux-prendront-en-compte-vélos-et-pmr
 [6]: {{< relref "/blog/2017/Plan vélo-Consultation fantoche" >}}
 [le compte-rendu interne]: /ca/2018/réunions/2018-05-14-agglo-passerelle-bizanos-mazères-lezons-CR.pdf

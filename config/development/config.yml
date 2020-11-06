@@ -1,4 +1,5 @@
 disableKinds:
-  - "taxonomy"
+  - taxonomy
+  - term
   - "RSS"
 disableAliases: true

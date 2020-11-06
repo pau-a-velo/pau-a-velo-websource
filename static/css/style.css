@@ -815,6 +815,12 @@ article .content {
   font-size:1.1em;
   line-height:1.5;
 }
+article section.footnotes{
+  font-size:0.75em;
+  background:#eee;
+  padding:1em 1em 1em 0;
+  width: auto;
+}
 article .share{
   padding: 1em;
   color:#666;
@@ -880,7 +886,7 @@ article img{
   max-height: 680px;
 }
 article p>img {
-  display: block; 
+  display: block;
   margin: 0 auto;
 }
 
@@ -890,7 +896,7 @@ article p>img {
   position: relative;
   text-align: center;
 }
- 
+
 .iframe-container iframe {
    border: 0;
    height: 100%;
