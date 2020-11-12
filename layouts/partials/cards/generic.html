@@ -7,7 +7,7 @@
 <div class="card {{ cond (.page.Scratch.Get "hasImage") " with-image" "" }}">
 	{{ partialCached "cards/image.html" .page .page.Permalink }}
 	<div class="card-text">
-		{{ partial "cards/title.html" .page }}
+		{{ partialCached "cards/title.html" .page .page.Permalink }}
 		{{/* On ne met pas le résumé si on est dans les suggestions d'un autre article  */}}
 		{{ if .display_summary }}
 			{{ partialCached "cards/summary.html" .page .page.Permalink }}

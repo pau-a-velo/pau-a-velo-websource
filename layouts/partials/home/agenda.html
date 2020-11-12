@@ -9,10 +9,10 @@
     {{ $weighted_pages := where $pages "Weight" "!=" 0 -}}
     {{ $standard_pages := where $pages "Weight" 0 -}}
     {{ range $weighted_pages.ByWeight -}}
-        {{ partial "cards/event.html" . }}
+        {{ partialCached "cards/event.html" . .Permalink }}
     {{ end -}}
     {{ range $standard_pages.ByDate -}}
-        {{ partial "cards/event.html" . }}
+        {{ partialCached "cards/event.html" . .Permalink }}
     {{ end -}}
   {{ with not $pages -}}
     <div class="pure-u empty-label">

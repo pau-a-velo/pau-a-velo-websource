@@ -8,7 +8,7 @@
 			{{ $paginator := .Paginate $pages }}
 			{{ range $paginator.Pages }}
 				{{ if eq $.Section "agenda"}}
-					{{ partial "cards/event.html" . }}
+					{{ partialCached "cards/event.html" . .Permalink }}
 				{{ else }}
 					<div class="card-container pure-u-1 pure-u-md-1-2 pure-u-xl-1-3">
 						{{ partialCached "cards/generic.html" (dict "display_summary" true "page" .) .Permalink "true" }}
