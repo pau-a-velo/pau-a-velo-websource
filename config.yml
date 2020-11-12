@@ -41,7 +41,7 @@ pluralizeListTitles: false
 enableEmoji: true
 
 # Un timeout augmenté
-timeout: 30000
+timeout: 60000
 
 
 ## paramètre pour proposer du contenu en rapport avec l'article présenté

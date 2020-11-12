@@ -1,5 +1,5 @@
  {{ range (.Site.GetPage "section" "ca").Sections | first 1 }}
-    {{ partial "trombi" . }}
+    {{ partialCached "trombi.html" . .Title }}
     <div class="pure-button-group" role="group">
     <a  class="pure-button"
         href="/ca/">

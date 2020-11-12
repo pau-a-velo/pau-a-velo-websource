@@ -12,7 +12,7 @@
   {{ partial "home/services.html" . }}
   {{ partial "home/a-propos.html" . }}
 	</main>
-	{{ partial "footer.html" . }}
+	{{ partialCached "footer.html" . }}
   </div>
 </div>
 {{ end }}

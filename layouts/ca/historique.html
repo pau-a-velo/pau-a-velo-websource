@@ -8,7 +8,7 @@
         <h2 class="ca-title"><span class="year">{{ .Title }}</span></h2>
           <div class="ca-wrapper">
           <div class="ca">
-            {{ partial "trombi.html" . }}
+            {{ partialCached "trombi.html" . .Title }}
             <div style="padding:1em 0;">
             <a  class="pure-button pure-button-primary"
                 href="/ca/{{.Name}}#reunions">
@@ -19,5 +19,5 @@
           </div>
       {{ end }}
     </main>
-  {{ partial "footer.html" . }}
+  {{ partialCached "footer.html" . }}
 {{ end }}
