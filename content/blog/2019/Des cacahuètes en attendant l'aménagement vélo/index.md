@@ -59,4 +59,4 @@ de sud ouest], et [un sujet dans le journal de France 3 Pau sud Aquitaine].
 [notre recours juridique]: /blog/2018/bhns-recours-juridique-pour-lhypercentre/
 [un article de la République]: https://www.larepubliquedespyrenees.fr/2019/04/18/pau-le-carrefour-alsace-lorraine-va-etre-modifie-pour-les-cyclistes,2542958.php
 [un article de sud ouest]: https://www.sudouest.fr/2019/04/17/video-pau-carrefour-alsace-lorraine-le-velo-aura-plus-de-place-5999815-4344.php
-[un sujet dans le journal de France 3 Pau sud Aquitaine]: https://tubee.fr/videos/watch/9682ce8f-5bbc-4dee-87f7-7faa2737913e
+[un sujet dans le journal de France 3 Pau sud Aquitaine]: https://vimeo.com/479114301
