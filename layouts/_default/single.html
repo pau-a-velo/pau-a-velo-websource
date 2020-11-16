@@ -25,5 +25,5 @@
 		</article>
 	</main>
 	{{ partialCached "footer.html" . }}
-	{{ partialCached "single/gallery_script.html" . (or .Params.imageGroupClass "content") }}
+	{{ partial "single/gallery_script.html" . (or .Params.imageGroupClass "content") }}
 {{ end }}
