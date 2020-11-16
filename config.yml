@@ -58,3 +58,9 @@ related:
     - name: date
       weight: 10
       pattern: 2006
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
