@@ -33,7 +33,6 @@ Une copie de ce dossier a également été transmise à la presse locale, aux vi
 ### Vues virtuelles
 
 <div class="gallery">
-
 {{< image src="vues-virtuelles/pau-souvenir-francais-1-plan.png" caption="Pau plan proposé pour le rond-point du Souvenir Français (foire expo)" width="300" >}}
 {{< image src="vues-virtuelles/pau-souvenir-francais-vue.jpg" caption="Pau rond point du Souvenir Français (foire expo)" width="300" >}}
 {{< image src="vues-virtuelles/pau-gramont-pieton.jpg" caption="Pau place Gramont piétonne" width="300" >}}
@@ -62,7 +61,6 @@ Une copie de ce dossier a également été transmise à la presse locale, aux vi
 {{< image src="vues-virtuelles/jurancon-massenet-2-apres.jpg" caption="Jurançon rue Massenet après" width="300" >}}
 {{< image src="vues-virtuelles/lescar-rte-bayonne.jpg" caption="Lescar route de Bayonne" width="300" >}}
 {{< image src="vues-virtuelles/lons-rte-bayonne.jpg" caption="Lons route de Bayonne" width="300" >}}
-
 </div>
 
 ![](PAV-Bvd Tourasse APRES.jpg)
